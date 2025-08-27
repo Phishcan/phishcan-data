@@ -1,0 +1,254 @@
+2025-08-27 10:11:05,203 - INFO - Pre-compiling bank keyword and homoglyph regex patterns...
+2025-08-27 10:11:05,316 - INFO - Regex patterns compiled successfully.
+2025-08-27 10:11:05,316 - INFO - Starting Canadian bank phishing domain detection...
+2025-08-27 10:11:05,317 - INFO - Fetching phish.co.za domains data...
+2025-08-27 10:11:05,817 - INFO - Sending request to: https://phish.co.za/latest/phishing-domains-ACTIVE.txt
+2025-08-27 10:11:51,504 - INFO - phish.co.za domains: 462719 raw, 452625 processed, 103 phishing domains found
+2025-08-27 10:11:51,508 - INFO - Fetching phish.co.za links data...
+2025-08-27 10:11:52,009 - INFO - Sending request to: https://phish.co.za/latest/phishing-links-ACTIVE.txt
+2025-08-27 10:14:28,643 - INFO - phish.co.za links: 1274012 raw, 1250560 processed, 131 phishing domains found
+2025-08-27 10:14:28,648 - INFO - Fetching URLhaus data...
+2025-08-27 10:14:29,149 - INFO - Sending request to: https://urlhaus.abuse.ch/downloads/csv_recent/
+2025-08-27 10:14:29,739 - INFO - URLhaus: 21093 raw, 4006 processed, 0 phishing domains found
+2025-08-27 10:14:29,741 - INFO - Fetching Blackweb domains...
+2025-08-27 10:14:30,242 - INFO - Sending request to: https://raw.githubusercontent.com/maravento/blackweb/master/blackweb.tar.gz
+2025-08-27 10:20:37,740 - INFO - Blackweb: 5086616 raw, 5086365 processed, 82 phishing domains found
+2025-08-27 10:20:37,745 - INFO - Fetching Whoxy keyword domains...
+2025-08-27 10:20:38,246 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=rbc&mode=domains
+2025-08-27 10:20:43,895 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=td&mode=domains
+2025-08-27 10:20:44,559 - ERROR - Whoxy API error for keyword 'td': Unknown error
+2025-08-27 10:20:45,062 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=scotiabank&mode=domains
+2025-08-27 10:20:46,836 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=bmo&mode=domains
+2025-08-27 10:20:55,138 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=cibc&mode=domains
+2025-08-27 10:20:57,520 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=nbc&mode=domains
+2025-08-27 10:21:02,303 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=cwb&mode=domains
+2025-08-27 10:21:05,350 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=laurentian&mode=domains
+2025-08-27 10:21:07,090 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=equitable&mode=domains
+2025-08-27 10:21:08,939 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=tangerine&mode=domains
+2025-08-27 10:21:11,739 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=wealthsimple&mode=domains
+2025-08-27 10:21:12,863 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=simplii&mode=domains
+2025-08-27 10:21:14,089 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=desjardins&mode=domains
+2025-08-27 10:21:15,295 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=interac&mode=domains
+2025-08-27 10:21:25,436 - INFO - Whoxy: 117070 raw, 3656 processed, 3656 phishing domains found
+2025-08-27 10:21:25,436 - INFO - Whoxy API usage: 0 Whois queries, 14 Reverse Whois queries
+2025-08-27 10:21:25,948 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-id-verification.ca
+2025-08-27 10:21:27,882 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-getsupport.com
+2025-08-27 10:21:32,142 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibconlineidentityverificatoncn.info
+2025-08-27 10:21:38,553 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-officialweb.com
+2025-08-27 10:21:40,776 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbcroyalbank-ssl-verify.cfd
+2025-08-27 10:21:42,547 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-authorization.com
+2025-08-27 10:21:44,702 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-battery.ru
+2025-08-27 10:21:49,863 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-careers.online
+2025-08-27 10:21:54,026 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank-verifonline.com
+2025-08-27 10:21:55,729 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interactionoutreachnexus.online
+2025-08-27 10:22:00,775 - ERROR - Whoxy API error for domain 'interactionoutreachnexus.online': Unknown error
+2025-08-27 10:22:01,276 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=desjardins-autoverification.com
+2025-08-27 10:22:03,493 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank-fraudandscams.com
+2025-08-27 10:22:06,048 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=1services-bancaires-bmo.com
+2025-08-27 10:22:07,709 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbcroyalbankmobile-app.online
+2025-08-27 10:22:10,016 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbcroyalbank-accounts.site
+2025-08-27 10:22:12,227 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=easywb-td1auth.com
+2025-08-27 10:22:14,509 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cwb.website
+2025-08-27 10:22:16,616 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-deposits.online
+2025-08-27 10:22:20,426 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-damkirg.top
+2025-08-27 10:22:20,854 - ERROR - Whoxy API error for domain 'cibc-damkirg.top': Unknown error
+2025-08-27 10:22:21,356 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-control-via.online
+2025-08-27 10:22:23,028 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-vrfy-online-access-i.com
+2025-08-27 10:22:25,254 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-clients.com
+2025-08-27 10:22:27,341 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interactive-brokers.online
+2025-08-27 10:22:30,887 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-secure.info
+2025-08-27 10:22:35,462 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-onlines.com
+2025-08-27 10:22:37,961 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibconline-cibc1-security.com
+2025-08-27 10:22:39,671 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=equitablewellnesslearningsolutions.online
+2025-08-27 10:22:47,450 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-onlineclientapp.com
+2025-08-27 10:22:52,505 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-onlineclientapp.com
+2025-08-27 10:22:53,840 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-e-transfer-paymentrefund.com
+2025-08-27 10:22:55,183 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=desjardinsportailauthentification.online
+2025-08-27 10:23:00,204 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-security.net
+2025-08-27 10:23:02,820 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-verify-now.info
+2025-08-27 10:23:10,471 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-group.ru
+2025-08-27 10:23:12,754 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-secure-portal.info
+2025-08-27 10:23:18,517 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-secure2.com
+2025-08-27 10:23:20,775 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-mobileverification.online
+2025-08-27 10:23:23,283 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-promotion.info
+2025-08-27 10:23:31,167 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=nbc-startup-service.com
+2025-08-27 10:23:34,441 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-online-accesscard-activation.com
+2025-08-27 10:23:36,284 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=nbc-alerts.com
+2025-08-27 10:23:39,988 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=tangerine-wow.xyz
+2025-08-27 10:23:44,225 - ERROR - Whoxy API error for domain 'tangerine-wow.xyz': Unknown error
+2025-08-27 10:23:44,726 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-clients.com
+2025-08-27 10:23:48,346 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-myupdate.com
+2025-08-27 10:23:49,788 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-mil.info
+2025-08-27 10:23:54,480 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank.online
+2025-08-27 10:23:56,942 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-advocaten.online
+2025-08-27 10:23:58,695 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-2verification.online
+2025-08-27 10:24:13,230 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-2verification.online
+2025-08-27 10:24:17,153 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-online-app.com
+2025-08-27 10:24:19,674 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-globalservice.com
+2025-08-27 10:24:22,272 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-verifyaccount.com
+2025-08-27 10:24:24,555 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibconlinedepositnc-verifymyxc.info
+2025-08-27 10:24:29,527 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-online-restricted.com
+2025-08-27 10:24:30,879 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interactive-english-online-course.online
+2025-08-27 10:24:35,363 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-royalapp-verifydevices.com
+2025-08-27 10:24:36,882 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-services-internationaux.ca
+2025-08-27 10:24:39,278 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-transferweb.com
+2025-08-27 10:24:40,720 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-banking-restricted.com
+2025-08-27 10:24:42,394 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=simplii-online.click
+2025-08-27 10:24:43,620 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-overview-myonline.com
+2025-08-27 10:24:45,681 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-livesupport.com
+2025-08-27 10:24:47,936 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-id.digital
+2025-08-27 10:24:54,097 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cwb-accounts.com
+2025-08-27 10:25:01,291 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-verification-needed.info
+2025-08-27 10:25:06,932 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-authentic-restriction.com
+2025-08-27 10:25:09,173 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interactivebrokers-secure02.ink
+2025-08-27 10:25:10,929 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-verifynow-auth.com
+2025-08-27 10:25:13,231 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-mobile-alerts-banking.com
+2025-08-27 10:25:15,281 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-iaccess-auth.com
+2025-08-27 10:25:17,878 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank-fraudawareness.com
+2025-08-27 10:25:20,505 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-verify.info
+2025-08-27 10:25:25,505 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=tangerine-skyline.xyz
+2025-08-27 10:25:29,825 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank-reset-policyv-cad.com
+2025-08-27 10:25:31,149 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibc-mobile-online.com
+2025-08-27 10:25:33,506 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=scotiabank-supports.com
+2025-08-27 10:25:34,858 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibconline-cibc-login-online.com
+2025-08-27 10:25:37,509 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibcwallet-verificationteam.info
+2025-08-27 10:25:45,493 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=tangerine-skin.win
+2025-08-27 10:25:47,278 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interace-transferpay.online
+2025-08-27 10:25:49,314 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-vrfy-access.com
+2025-08-27 10:25:51,343 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbcroyalbank-identityconfirmation.com
+2025-08-27 10:25:54,168 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bmo-finance-secure-login.com
+2025-08-27 10:25:55,820 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rbc-marine.online
+2025-08-27 10:25:57,203 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interactivepsychologyservices.online
+2025-08-27 10:25:58,656 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interacessandrafreitasadv.online
+2025-08-27 10:26:00,377 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=cibcauthone-verif.info
+2025-08-27 10:26:05,897 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=interac-online.ca
+2025-08-27 10:26:07,179 - WARNING - Reached Whoxy query limit (100). Stopping reverse WHOIS.
+2025-08-27 10:26:07,180 - INFO - Whoxy API usage: 86 Whois queries, 14 Reverse Whois queries
+2025-08-27 10:26:07,182 - INFO - Total potential phishing domains gathered: 3830
+2025-08-27 10:26:07,185 - INFO - Threat feed saved to canadian_bank_phishing_domains.txt with 3830 domains
+2025-08-27 10:26:07,442 - INFO - Pre-compiling utility keyword and homoglyph regex patterns...
+2025-08-27 10:26:07,673 - INFO - Regex patterns compiled successfully.
+2025-08-27 10:26:07,673 - INFO - Starting Canadian utilities phishing domain detection...
+2025-08-27 10:26:07,674 - INFO - Fetching phish.co.za domains data...
+2025-08-27 10:26:08,175 - INFO - Sending request to: https://phish.co.za/latest/phishing-domains-ACTIVE.txt
+2025-08-27 10:27:05,991 - INFO - phish.co.za domains: 462719 raw, 452625 processed, 8 phishing domains found
+2025-08-27 10:27:05,995 - INFO - Fetching phish.co.za links data...
+2025-08-27 10:27:06,497 - INFO - Sending request to: https://phish.co.za/latest/phishing-links-ACTIVE.txt
+2025-08-27 10:30:25,231 - INFO - phish.co.za links: 1274012 raw, 1250559 processed, 10 phishing domains found
+2025-08-27 10:30:25,236 - INFO - Fetching URLhaus data...
+2025-08-27 10:30:25,737 - INFO - Sending request to: https://urlhaus.abuse.ch/downloads/csv_recent/
+2025-08-27 10:30:26,424 - INFO - URLhaus: 21096 raw, 4006 processed, 0 phishing domains found
+2025-08-27 10:30:26,426 - INFO - Fetching Blackweb domains...
+2025-08-27 10:30:26,927 - INFO - Sending request to: https://raw.githubusercontent.com/maravento/blackweb/master/blackweb.tar.gz
+2025-08-27 10:38:59,692 - INFO - Blackweb: 5086616 raw, 5086366 processed, 10 phishing domains found
+2025-08-27 10:38:59,696 - INFO - Fetching Whoxy keyword domains...
+2025-08-27 10:39:00,197 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=bchydro&mode=domains
+2025-08-27 10:39:01,577 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=manitobahydro&mode=domains
+2025-08-27 10:39:02,533 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=nbpower&mode=domains
+2025-08-27 10:39:03,384 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=novascotiapower&mode=domains
+2025-08-27 10:39:04,282 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=hydroone&mode=domains
+2025-08-27 10:39:05,390 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=hydroquebec&mode=domains
+2025-08-27 10:39:06,101 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=saskpower&mode=domains
+2025-08-27 10:39:06,853 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=fortisalberta&mode=domains
+2025-08-27 10:39:07,875 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=atcoelectric&mode=domains
+2025-08-27 10:39:08,711 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=epcor&mode=domains
+2025-08-27 10:39:09,477 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=newfoundlandpower&mode=domains
+2025-08-27 10:39:10,177 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=churchillfalls&mode=domains
+2025-08-27 10:39:10,895 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=alectra&mode=domains
+2025-08-27 10:39:11,687 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=torontohydro&mode=domains
+2025-08-27 10:39:13,308 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=maritimeelectric&mode=domains
+2025-08-27 10:39:14,332 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=summersideelectric&mode=domains
+2025-08-27 10:39:15,428 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=yukonenergy&mode=domains
+2025-08-27 10:39:16,157 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=atcoelectricyukon&mode=domains
+2025-08-27 10:39:17,210 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=ntpc&mode=domains
+2025-08-27 10:39:18,152 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=northlandutilities&mode=domains
+2025-08-27 10:39:18,923 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=qulliqenergy&mode=domains
+2025-08-27 10:39:23,014 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=rogers&mode=domains
+2025-08-27 10:39:31,526 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=bell&mode=domains
+2025-08-27 10:39:44,846 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=telus&mode=domains
+2025-08-27 10:39:46,668 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=shaw&mode=domains
+2025-08-27 10:39:59,206 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=videotron&mode=domains
+2025-08-27 10:40:00,020 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=freedommobile&mode=domains
+2025-08-27 10:40:00,781 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=fido&mode=domains
+2025-08-27 10:40:05,196 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=koodo&mode=domains
+2025-08-27 10:40:06,184 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=fizz&mode=domains
+2025-08-27 10:40:10,010 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=sasktel&mode=domains
+2025-08-27 10:40:10,775 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=cogeco&mode=domains
+2025-08-27 10:40:11,996 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=eastlink&mode=domains
+2025-08-27 10:40:12,842 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=xplornet&mode=domains
+2025-08-27 10:40:13,578 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=ciktelecom&mode=domains
+2025-08-27 10:40:14,311 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=execulink&mode=domains
+2025-08-27 10:40:15,368 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=wightman&mode=domains
+2025-08-27 10:40:16,218 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=tbaytel&mode=domains
+2025-08-27 10:40:17,249 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=phonebox&mode=domains
+2025-08-27 10:40:18,099 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=ssicanada&mode=domains
+2025-08-27 10:40:19,340 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=qiniq&mode=domains
+2025-08-27 10:40:20,971 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&reverse=whois&keyword=eeyou&mode=domains
+2025-08-27 10:40:21,272 - INFO - Whoxy: 150905 raw, 948 processed, 948 phishing domains found
+2025-08-27 10:40:21,272 - INFO - Whoxy API usage: 0 Whois queries, 42 Reverse Whois queries
+2025-08-27 10:40:21,783 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-espaceclient.com
+2025-08-27 10:40:23,662 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-plan.online
+2025-08-27 10:40:28,999 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-verification-support.net
+2025-08-27 10:40:37,323 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fizz.online
+2025-08-27 10:40:41,514 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-overcharges-clients.com
+2025-08-27 10:40:44,286 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-mobiles.ca
+2025-08-27 10:40:45,843 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-serviceswireless-ca.net
+2025-08-27 10:41:00,379 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-serviceswireless-ca.net
+2025-08-27 10:41:14,922 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-serviceswireless-ca.net
+2025-08-27 10:41:25,106 - ERROR - Unexpected error fetching Whoxy WHOIS for domain 'rogers-serviceswireless-ca.net': RetryError[<Future at 0x7fe3f4ae2940 state=finished raised ReadTimeout>]
+2025-08-27 10:41:25,608 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-secure-form.com
+2025-08-27 10:41:27,018 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-servicesnotice.com
+2025-08-27 10:41:28,361 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-secured.live
+2025-08-27 10:41:32,825 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-mobile-refund.com
+2025-08-27 10:41:34,455 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-account.ca
+2025-08-27 10:41:36,209 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-solutions-overdue-forward.com
+2025-08-27 10:41:37,785 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-mobile.info
+2025-08-27 10:41:42,180 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-spaceclient.com
+2025-08-27 10:41:43,499 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=videotron.support
+2025-08-27 10:41:49,161 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-validation.info
+2025-08-27 10:41:53,302 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-hlb.online
+2025-08-27 10:41:54,701 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-1webid.com
+2025-08-27 10:41:56,339 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=shaw-website.solutions
+2025-08-27 10:42:01,040 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-mobiles.com
+2025-08-27 10:42:02,722 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers5g-mobile1paymentacess.com
+2025-08-27 10:42:04,054 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-refund-service.com
+2025-08-27 10:42:06,443 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=shaw-digital.info
+2025-08-27 10:42:13,877 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-secure-online.net
+2025-08-27 10:42:15,248 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-refund-interac.services
+2025-08-27 10:42:19,924 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-secure1.com
+2025-08-27 10:42:21,278 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-mobile.com
+2025-08-27 10:42:23,995 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=freedommobile.online
+2025-08-27 10:42:27,817 - ERROR - Whoxy API error for domain 'freedommobile.online': Unknown error
+2025-08-27 10:42:28,319 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-secure-funds.net
+2025-08-27 10:42:29,488 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bellevue-wa-yard-services.info
+2025-08-27 10:42:34,255 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-idonline.com
+2025-08-27 10:42:35,898 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=hydroone-msk.ru
+2025-08-27 10:42:37,345 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=shawneearearidersassociation.online
+2025-08-27 10:42:38,577 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-acc1-login.com
+2025-08-27 10:42:40,387 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-solservices.com
+2025-08-27 10:42:41,776 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-updates.online
+2025-08-27 10:42:43,196 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-accountlogin.com
+2025-08-27 10:42:46,539 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-communitys.online
+2025-08-27 10:42:48,245 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=shaw-accounting.com
+2025-08-27 10:42:53,644 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=bellingham-wa-yard-services.info
+2025-08-27 10:42:58,606 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-refundmobile.com
+2025-08-27 10:42:59,776 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-3svbilling.info
+2025-08-27 10:43:04,358 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-tutoring.website
+2025-08-27 10:43:06,029 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=shaw-legal-services.com
+2025-08-27 10:43:07,872 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-et-portal.online
+2025-08-27 10:43:09,237 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-support.com
+2025-08-27 10:43:11,519 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-site1.online
+2025-08-27 10:43:12,949 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-consumer-body-account.net
+2025-08-27 10:43:14,512 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=fido-authenticator.net
+2025-08-27 10:43:16,627 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-livesupport.com
+2025-08-27 10:43:17,970 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-1clientpay.com
+2025-08-27 10:43:19,312 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=sasktel-store-personal-wireless.com
+2025-08-27 10:43:20,990 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-updates.com
+2025-08-27 10:43:22,529 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=telus-web.com
+2025-08-27 10:43:26,397 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-account-billing.online
+2025-08-27 10:43:27,704 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=rogers-verification-support.online
+2025-08-27 10:43:29,076 - INFO - Sending request to: https://api.whoxy.com/?key=f517008a4736124fxi8d95a73603c46a2&whois=hydroone-support.com
+2025-08-27 10:43:30,441 - WARNING - Reached Whoxy query limit (100). Stopping reverse WHOIS.
+2025-08-27 10:43:30,441 - INFO - Whoxy API usage: 58 Whois queries, 42 Reverse Whois queries
+2025-08-27 10:43:30,445 - INFO - Threat feed saved to canadian_utilities_phishing_domains.txt with 962 domains
+2025-08-27 10:43:30,445 - INFO - Completed. Total phishing domains found: 962
