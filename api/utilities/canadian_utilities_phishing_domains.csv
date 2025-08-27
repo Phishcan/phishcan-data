@@ -1,9 +1,9 @@
 domain,company,keyword,sector,description,score,riskLevel
-841932-sasktels.com,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",30,LOW
+841932-sasktels.com,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",100,HIGH
 alectra.online,Alectra Utilities,alectra,energy,"Phishing site impersonating Alectra Utilities",25,LOW
 bchydro-lajoie-interactive.com,BC Hydro,bchydro,energy,"Phishing site impersonating BC Hydro",50,MEDIUM
 bchydro.online,BC Hydro,bchydro,energy,"Phishing site impersonating BC Hydro",25,LOW
-bchydro-payment.com,BC Hydro,bchydro,energy,"Phishing site impersonating BC Hydro",40,MEDIUM
+bchydro-payment.com,BC Hydro,bchydro,energy,"Phishing site impersonating BC Hydro",100,HIGH
 bchydro.services,BC Hydro,bchydro,energy,"Phishing site impersonating BC Hydro",5,LOW
 bellacasarenovations-handymanservices.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",45,MEDIUM
 bellaire-houstontreeservice.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",25,LOW
@@ -18,18 +18,18 @@ bellevue-wa-yard-services.info,Bell Canada,bell,telecom,"Phishing site impersona
 belle-web.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",35,LOW
 bellezas-de-jalisco.online,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",45,MEDIUM
 bell-gardens-ca-yard-services.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",45,MEDIUM
-bell-ias.online,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",35,LOW
+bell-ias.online,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",100,HIGH
 bellingham-real-estate-online.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",25,LOW
 bellingham-wa-yard-services.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",45,MEDIUM
 bell-invoice-portal.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",40,MEDIUM
-bell-mobile.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",35,LOW
+bell-mobile.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",100,HIGH
 bell-mobile.live,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",15,LOW
 bell-mobilesupport.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",15,LOW
 bell-online.net,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",15,LOW
-bell-overpayment.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",60,MEDIUM
+bell-overpayment.info,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",100,HIGH
 bell-pottingerdigital.london,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",25,LOW
 bell-reset.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",40,MEDIUM
-bell-service.net,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",15,LOW
+bell-service.net,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",100,HIGH
 bell.services,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",5,LOW
 bell.support,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",5,LOW
 bell-support.com,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",15,LOW
@@ -51,7 +51,7 @@ eastlink-billingca.com,Eastlink,eastlink,telecom,"Phishing site impersonating Ea
 eastlink-billings.org,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
 eastlink-eusers.com,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
 eastlink-notice.org,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
-eastlink.online,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",25,LOW
+eastlink.online,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",100,HIGH
 eastlink-service.org,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
 eastlink.services,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",5,LOW
 eastlink.support,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",5,LOW
@@ -60,16 +60,16 @@ eastlink-support.com,Eastlink,eastlink,telecom,"Phishing site impersonating East
 eastlink-tech-support.com,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
 eastlink-users.com,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
 eastlink-users.online,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",35,LOW
-eastlink-web.com,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",15,LOW
+eastlink-web.com,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",100,HIGH
 eastlink.website,Eastlink,eastlink,telecom,"Phishing site impersonating Eastlink",5,LOW
 e-docs-bellaterracenursing.tk,Bell Canada,bell,telecom,"Phishing site impersonating Bell Canada",45,MEDIUM
 eeyou-services.com,Eeyou Communications,eeyou,telecom,"Phishing site impersonating Eeyou Communications",15,LOW
-epcor-account.com,EPCOR,epcor,energy,"Phishing site impersonating EPCOR",40,MEDIUM
+epcor-account.com,EPCOR,epcor,energy,"Phishing site impersonating EPCOR",100,HIGH
 epcor-billing.com,EPCOR,epcor,energy,"Phishing site impersonating EPCOR",15,LOW
 execulink.online,Execulink Telecom,execulink,telecom,"Phishing site impersonating Execulink Telecom",25,LOW
 fido-2billingservice.info,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
 fido-3svbilling.info,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
-fido611-compte.online,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
+fido611-compte.online,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-8dsbilling.info,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
 fido-accessories.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-accountbilling.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
@@ -109,7 +109,7 @@ fido.digital,Fido,fido,telecom,"Phishing site impersonating Fido",5,LOW
 fido-digital.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-easylogin.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-e-transfer.info,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
-fido-e-transfer-secure.com,Fido,fido,telecom,"Phishing site impersonating Fido",50,MEDIUM
+fido-e-transfer-secure.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-infobilling.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-info-personnel.online,Fido,fido,telecom,"Phishing site impersonating Fido",45,MEDIUM
 fido-informationbilling.com,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
@@ -134,7 +134,7 @@ fido-mobile.xyz,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
 fido-mobilityaccount-5g.net,Fido,fido,telecom,"Phishing site impersonating Fido",50,MEDIUM
 fido-mobilityservices-overview.net,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
 fido-myaccount.app,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-myaccountapp.ltd,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
+fido-myaccountapp.ltd,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-myaccount.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-myaccountovercharge2019.info,Fido,fido,telecom,"Phishing site impersonating Fido",85,HIGH
 fido-myservice.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
@@ -154,17 +154,17 @@ fido-payments.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-petservice.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-portal.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-portalinc.org,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-rebate-icc.site,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
-fido-rebate-return.site,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
+fido-rebate-icc.site,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
+fido-rebate-return.site,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-refund.online,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
 fido-refundsecure75.info,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
 fido-refundservice.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-secure1.online,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
 fido-secure.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-secured.live,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
+fido-secured.live,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-secured.online,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
-fido-secureintl-ca.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-secure.online,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
+fido-secureintl-ca.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
+fido-secure.online,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-secure-refund75.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
 fido-security-center.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-security.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
@@ -175,7 +175,7 @@ fido-servicedesk.org,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-service-mobilepay.com,Fido,fido,telecom,"Phishing site impersonating Fido",50,MEDIUM
 fido-service-overview.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido.services,Fido,fido,telecom,"Phishing site impersonating Fido",5,LOW
-fido-services.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
+fido-services.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-servicesnotice.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-servicesolcom.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-servicesrefunds.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
@@ -183,7 +183,7 @@ fido-site1.online,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
 fido-solservices.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fidosolution-annualbilling.site,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
 fido-solution-notice.net,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
-fido-solutions.online,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
+fido-solutions.online,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-solutions-overdue-forward.com,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
 fido-solutions-overdue-forward.site,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
 fido-solutions-overdue-redirect.com,Fido,fido,telecom,"Phishing site impersonating Fido",25,LOW
@@ -194,7 +194,7 @@ fido.support,Fido,fido,telecom,"Phishing site impersonating Fido",5,LOW
 fido-support.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-support.icu,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-support.info,Fido,fido,telecom,"Phishing site impersonating Fido",35,LOW
-fido-supportmobile.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
+fido-supportmobile.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-support-mobility.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-supportmobility.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-support.net,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
@@ -210,11 +210,11 @@ fido-updates.online,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDI
 fido-updates.top,Fido,fido,telecom,"Phishing site impersonating Fido",60,MEDIUM
 fido-verification1.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-verification.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
-fido-verifications.live,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
+fido-verifications.live,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido-verifications.net,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-verify-account.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-verify-refund.com,Fido,fido,telecom,"Phishing site impersonating Fido",40,MEDIUM
-fido-webpage.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
+fido-verify-refund.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
+fido-webpage.com,Fido,fido,telecom,"Phishing site impersonating Fido",100,HIGH
 fido.website,Fido,fido,telecom,"Phishing site impersonating Fido",5,LOW
 fido-wireless-mobile.com,Fido,fido,telecom,"Phishing site impersonating Fido",15,LOW
 fido-wirelessrefundclient65.com,Fido,fido,telecom,"Phishing site impersonating Fido",50,MEDIUM
@@ -236,11 +236,11 @@ fizz-web.com,Fizz,fizz,telecom,"Phishing site impersonating Fizz",15,LOW
 freedommobile-account.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",40,MEDIUM
 freedommobile-cashbackonline.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",25,LOW
 freedommobile-clientcare.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",25,LOW
-freedommobile-credit.info,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",35,LOW
+freedommobile-credit.info,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",100,HIGH
 freedommobile-credit.ru,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",15,LOW
 freedommobile-deposit-funds.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",50,MEDIUM
 freedommobile-gift.info,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",35,LOW
-freedommobile-giftpay.info,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",70,HIGH
+freedommobile-giftpay.info,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",100,HIGH
 freedommobile-lnterac-payment.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",50,MEDIUM
 freedommobile-login.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",40,MEDIUM
 freedommobile-myaccount.com,Freedom Mobile,freedom,telecom,"Phishing site impersonating Freedom Mobile",50,MEDIUM
@@ -283,7 +283,7 @@ hydroone-payments.com,Hydro One,hydroone,energy,"Phishing site impersonating Hyd
 hydroone-penza.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-perm.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-pskov.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
-hydroone-rates.online,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",35,LOW
+hydroone-rates.online,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",100,HIGH
 hydroone-rostov.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-ryazan.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-samara.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
@@ -304,10 +304,10 @@ hydroone-volgograd.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hyd
 hydroone-vologda.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-voronezh.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
 hydroone-yaroslavl.ru,Hydro One,hydroone,energy,"Phishing site impersonating Hydro One",15,LOW
-hydroqc.online,Unknown Utility,unknown,unknown,"Phishing site (utility, unknown target)",25,LOW
-hydroquebec-aideservice.com,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",25,LOW
+hydroqc.online,Unknown Utility,unknown,unknown,"Phishing site (utility, unknown target)",100,HIGH
+hydroquebec-aideservice.com,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",100,HIGH
 hydroquebec-client.com,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",15,LOW
-hydroquebec-client.info,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",35,LOW
+hydroquebec-client.info,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",100,HIGH
 hydroquebec.online,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",25,LOW
 hydroquebec-online.com,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",15,LOW
 hydroquebec.services,Hydro-Québec,hydroquebec,energy,"Phishing site impersonating Hydro-Québec",5,LOW
@@ -318,20 +318,20 @@ koodo-mobile.club,Koodo,koodo,telecom,"Phishing site impersonating Koodo",15,LOW
 koodo-mobile.com,Koodo,koodo,telecom,"Phishing site impersonating Koodo",15,LOW
 koodo-mobile-support.com,Koodo,koodo,telecom,"Phishing site impersonating Koodo",15,LOW
 koodo.online,Koodo,koodo,telecom,"Phishing site impersonating Koodo",25,LOW
-koodo-online.com,Koodo,koodo,telecom,"Phishing site impersonating Koodo",15,LOW
+koodo-online.com,Koodo,koodo,telecom,"Phishing site impersonating Koodo",100,HIGH
 koodo-telussupportcenter.com,Koodo,koodo,telecom,"Phishing site impersonating Koodo",25,LOW
 koodo.website,Koodo,koodo,telecom,"Phishing site impersonating Koodo",5,LOW
 manitobahydro.online,Manitoba Hydro,manitobahydro,energy,"Phishing site impersonating Manitoba Hydro",25,LOW
-manitobahydro-payment.com,Manitoba Hydro,manitobahydro,energy,"Phishing site impersonating Manitoba Hydro",40,MEDIUM
-maritimeelectric.online,Maritime Electric,maritimeelectric,energy,"Phishing site impersonating Maritime Electric",25,LOW
-notice-videotron.com,Videotron,videotron,telecom,"Phishing site impersonating Videotron",15,LOW
-novascotiapower-alert.com,Unknown Utility,unknown,unknown,"Phishing site (utility, unknown target)",15,LOW
+manitobahydro-payment.com,Manitoba Hydro,manitobahydro,energy,"Phishing site impersonating Manitoba Hydro",100,HIGH
+maritimeelectric.online,Maritime Electric,maritimeelectric,energy,"Phishing site impersonating Maritime Electric",100,HIGH
+notice-videotron.com,Videotron,videotron,telecom,"Phishing site impersonating Videotron",100,HIGH
+novascotiapower-alert.com,Unknown Utility,unknown,unknown,"Phishing site (utility, unknown target)",100,HIGH
 ntpc-career.online,Northwest Territories Power Corporation,ntpc,energy,"Phishing site impersonating Northwest Territories Power Corporation",35,LOW
 ntpc.online,Northwest Territories Power Corporation,ntpc,energy,"Phishing site impersonating Northwest Territories Power Corporation",25,LOW
 ntpc.website,Northwest Territories Power Corporation,ntpc,energy,"Phishing site impersonating Northwest Territories Power Corporation",5,LOW
 phonebox-mobiles.com,PhoneBox Canada,phonebox,telecom,"Phishing site impersonating PhoneBox Canada",15,LOW
 phonebox-mobiles.net,PhoneBox Canada,phonebox,telecom,"Phishing site impersonating PhoneBox Canada",15,LOW
-phonebox.online,PhoneBox Canada,phonebox,telecom,"Phishing site impersonating PhoneBox Canada",25,LOW
+phonebox.online,PhoneBox Canada,phonebox,telecom,"Phishing site impersonating PhoneBox Canada",100,HIGH
 phonebox-service.de,PhoneBox Canada,phonebox,telecom,"Phishing site impersonating PhoneBox Canada",15,LOW
 rogers-1account-bill.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers1-devicesteamapp-mobile.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
@@ -342,7 +342,7 @@ rogers-1mobile-bill.com,Rogers Communications,rogers,telecom,"Phishing site impe
 rogers-1mobile-simappeal.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers1-wireless5g-services-ca.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-2mobility-authsim.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
-rogers-514message.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-514message.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-5gaccount.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers5g-accountupdate-bill.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers5g-client1billpayment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
@@ -362,7 +362,7 @@ rogers-access1login.com,Rogers Communications,rogers,telecom,"Phishing site impe
 rogers-access1.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-access1paymentbill.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-accessappeal-ca.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-access.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-access.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-accessories.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-accesspay-mobile.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-account1login.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
@@ -370,8 +370,8 @@ rogers-account-access.com,Rogers Communications,rogers,telecom,"Phishing site im
 rogers-accountants.co.uk,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-account-arrangements.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-account-billing.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
-rogers-account.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-account.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-account.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-account.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-account.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
 rogers-accounting.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-account-login.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
@@ -380,9 +380,9 @@ rogers-account-management.com,Rogers Communications,rogers,telecom,"Phishing sit
 rogers-account-management.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
 rogers-account.mobi,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-accounts.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-account-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
+rogers-account-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-account-support.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
-rogers-account.xyz,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
+rogers-account.xyz,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogersacc-services-overview.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-active5g.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-admin-billingdashboard.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
@@ -393,7 +393,7 @@ rogers-airservices.com,Rogers Communications,rogers,telecom,"Phishing site imper
 rogers-alert.co,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-alerts.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-auth.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-authentication.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-authentication.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-author-site.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-bc.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-bill-1account.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
@@ -402,24 +402,24 @@ rogers-bill-arrangement.online,Rogers Communications,rogers,telecom,"Phishing si
 rogers-billing1dashboard.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-billing-account.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
 rogers-billing.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-billing-cycle-ca.digital,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
+rogers-billing-cycle-ca.digital,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-billing.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-billing.link,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-billing.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-billingreview.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-billing.link,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-billing.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-billingreview.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-billing.site,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-billingsuppor1t-ca.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-billing.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-billing.top,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-billing.top,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-billreview.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-billsupport.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-billsupport.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-canada-2fa-update.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-canada-payment.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
 rogers-ca.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogerscaregivingservices.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-carrierservices.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-carriersupport.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-ca.website,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-ca.website,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-chatr.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-chekup1.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogerscitizensalliancegroup.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
@@ -428,11 +428,11 @@ rogers-clan-website.com,Rogers Communications,rogers,telecom,"Phishing site impe
 rogers-client2018.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",30,LOW
 rogers-client.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-clientmobi-services.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-clients.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-communication.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
+rogers-clients.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-communication.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogerscommunications-login.xyz,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
-rogerscommunications-secure.icu,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
-rogers-compte-enligne1.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
+rogerscommunications-secure.icu,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-compte-enligne1.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-comunicationsupdates.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-comunnication-account.icu,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-confirmation.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -444,8 +444,8 @@ rogers-consumerprofile-signin.net,Rogers Communications,rogers,telecom,"Phishing
 rogers-county-divorce-lawyer.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-county.web.id,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-creative.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-customer-service.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-customer-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
+rogers-customer-service.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-customer-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-customerservice.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-designs.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-desk-devicesupport.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
@@ -455,7 +455,7 @@ rogers.digital,Rogers Communications,rogers,telecom,"Phishing site impersonating
 rogers-digital.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-discount.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-easyweb1fix.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-ebankonline.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-ebankonline.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-egift-billreturn.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
 rogers-esecure.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
 rogers-espaceclient.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -471,11 +471,11 @@ rogers-harleydavidson-service.nl,Rogers Communications,rogers,telecom,"Phishing 
 rogers-hire.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-hlb.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogersinc-login.xyz,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
-rogers-inc.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-info.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-inc.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-info.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-instantverification.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-integratori.website,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-interac-secure.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-interac-secure.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-interacsupport.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-internet5g-update.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogersiphoningandplumbing.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
@@ -497,19 +497,19 @@ rogers-mobile1-account.com,Rogers Communications,rogers,telecom,"Phishing site i
 rogers-mobile-1account.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-mobile1-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mobile5g-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-mobilebill.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-mobile.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-mobilebill.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-mobile.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-mobile.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-mobile.link,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-mobile-login.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-mobile.me,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
+rogers-mobile.me,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-mobile.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-mobile.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogersmobile-onlinereturn94.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mobile.org,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-mobile-overprice.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mobile-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-mobilepayment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-mobilepayment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-mobileprotection.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogersmobilereference5canada.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-mobile-refund.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
@@ -531,13 +531,13 @@ rogers-mobilitysim-account.net,Rogers Communications,rogers,telecom,"Phishing si
 rogers-mobility-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mobilitysupport.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-monservice.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-myaccess-profile.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-myact1.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-myaccess-profile.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-myact1.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-mybillinginfo-en.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mylogin-mobile.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-mymobile-overview1.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-mypayment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-offers-monthlyplansoffers.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-offers-monthlyplansoffers.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
 rogers-onelogin.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-online-1access.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-online.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -553,22 +553,22 @@ rogers-payment1access.com,Rogers Communications,rogers,telecom,"Phishing site im
 rogers-payment1bill-access.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-payment1mobility5g.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-payment-alert.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-paymentlogin.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-paymentlogin.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-paymentlogin.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
 rogers-payment.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-paymentrecovery.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-paymentrecovery.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
-rogers-paymentupdate.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-paymentupdate.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-pay-mobile.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-planservices-app.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-plansupport-app.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-promo.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-rcinotice.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-refundnotice.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-refundnotice.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-refund-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-refundservice.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-refundservices.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-refundservices.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-refunds-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogersresidentialconstruct.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-saving-autopayment.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",70,HIGH
@@ -578,21 +578,21 @@ rogers-secure-account.info,Rogers Communications,rogers,telecom,"Phishing site i
 rogers-secure.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secure.co,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secured2023.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",55,MEDIUM
-rogers-securedeposit.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-securedeposit.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-secured-online.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-secured-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-secured-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
 rogers-secure-finds.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secure-finds.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secure-funds.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secure-funds.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-secure.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
-rogers-secure.live,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-secure.live,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-secure.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-secure.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
+rogers-secure.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-secure-online.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-securepayment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-secure.pro,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
-rogers-secure.site,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-secure.pro,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
+rogers-secure.site,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-secure.tech,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-security.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-security.link,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -609,7 +609,7 @@ rogers-service-group.com,Rogers Communications,rogers,telecom,"Phishing site imp
 rogers-serviceinterac.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-servicemobile.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-service.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
-rogers-service-refund.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-service-refund.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-servicerefund.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers.services,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",5,LOW
 rogers-services.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -623,7 +623,7 @@ rogers-spencer.accountants,Rogers Communications,rogers,telecom,"Phishing site i
 rogersstinsonphotography.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-strong.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-submit-card-info.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
-rogers.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",5,LOW
+rogers.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-support1page3.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-support1pay.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -631,11 +631,11 @@ rogers-support-deskmobi.net,Rogers Communications,rogers,telecom,"Phishing site 
 rogers-supportfunds.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-support-hotline.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-support-id.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-support.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-support.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-supportlive.help,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-support-mobility.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-support.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-support.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-support.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-support.org,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-supportrefund.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
 rogers-supports.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
@@ -644,7 +644,7 @@ rogers-support.tech,Rogers Communications,rogers,telecom,"Phishing site imperson
 rogers-supportwireless.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-support-wireless.support,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-supportwlreless.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
-rogers-tech.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-tech.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-tech-support.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-test.website,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
 rogers-turtles.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
@@ -655,10 +655,10 @@ rogers-updates.com,Rogers Communications,rogers,telecom,"Phishing site impersona
 rogers-updates.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",60,MEDIUM
 rogers-validation.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-verification.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",15,LOW
-rogers-verification.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
+rogers-verification.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-verification-support.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-verification-support.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
-rogers-verify.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",40,MEDIUM
+rogers-verify.ca,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogers-view1billingmy-app.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-viewmyapp-billing.net,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-vincenthomeforwaywardspirits.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
@@ -673,7 +673,7 @@ rogers-wireless1login.com,Rogers Communications,rogers,telecom,"Phishing site im
 rogerswireless-accountbalance.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogerswirelessonline-web1.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
 rogerswirelessonline-web2.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
-rogers-wireless-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",50,MEDIUM
+rogers-wireless-payment.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",100,HIGH
 rogerswirelessrogers.online,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",35,LOW
 rogers-wireless-service.com,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",25,LOW
 rogers-wireless-service.info,Rogers Communications,rogers,telecom,"Phishing site impersonating Rogers Communications",45,MEDIUM
@@ -687,11 +687,11 @@ sasktel-fund.online,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel
 sasktel-mobile.online,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",35,LOW
 sasktel-store-browse-personal-wireless.com,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",25,LOW
 sasktel-store-personal-wireless.com,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",25,LOW
-sasktel.website,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",100,HIGH
+sasktel.website,SaskTel,sasktel,telecom,"Phishing site impersonating SaskTel",5,LOW
 shaw-accounting.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",40,MEDIUM
 shaw-auth.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",40,MEDIUM
-shaw-brooks.online,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",35,LOW
-shaw-ca-service.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
+shaw-brooks.online,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",100,HIGH
+shaw-ca-service.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",100,HIGH
 shaw-demo.online,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",35,LOW
 shaw.digital,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",5,LOW
 shaw-digital.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
@@ -738,7 +738,7 @@ shaw-tech-support.com,Shaw Communications,shaw,telecom,"Phishing site impersonat
 shaw-update.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",40,MEDIUM
 shaw-usermanage.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 shaw-username.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
-shaw-userpanel.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
+shaw-userpanel.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",100,HIGH
 shaw-users.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 shaw-verify.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",40,MEDIUM
 shaw-web.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
@@ -748,7 +748,7 @@ shaw-webdesigns.mobi,Shaw Communications,shaw,telecom,"Phishing site impersonati
 shaw-webdesigns.xyz,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",35,LOW
 shaw-webhosting.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 shaw-webhosting.net,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
-shaw-webmail.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
+shaw-webmail.com,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",100,HIGH
 shaw-webmail.net,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 shaw-webmail.org,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 shaw-webmail.site,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
@@ -759,24 +759,24 @@ shaw-web-studio.com,Shaw Communications,shaw,telecom,"Phishing site impersonatin
 shaw-web.uk,Shaw Communications,shaw,telecom,"Phishing site impersonating Shaw Communications",15,LOW
 telus-1clientpay.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-1payment.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-1paymentfailed.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
-telus-1webid.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-1paymentfailed.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-1webid.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus5-i1te3rac.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-access.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-access.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-account.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-account.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-account.online,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-account-payment.top,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
+telus-account-payment.top,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-accountreview.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-accounts.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-accountsidv.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-account.site,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-account.site,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-accounts.online,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-accounts.website,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-accounts.website,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-app-support.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-assistance-center.online,SSi Canada,ssi,telecom,"Phishing site impersonating SSi Canada",45,MEDIUM
-telus-assistance-client.one,SSi Canada,ssi,telecom,"Phishing site impersonating SSi Canada",25,LOW
-telus-auth.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-assistance-client.one,SSi Canada,ssi,telecom,"Phishing site impersonating SSi Canada",100,HIGH
+telus-auth.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-billing1.info,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-billingcharges.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-billing.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
@@ -788,40 +788,40 @@ telus-billing.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-billing.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-billingrefund.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-billpayment.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-billpayments.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
-telus-bill-update.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-billpayments.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-bill-update.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-bill.xyz,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 teluscanadarefundsupport.online,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-carrierbilling.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-client.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-carrierbilling.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-client.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-client.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-client-overcharge.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-client-overcharges.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-clients.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-clients.org,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-clients.org,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-clients-overcharge.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-clients-overcharges.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-communication.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
 telus-communications.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
 telus-communitys.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 teluscompensationsession.online,SSi Canada,ssi,telecom,"Phishing site impersonating SSi Canada",35,LOW
-telus-credit.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus-customersupport.ca,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-credit.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-customersupport.ca,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-data.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-desactivatedaccount.com,Telus,telus,telecom,"Phishing site impersonating Telus",50,MEDIUM
 telus-dify.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus.digital,Telus,telus,telecom,"Phishing site impersonating Telus",5,LOW
+telus.digital,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-digital-access-verification.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-digital.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-ebillmangement.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-errorcredit.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
+telus-errorcredit.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-et-portal.online,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-etransfer-auth.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-etransfer.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus-facture.website,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-etransfer-auth.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-etransfer.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-facture.website,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-fraudlentteam.services,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-fraudprotection.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telushelp247-departmentbillingcan.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
+telushelp247-departmentbillingcan.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-help-center.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-home-security-devices.de,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
 telus-idclient.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
@@ -831,18 +831,18 @@ telus-inactivity-login.com,Telus,telus,telecom,"Phishing site impersonating Telu
 telus-intercmoblieverify.info,Telus,telus,telecom,"Phishing site impersonating Telus",70,HIGH
 telus-intercverifymoblie.com,Telus,telus,telecom,"Phishing site impersonating Telus",50,MEDIUM
 telusinternationalphilippines.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus-login.top,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
+telus-login.top,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-manage.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telusmobile-ccsupport.info,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
+telusmobile-ccsupport.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mobile.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobile-help.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobile-help.website,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobile.info,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-mobile.me,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobile.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telusmobile-operator.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
-telus-mobiles.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telusmobile-secure.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
+telusmobile-operator.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-mobiles.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telusmobile-secure.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mobiles.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobilety.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobilewireless.info,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
@@ -851,30 +851,30 @@ telus-mobility12.online,Telus,telus,telecom,"Phishing site impersonating Telus",
 telus-mobility-account.com,Telus,telus,telecom,"Phishing site impersonating Telus",50,MEDIUM
 telusmobilitybillsupport.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-mobility-clients.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
-telusmobility-cloudservice.info,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
+telusmobility-cloudservice.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mobility-corporate-plans-72621.de,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-mobility-corporate-plans-85027.de,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-mobility.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telusmobility-onlinereturn94.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
-telus-mobility-payments.com,Telus,telus,telecom,"Phishing site impersonating Telus",50,MEDIUM
+telus-mobility-payments.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mobility-services.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
-telusmobility-services.info,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
+telusmobility-services.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mobility.support,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-mobility-support.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
-telusmobility-update.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
+telusmobility-update.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telusmobilty-accounts.online,Telus,telus,telecom,"Phishing site impersonating Telus",70,HIGH
-telus-mob.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
+telus-mob.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-myaccess.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-myaccount.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-mybilling.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-mybillings.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-mybillpayment.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-mybillpayments.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-mylogin1.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-mybilling.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-mybillings.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-mybillpayment.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-mybillpayments.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-mylogin1.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-mypayclient.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-myservices.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-national.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus.online,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
+telus.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-online.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-onlineconnect.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-orderconfirmation.com,Telus,telus,telecom,"Phishing site impersonating Telus",25,LOW
@@ -886,24 +886,24 @@ telus-payaccount.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,
 telus-paybilling.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-paybillings.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-payclient.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-payment.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-payment.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-paymentfailed.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-paymentonline.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-payment-refund.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-plan.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-plans.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-portal.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-portalgate.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-profil-support.top,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
+telus-portalgate.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-profil-support.top,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-promotions.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-refund-interac.services,Telus,telus,telecom,"Phishing site impersonating Telus",50,MEDIUM
-telus-refundmobile.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telusreview-secured.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telusreview-secured.site,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-refundmobile.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telusreview-secured.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telusreview-secured.site,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-safe-funds.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-safety-center.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
-telus-secure-acess.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
-telus-secure-acess.net,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-safety-center.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-secure-acess.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-secure-acess.net,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-secure.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-secure-form.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-secure-funds.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
@@ -911,10 +911,10 @@ telus-secure-funds.net,Telus,telus,telecom,"Phishing site impersonating Telus",4
 telus-securemobility.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-secure.net,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-secure.online,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-securepayment.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
-telus-securepayments.info,Telus,telus,telecom,"Phishing site impersonating Telus",60,MEDIUM
+telus-securepayment.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-securepayments.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus.security,Telus,telus,telecom,"Phishing site impersonating Telus",5,LOW
-telus-security.ca,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
+telus-security.ca,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-security-center.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
 telus-security.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-secverify.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
@@ -930,12 +930,12 @@ telus-support.info,Telus,telus,telecom,"Phishing site impersonating Telus",35,LO
 telus-support.net,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
 telus-support.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-support.pro,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-support-recapcha.info,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
+telus-support-recapcha.info,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-surcharge-centre.online,Telus,telus,telecom,"Phishing site impersonating Telus",45,MEDIUM
 telus-team.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
 telus-tech-support.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
-telus-tele-com.online,Telus,telus,telecom,"Phishing site impersonating Telus",35,LOW
-telus-update-account.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
+telus-tele-com.online,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
+telus-update-account.com,Telus,telus,telecom,"Phishing site impersonating Telus",100,HIGH
 telus-vendor-portal.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-verification-85812834.com,Telus,telus,telecom,"Phishing site impersonating Telus",40,MEDIUM
 telus-verification.com,Telus,telus,telecom,"Phishing site impersonating Telus",15,LOW
@@ -951,9 +951,9 @@ videotron-digital-jakarta.site,Videotron,videotron,telecom,"Phishing site impers
 videotron-mobile.com,Videotron,videotron,telecom,"Phishing site impersonating Videotron",15,LOW
 videotron-notice.com,Videotron,videotron,telecom,"Phishing site impersonating Videotron",15,LOW
 videotron.online,Videotron,videotron,telecom,"Phishing site impersonating Videotron",25,LOW
-videotron-paiement-client.mobi,Videotron,videotron,telecom,"Phishing site impersonating Videotron",25,LOW
+videotron-paiement-client.mobi,Videotron,videotron,telecom,"Phishing site impersonating Videotron",100,HIGH
 videotron-rental-jakarta.online,Videotron,videotron,telecom,"Phishing site impersonating Videotron",45,MEDIUM
-videotron-reset.xyz,Videotron,videotron,telecom,"Phishing site impersonating Videotron",100,HIGH
+videotron-reset.xyz,Videotron,videotron,telecom,"Phishing site impersonating Videotron",60,MEDIUM
 videotron.support,Videotron,videotron,telecom,"Phishing site impersonating Videotron",5,LOW
 videotron-support.com,Videotron,videotron,telecom,"Phishing site impersonating Videotron",15,LOW
 videotron-technoled.online,Videotron,videotron,telecom,"Phishing site impersonating Videotron",45,MEDIUM
