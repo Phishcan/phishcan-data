@@ -1,7 +1,6 @@
 {
-  "last_updated": "2025-08-27T13:47:39Z",
+  "last_updated": "2025-08-27T13:50:17Z",
   "total_domains": 3830,
-  "generated_by": "bank_phishing.py",
   "feed_type": "banking",
-  "region": "Canada"
+  "generated_by": "bank_phishing.py"
 }
