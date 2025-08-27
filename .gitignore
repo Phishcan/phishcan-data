@@ -1,0 +1,22 @@
+# Ignore local logs
+phishing_detection.log
+
+# Ignore cache files
+whoxy_cache.json
+whoxy_utilities_cache.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
