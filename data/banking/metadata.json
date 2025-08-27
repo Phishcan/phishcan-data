@@ -1,8 +1,7 @@
 {
-  "lastUpdated": "2025-08-27T13:43:31Z",
-  "domainCount": 3830,
-  "feedType": "banking-phishing",
-  "source": "PhishCan VPS",
-  "version": "20250827T134331Z",
-  "generatedBy": "bank_phishing.py"
+  "last_updated": "2025-08-27T13:47:39Z",
+  "total_domains": 3830,
+  "generated_by": "bank_phishing.py",
+  "feed_type": "banking",
+  "region": "Canada"
 }
