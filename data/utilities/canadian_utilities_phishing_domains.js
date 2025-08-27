@@ -1,7 +1,6 @@
-export const utilitiesThreats =
-{
-  "last_updated": "2025-08-27T11:48:56Z",
-  "total_domains": 21,
+export const utilitiesFeed = {
+  "last_updated": "2025-08-27T12:08:44Z",
+  "total": 21,
   "domains": [
     "841932-sasktels.com",
     "bell-ias.online",
@@ -25,4 +24,4 @@ export const utilitiesThreats =
     "rogerswireless-accountbalance.com",
     "verify-shawidcable-enhanced-8291.com"
   ]
-}
+};

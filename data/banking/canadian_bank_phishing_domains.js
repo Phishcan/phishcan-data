@@ -1,7 +1,6 @@
-export const bankingThreats =
-{
-  "last_updated": "2025-08-27T11:48:56Z",
-  "total_domains": 241,
+export const bankingFeed = {
+  "last_updated": "2025-08-27T12:08:44Z",
+  "total": 241,
   "domains": [
     "1-bmo-client-login.com",
     "1-interacs.shop",
@@ -245,4 +244,4 @@ export const bankingThreats =
     "www-bmo-servicesenligne.com",
     "www-rbc-online.net"
   ]
-}
+};
