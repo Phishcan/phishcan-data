@@ -1,4 +1,3 @@
-domain
 1-bmo-client-login.com
 td-banking-verify.net
 bmo-account-update.tk
