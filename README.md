@@ -5,6 +5,7 @@ Open, regularly updated threat intelligence feeds of Canadian-targeted phishing 
 ## 📊 Current Stats
 - 🏦 **Banking**: 2 domains (last updated 2025-09-01T15:15:29Z)
 - ⚡ **Utilities**: 0 domains (last updated 2025-09-01T15:15:29Z)
+- 🏛️ **Government**: 0 domains (last updated 2025-09-01T15:15:29Z)
 
 ## 📂 Feeds by Sector
 
@@ -19,6 +20,12 @@ Open, regularly updated threat intelligence feeds of Canadian-targeted phishing 
 - [JSON](api/utilities/canadian_utilities_phishing_domains.json)
 - [CSV](api/utilities/canadian_utilities_phishing_domains.csv)
 - [JS](api/utilities/canadian_utilities_phishing_domains.js)
+
+### 🏛️ Government
+- [TXT](data/government/government_phishing_domains.txt)
+- [JSON](api/government/government_phishing_domains.json)
+- [CSV](api/government/government_phishing_domains.csv)
+- [JS](api/government/government_phishing_domains.js)
 
 ## 📦 Archive
 Historical snapshots of feeds are available in [archive/](archive/).
