@@ -59,14 +59,14 @@
   "update_frequency": {
     "automatic": "every_12_hours",
     "manual": "force_run_available",
-    "last_update": "2025-09-01T21:25:56Z",
-    "next_scheduled": "2025-09-02T09:25:56Z"
+    "last_update": "2025-09-01T21:30:21Z",
+    "next_scheduled": "2025-09-02T09:30:21Z"
   },
   
   "statistics": {
-    "total_domains": 0,
+    "total_domains": 61,
     "new_since_last_run": 0,
-    "high_confidence_domains": 0,
+    "high_confidence_domains": 61,
     "medium_confidence_domains": 0,
     "low_confidence_domains": 0
   },
@@ -75,7 +75,7 @@
     "high": {
       "score_range": "8.0-15.0",
       "description": "Strong indicators of phishing activity",
-      "count": 0
+      "count": 61
     },
     "medium": {
       "score_range": "3.0-7.9",
@@ -92,17 +92,17 @@
   "file_formats": {
     "json": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/banking/canadian_banking_phishing_domains.json",
-      "size": "0B",
-      "records": 0
+      "size": "20K",
+      "records": 61
     },
     "csv": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/banking/canadian_banking_phishing_domains.csv",
-      "size": "0B",
-      "records": 0
+      "size": "4.0K",
+      "records": 61
     },
     "javascript": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/banking/canadian_banking_phishing_domains.js",
-      "size": "0B",
+      "size": "20K",
       "format": "ES6_module"
     }
   },
