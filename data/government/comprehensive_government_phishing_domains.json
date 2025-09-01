@@ -1,79 +1,457 @@
 [
   {
-    "domain": "redelivauth.com",
-    "category": "government",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795139",
-    "source": "comprehensive_detection"
-  },
-  {
-    "domain": "setup-canada6517-post4278-now.com",
-    "category": "government",
-    "score": 11.0,
-    "detected_at": "2025-09-01T15:03:12.795191",
-    "source": "comprehensive_detection"
-  },
-  {
-    "domain": "canada-etavisa.info",
+    "domain": "quebec-verify.com",
     "category": "government",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:03:12.795218",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.184924",
+    "source": "government_detection"
   },
   {
-    "domain": "reviewgsthstca.com",
+    "domain": "rcmp-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.184969",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-border-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.184984",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-refund-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.184996",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-package.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185007",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185018",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-transport-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185029",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-login-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185041",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-passport-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185052",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185062",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-passport-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.185073",
+    "source": "government_detection"
+  },
+  {
+    "domain": "bc-secure.com",
     "category": "government",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795249",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.187621",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-account.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.187670",
+    "source": "government_detection"
   },
   {
     "domain": "etransferdeposit25.com",
     "category": "government",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795281",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.187795",
+    "source": "government_detection"
   },
   {
-    "domain": "authhstdeposit.com",
+    "domain": "cra-account-update.com",
     "category": "government",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795312",
-    "source": "comprehensive_detection"
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.187813",
+    "source": "government_detection"
   },
   {
-    "domain": "redelivercadpost.com",
+    "domain": "elections-canada-verify.com",
     "category": "government",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795343",
-    "source": "comprehensive_detection"
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.187834",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-gst-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.187847",
+    "source": "government_detection"
+  },
+  {
+    "domain": "quebec-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.187870",
+    "source": "government_detection"
   },
   {
     "domain": "gov-canada-eta.com",
     "category": "government",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795379",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.187927",
+    "source": "government_detection"
   },
   {
-    "domain": "canpost-orderinfo-help.com",
+    "domain": "bc-verify.com",
     "category": "government",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795413",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.187982",
+    "source": "government_detection"
   },
   {
-    "domain": "canadapost-packagereschedule.com",
+    "domain": "elections-canada-login.com",
     "category": "government",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:03:12.795432",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.188001",
+    "source": "government_detection"
+  },
+  {
+    "domain": "ontario-health-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188027",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-immigration-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188038",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-visa-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188048",
+    "source": "government_detection"
+  },
+  {
+    "domain": "bc-services-verify.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.188117",
+    "source": "government_detection"
+  },
+  {
+    "domain": "rcmp-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188137",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188148",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-visa-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188161",
+    "source": "government_detection"
+  },
+  {
+    "domain": "redelivauth.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.188214",
+    "source": "government_detection"
+  },
+  {
+    "domain": "ontario-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188237",
+    "source": "government_detection"
+  },
+  {
+    "domain": "rcmp-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188255",
+    "source": "government_detection"
   },
   {
     "domain": "hstcra.com",
     "category": "government",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:03:12.795460",
-    "source": "comprehensive_detection"
+    "detected_at": "2025-09-01T15:15:24.188304",
+    "source": "government_detection"
+  },
+  {
+    "domain": "alberta-account-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188331",
+    "source": "government_detection"
+  },
+  {
+    "domain": "quebec-services-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188358",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-hst-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188370",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188380",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-immigration-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188394",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-mobile-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188584",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188614",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-online-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188627",
+    "source": "government_detection"
+  },
+  {
+    "domain": "servicecanada-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188642",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-eta-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188652",
+    "source": "government_detection"
+  },
+  {
+    "domain": "redelivercadpost.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.188712",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-tracking.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188722",
+    "source": "government_detection"
+  },
+  {
+    "domain": "ontario-license-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188746",
+    "source": "government_detection"
+  },
+  {
+    "domain": "alberta-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188770",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-packagereschedule.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188781",
+    "source": "government_detection"
+  },
+  {
+    "domain": "servicecanada-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188796",
+    "source": "government_detection"
+  },
+  {
+    "domain": "reviewgsthstca.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.188849",
+    "source": "government_detection"
+  },
+  {
+    "domain": "authhstdeposit.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.188905",
+    "source": "government_detection"
+  },
+  {
+    "domain": "setup-canada6517-post4278-now.com",
+    "category": "government",
+    "score": 11.0,
+    "detected_at": "2025-09-01T15:15:24.188972",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-account-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188984",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canadapost-delivery.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.188994",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canpost-orderinfo-help.com",
+    "category": "government",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:15:24.189054",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-etavisa.info",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189064",
+    "source": "government_detection"
+  },
+  {
+    "domain": "alberta-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189088",
+    "source": "government_detection"
+  },
+  {
+    "domain": "ontario-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189131",
+    "source": "government_detection"
+  },
+  {
+    "domain": "servicecanada-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189151",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-border-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189162",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-transport-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189174",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-transport-verify.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189184",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-eta-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189195",
+    "source": "government_detection"
+  },
+  {
+    "domain": "canada-border-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189205",
+    "source": "government_detection"
+  },
+  {
+    "domain": "elections-canada-secure.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189223",
+    "source": "government_detection"
+  },
+  {
+    "domain": "cra-secure-login.com",
+    "category": "government",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:15:24.189234",
+    "source": "government_detection"
   }
 ]
