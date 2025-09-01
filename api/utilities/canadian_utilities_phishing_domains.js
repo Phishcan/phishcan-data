@@ -1,332 +1,520 @@
 const canadianUtilitiesPhishingDomains = [
   {
-    "domain": "videotron-verify.com",
+    "domain": "enbridge-bill-payment.com",
     "category": "utilities",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.166198",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "hydroquebec-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.166287",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "fortisbc-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.166317",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "shaw-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.166375",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "manitobahydro-payment.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.166412",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "newfoundlandpower-payment.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.168873",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-account-verify.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.169019",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "alectra-account.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169066",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "bchydro-bill.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169095",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "manitobahydro-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169130",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "bell-account-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169199",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "telus-secure-login.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169264",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-bill-payment.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169348",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "torontohydro-payment.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169393",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "epcor-bill.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169445",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "hydroquebec-payment.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169480",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "fido-account-update.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169549",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-secure.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.169649",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "freedommobile-secure.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169714",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "saskpower-account.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169747",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "enbridge-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.169770",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "transalta-verify.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.169897",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "atcoelectric-verify.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.169991",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "shaw-account-update.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170051",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "cogeco-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170108",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "rogers-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170157",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "cogeco-secure.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170228",
-    "source": "utilities_detection"
+    "detected_at": "2025-09-01T15:34:32.731387",
+    "source": "utilities_detection",
+    "company": "Enbridge",
+    "keyword": "enbridge",
+    "description": "Phishing domain impersonating Enbridge energy services",
+    "sector": "energy"
   },
   {
     "domain": "virginmobile-secure.com",
     "category": "utilities",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170301",
-    "source": "utilities_detection"
+    "detected_at": "2025-09-01T15:34:32.732716",
+    "source": "utilities_detection",
+    "company": "Virgin Mobile Canada",
+    "keyword": "virginmobile",
+    "description": "Phishing domain impersonating Virgin Mobile Canada services",
+    "sector": "telecom"
   },
   {
-    "domain": "enbridge-bill-payment.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170323",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "hydroone-bill.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170346",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "saskpower-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170376",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-verify.com",
+    "domain": "bchydro-bill.com",
     "category": "utilities",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.170466",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "capitalpower-verify.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.170560",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "fortisalberta-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170590",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "koodo-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170660",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "epcor-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170695",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "publicmobile-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170778",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "videotron-secure-login.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170849",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "bchydro-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.170877",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-account-update.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.170975",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "utility-secure-login.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.171073",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "telus-verify.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.171129",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "chatr-secure.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.171208",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "bell-secure-login.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.171261",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "brookfieldrenewable-verify.com",
-    "category": "utilities",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:29:28.171366",
-    "source": "utilities_detection"
-  },
-  {
-    "domain": "rogers-secure-login.com",
-    "category": "utilities",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.171429",
-    "source": "utilities_detection"
+    "detected_at": "2025-09-01T15:34:32.733707",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
   },
   {
     "domain": "fortisbc-account.com",
     "category": "utilities",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:29:28.171455",
-    "source": "utilities_detection"
+    "detected_at": "2025-09-01T15:34:32.733728",
+    "source": "utilities_detection",
+    "company": "Fortis",
+    "keyword": "fortis",
+    "description": "Phishing domain impersonating Fortis energy services",
+    "sector": "energy"
+  },
+  {
+    "domain": "hydroquebec-payment.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733799",
+    "source": "utilities_detection",
+    "company": "Hydro-Qu\u00e9bec",
+    "keyword": "hydroquebec",
+    "description": "Phishing domain impersonating Hydro-Qu\u00e9bec services",
+    "sector": "hydro"
+  },
+  {
+    "domain": "enbridge-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733814",
+    "source": "utilities_detection",
+    "company": "Enbridge",
+    "keyword": "enbridge",
+    "description": "Phishing domain impersonating Enbridge energy services",
+    "sector": "energy"
+  },
+  {
+    "domain": "videotron-secure-login.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733839",
+    "source": "utilities_detection",
+    "company": "Videotron",
+    "keyword": "videotron",
+    "description": "Phishing domain impersonating Videotron telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "alectra-account.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733854",
+    "source": "utilities_detection",
+    "company": "Alectra",
+    "keyword": "alectra",
+    "description": "Phishing domain impersonating Alectra utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "fortisalberta-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733864",
+    "source": "utilities_detection",
+    "company": "Fortis",
+    "keyword": "fortis",
+    "description": "Phishing domain impersonating Fortis energy services",
+    "sector": "energy"
+  },
+  {
+    "domain": "videotron-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733884",
+    "source": "utilities_detection",
+    "company": "Videotron",
+    "keyword": "videotron",
+    "description": "Phishing domain impersonating Videotron telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "utility-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.733921",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "publicmobile-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733949",
+    "source": "utilities_detection",
+    "company": "Public Mobile",
+    "keyword": "publicmobile",
+    "description": "Phishing domain impersonating Public Mobile services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "telus-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733966",
+    "source": "utilities_detection",
+    "company": "Telus",
+    "keyword": "telus",
+    "description": "Phishing domain impersonating Telus telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "hydroquebec-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.733977",
+    "source": "utilities_detection",
+    "company": "Hydro-Qu\u00e9bec",
+    "keyword": "hydroquebec",
+    "description": "Phishing domain impersonating Hydro-Qu\u00e9bec services",
+    "sector": "hydro"
+  },
+  {
+    "domain": "utility-secure-login.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734016",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "brookfieldrenewable-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734059",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "epcor-bill.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734071",
+    "source": "utilities_detection",
+    "company": "EPCOR",
+    "keyword": "epcor",
+    "description": "Phishing domain impersonating EPCOR utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "torontohydro-payment.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734098",
+    "source": "utilities_detection",
+    "company": "Toronto Hydro",
+    "keyword": "torontohydro",
+    "description": "Phishing domain impersonating Toronto Hydro services",
+    "sector": "hydro"
+  },
+  {
+    "domain": "atcoelectric-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734137",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "rogers-secure-login.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734154",
+    "source": "utilities_detection",
+    "company": "Rogers Communications",
+    "keyword": "rogers",
+    "description": "Phishing domain impersonating Rogers Communications services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "saskpower-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734191",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "koodo-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734223",
+    "source": "utilities_detection",
+    "company": "Koodo Mobile",
+    "keyword": "koodo",
+    "description": "Phishing domain impersonating Koodo Mobile services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "manitobahydro-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734263",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "utility-secure.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734299",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "utility-account-update.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734340",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "capitalpower-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734379",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "telus-secure-login.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734409",
+    "source": "utilities_detection",
+    "company": "Telus",
+    "keyword": "telus",
+    "description": "Phishing domain impersonating Telus telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "chatr-secure.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734433",
+    "source": "utilities_detection",
+    "company": "Chatr",
+    "keyword": "chatr",
+    "description": "Phishing domain impersonating Chatr mobile services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "shaw-account-update.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734452",
+    "source": "utilities_detection",
+    "company": "Shaw Communications",
+    "keyword": "shaw",
+    "description": "Phishing domain impersonating Shaw Communications services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "freedommobile-secure.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734474",
+    "source": "utilities_detection",
+    "company": "Freedom Mobile",
+    "keyword": "freedommobile",
+    "description": "Phishing domain impersonating Freedom Mobile services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "utility-bill-payment.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734510",
+    "source": "utilities_detection",
+    "company": "Generic Utility",
+    "keyword": "utility",
+    "description": "Phishing domain using generic utility terms",
+    "sector": "utilities"
+  },
+  {
+    "domain": "hydroone-bill.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734572",
+    "source": "utilities_detection",
+    "company": "Hydro One",
+    "keyword": "hydroone",
+    "description": "Phishing domain impersonating Hydro One services",
+    "sector": "hydro"
+  },
+  {
+    "domain": "fido-account-update.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734607",
+    "source": "utilities_detection",
+    "company": "Fido",
+    "keyword": "fido",
+    "description": "Phishing domain impersonating Fido mobile services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "transalta-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734646",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "newfoundlandpower-payment.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734688",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "shaw-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734705",
+    "source": "utilities_detection",
+    "company": "Shaw Communications",
+    "keyword": "shaw",
+    "description": "Phishing domain impersonating Shaw Communications services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "bell-secure-login.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734722",
+    "source": "utilities_detection",
+    "company": "Bell Canada",
+    "keyword": "bell",
+    "description": "Phishing domain impersonating Bell Canada telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "manitobahydro-payment.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734761",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "rogers-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734777",
+    "source": "utilities_detection",
+    "company": "Rogers Communications",
+    "keyword": "rogers",
+    "description": "Phishing domain impersonating Rogers Communications services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "cogeco-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734796",
+    "source": "utilities_detection",
+    "company": "Cogeco",
+    "keyword": "cogeco",
+    "description": "Phishing domain impersonating Cogeco telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "bchydro-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734831",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "utility-account-verify.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734871",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "bell-account-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734891",
+    "source": "utilities_detection",
+    "company": "Bell Canada",
+    "keyword": "bell",
+    "description": "Phishing domain impersonating Bell Canada telecom services",
+    "sector": "telecom"
+  },
+  {
+    "domain": "epcor-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734904",
+    "source": "utilities_detection",
+    "company": "EPCOR",
+    "keyword": "epcor",
+    "description": "Phishing domain impersonating EPCOR utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "saskpower-account.com",
+    "category": "utilities",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:34:32.734941",
+    "source": "utilities_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian utility services",
+    "sector": "utilities"
+  },
+  {
+    "domain": "fortisbc-verify.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734951",
+    "source": "utilities_detection",
+    "company": "Fortis",
+    "keyword": "fortis",
+    "description": "Phishing domain impersonating Fortis energy services",
+    "sector": "energy"
+  },
+  {
+    "domain": "cogeco-secure.com",
+    "category": "utilities",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:34:32.734969",
+    "source": "utilities_detection",
+    "company": "Cogeco",
+    "keyword": "cogeco",
+    "description": "Phishing domain impersonating Cogeco telecom services",
+    "sector": "telecom"
   }
 ];
 export default canadianUtilitiesPhishingDomains;

@@ -1,430 +1,674 @@
 const canadianBankPhishingDomains = [
   {
-    "domain": "tangerine-verify.com",
+    "domain": "verify-scotiabank.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.874627",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-online-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.874661",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.874676",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "td-verify-account.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.874688",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "mobile-td-app.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876380",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-mobile-app.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876462",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-secure-access.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876508",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "simplii-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876536",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "login-rbc-online.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876575",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "td-online-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876587",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "td-mobile-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876598",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "desjardins-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876623",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-mobile-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876641",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "cibc-mobile-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876656",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "eqbank-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876680",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-secure-access.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876692",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-mobile-banking.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876733",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-account-update.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876745",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-mobile-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876757",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-secure-login.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876769",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-verification.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876782",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "atb-secure.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876801",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "cibc-secure-access.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876815",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-online.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876827",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "koho-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876853",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "bmo-secure-access.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876866",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-verify.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.876936",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "cibc-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876951",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "hsbc-canada-secure.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876968",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "td-verification.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.876978",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "secure-td-bank.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877017",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-online.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877054",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "scotia-account-update.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877095",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "online-cibc-secure.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877134",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "pcfinancial-secure.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877162",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "td-account-update.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877173",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-verification.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877197",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "cibc-online-banking.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877211",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "laurentianbank-secure.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877231",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-mobile-app.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877242",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005801",
+    "source": "banking_detection",
+    "company": "Generic Banking",
+    "keyword": "bank",
+    "description": "Phishing domain using generic banking terms",
+    "sector": "banking"
   },
   {
     "domain": "td-secure-login.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877252",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005860",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
   },
   {
-    "domain": "vancity-verify.com",
+    "domain": "td-verification.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877272",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005874",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
   },
   {
-    "domain": "nationalbank-secure.com",
+    "domain": "rbc-mobile-app.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877287",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005886",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
   },
   {
-    "domain": "td-secure-access.com",
+    "domain": "secure-td-bank.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877298",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005919",
+    "source": "banking_detection",
+    "company": "Generic Banking",
+    "keyword": "bank",
+    "description": "Phishing domain using generic banking terms",
+    "sector": "banking"
   },
   {
-    "domain": "cibc-secure-login.com",
+    "domain": "td-account-update.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877311",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "coastcapitalsavings-secure.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877336",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005930",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
   },
   {
     "domain": "motivefinancial-secure.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877363",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.005957",
+    "source": "banking_detection",
+    "company": "Motive Financial",
+    "keyword": "motivefinancial",
+    "description": "Phishing domain impersonating Motive Financial services",
+    "sector": "banking"
   },
   {
-    "domain": "alternabank-secure.com",
+    "domain": "scotia-secure-access.com",
     "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877388",
-    "source": "banking_detection"
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.006834",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
   },
   {
-    "domain": "cibc-verification.com",
+    "domain": "cibc-mobile-banking.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877402",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.006879",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "simplii-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.006925",
+    "source": "banking_detection",
+    "company": "Simplii Financial",
+    "keyword": "simplii",
+    "description": "Phishing domain impersonating Simplii Financial services",
+    "sector": "banking"
+  },
+  {
+    "domain": "coastcapitalsavings-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.006969",
+    "source": "banking_detection",
+    "company": "Coast Capital Savings",
+    "keyword": "coastcapitalsavings",
+    "description": "Phishing domain impersonating Coast Capital Savings services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-mobile-banking.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.006994",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "hsbc-canada-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007025",
+    "source": "banking_detection",
+    "company": "HSBC Canada",
+    "keyword": "hsbc",
+    "description": "Phishing domain impersonating HSBC Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "desjardins-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007048",
+    "source": "banking_detection",
+    "company": "Desjardins Group",
+    "keyword": "desjardins",
+    "description": "Phishing domain impersonating Desjardins credit union services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-verification.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007060",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
   },
   {
     "domain": "scotia-secure-login.com",
     "category": "banking",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877441",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007123",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
   },
   {
-    "domain": "verify-scotiabank.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877499",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "update-bmo-account.com",
+    "domain": "online-cibc-secure.com",
     "category": "banking",
     "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877562",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007250",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
   },
   {
-    "domain": "scotia-online-banking.com",
-    "category": "banking",
-    "score": 10.0,
-    "detected_at": "2025-09-01T15:28:19.877604",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-secure-login.com",
+    "domain": "cibc-verification.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877616",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "rbc-verify.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877627",
-    "source": "banking_detection"
-  },
-  {
-    "domain": "cibc-account-update.com",
-    "category": "banking",
-    "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877641",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007283",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
   },
   {
     "domain": "bmo-mobile-app.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877653",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007307",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
   },
   {
-    "domain": "wealthsimple-secure.com",
+    "domain": "cibc-verify.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877684",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007331",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "vancity-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007363",
+    "source": "banking_detection",
+    "company": "Vancity Credit Union",
+    "keyword": "vancity",
+    "description": "Phishing domain impersonating Vancity Credit Union services",
+    "sector": "banking"
   },
   {
     "domain": "bmo-online-banking.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877697",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007384",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
   },
   {
-    "domain": "servus-verify.com",
+    "domain": "rbc-mobile-banking.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877719",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007401",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "laurentianbank-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007434",
+    "source": "banking_detection",
+    "company": "Laurentian Bank",
+    "keyword": "laurentianbank",
+    "description": "Phishing domain impersonating Laurentian Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-verification.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007456",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007498",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-account-update.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007519",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "atb-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007537",
+    "source": "banking_detection",
+    "company": "ATB Financial",
+    "keyword": "atb",
+    "description": "Phishing domain impersonating ATB Financial services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-secure-access.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007548",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-online-banking.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.007601",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "cibc-online-banking.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007615",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "td-verify-account.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007625",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-online.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007636",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007653",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-account-update.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.007710",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "cibc-secure-access.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007726",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
   },
   {
     "domain": "cibc-mobile-app.com",
     "category": "banking",
     "score": 13.0,
-    "detected_at": "2025-09-01T15:28:19.877733",
-    "source": "banking_detection"
+    "detected_at": "2025-09-01T15:33:26.007739",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "alternabank-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007806",
+    "source": "banking_detection",
+    "company": "Alterna Bank",
+    "keyword": "alternabank",
+    "description": "Phishing domain impersonating Alterna Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "cibc-account-update.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007826",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "cibc-secure-login.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007840",
+    "source": "banking_detection",
+    "company": "CIBC",
+    "keyword": "cibc",
+    "description": "Phishing domain impersonating Canadian Imperial Bank of Commerce services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-secure-login.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007851",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-mobile-app.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.007888",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "rbc-online-banking.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007945",
+    "source": "banking_detection",
+    "company": "RBC",
+    "keyword": "rbc",
+    "description": "Phishing domain impersonating Royal Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-secure-login.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007961",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "bmo-secure-access.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.007973",
+    "source": "banking_detection",
+    "company": "BMO",
+    "keyword": "bmo",
+    "description": "Phishing domain impersonating Bank of Montreal services",
+    "sector": "banking"
+  },
+  {
+    "domain": "pcfinancial-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008000",
+    "source": "banking_detection",
+    "company": "PC Financial",
+    "keyword": "pcfinancial",
+    "description": "Phishing domain impersonating PC Financial services",
+    "sector": "banking"
+  },
+  {
+    "domain": "eqbank-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008022",
+    "source": "banking_detection",
+    "company": "EQ Bank",
+    "keyword": "eqbank",
+    "description": "Phishing domain impersonating EQ Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-verify.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008057",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "update-bmo-account.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008095",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "td-online-banking.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008105",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "td-secure-access.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008114",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "login-rbc-online.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008169",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "mobile-td-app.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008216",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-mobile-banking.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008278",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
+  },
+  {
+    "domain": "koho-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008304",
+    "source": "banking_detection",
+    "company": "Koho",
+    "keyword": "koho",
+    "description": "Phishing domain impersonating Koho financial services",
+    "sector": "banking"
+  },
+  {
+    "domain": "td-mobile-banking.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008326",
+    "source": "banking_detection",
+    "company": "TD Bank",
+    "keyword": "td",
+    "description": "Phishing domain impersonating TD Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "tangerine-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008344",
+    "source": "banking_detection",
+    "company": "Tangerine Bank",
+    "keyword": "tangerine",
+    "description": "Phishing domain impersonating Tangerine Bank services",
+    "sector": "banking"
+  },
+  {
+    "domain": "servus-verify.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008364",
+    "source": "banking_detection",
+    "company": "Servus Credit Union",
+    "keyword": "servus",
+    "description": "Phishing domain impersonating Servus Credit Union services",
+    "sector": "banking"
+  },
+  {
+    "domain": "nationalbank-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008378",
+    "source": "banking_detection",
+    "company": "National Bank of Canada",
+    "keyword": "nationalbank",
+    "description": "Phishing domain impersonating National Bank of Canada services",
+    "sector": "banking"
+  },
+  {
+    "domain": "wealthsimple-secure.com",
+    "category": "banking",
+    "score": 13.0,
+    "detected_at": "2025-09-01T15:33:26.008457",
+    "source": "banking_detection",
+    "company": "Wealthsimple",
+    "keyword": "wealthsimple",
+    "description": "Phishing domain impersonating Wealthsimple financial services",
+    "sector": "banking"
+  },
+  {
+    "domain": "scotia-online.com",
+    "category": "banking",
+    "score": 10.0,
+    "detected_at": "2025-09-01T15:33:26.008529",
+    "source": "banking_detection",
+    "company": "Unknown",
+    "keyword": "Unknown",
+    "description": "Phishing domain targeting Canadian banking services",
+    "sector": "banking"
   }
 ];
 export default canadianBankPhishingDomains;
