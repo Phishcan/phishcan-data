@@ -5,9 +5,9 @@ Open, regularly updated threat intelligence feeds of Canadian-targeted phishing 
 ## 📊 Current Stats
 
 > **Note**: Results now include comprehensive detection using WHOXY API, real-world examples, and enhanced pattern matching.
-- 🏦 **Banking**: 61 domains (last updated 2025-09-01T19:35:11Z)
-- ⚡ **Utilities**: 47 domains (last updated 2025-09-01T19:35:11Z)
-- 🏛️ **Government**: 65 domains (last updated 2025-09-01T19:35:11Z)
+- 🏦 **Banking**: 61 domains (last updated 2025-09-01T19:50:52Z)
+- ⚡ **Utilities**: 47 domains (last updated 2025-09-01T19:50:52Z)
+- 🏛️ **Government**: 65 domains (last updated 2025-09-01T19:50:52Z)
 
 ## 📂 Feeds by Sector
 
