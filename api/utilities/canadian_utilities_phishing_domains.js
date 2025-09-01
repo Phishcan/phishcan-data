@@ -1,3 +1,3 @@
 export default 
-{"feedType":"utilities-phishing","lastUpdated":"20250901T150656Z","domainCount":0,"domains":[
+{"feedType":"utilities-phishing","lastUpdated":"20250901T151304Z","domainCount":0,"domains":[
 ]}
