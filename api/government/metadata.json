@@ -59,14 +59,14 @@
   "update_frequency": {
     "automatic": "every_12_hours",
     "manual": "force_run_available",
-    "last_update": "2025-09-01T21:20:05Z",
-    "next_scheduled": "2025-09-02T09:20:05Z"
+    "last_update": "2025-09-01T21:25:56Z",
+    "next_scheduled": "2025-09-02T09:25:56Z"
   },
   
   "statistics": {
-    "total_domains": 0,
+    "total_domains": 65,
     "new_since_last_run": 0,
-    "high_confidence_domains": 0,
+    "high_confidence_domains": 65,
     "medium_confidence_domains": 0,
     "low_confidence_domains": 0
   },
@@ -75,7 +75,7 @@
     "high": {
       "score_range": "8.0-15.0",
       "description": "Strong indicators of phishing activity",
-      "count": 0
+      "count": 65
     },
     "medium": {
       "score_range": "3.0-7.9",
@@ -92,17 +92,17 @@
   "file_formats": {
     "json": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/government/canadian_government_phishing_domains.json",
-      "size": "0B",
-      "records": 0
+      "size": "24K",
+      "records": 65
     },
     "csv": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/government/canadian_government_phishing_domains.csv",
-      "size": "0B",
-      "records": 0
+      "size": "4.0K",
+      "records": 65
     },
     "javascript": {
       "url": "https://raw.githubusercontent.com/Phishcan/phishcan-data/main/api/government/canadian_government_phishing_domains.js",
-      "size": "0B",
+      "size": "24K",
       "format": "ES6_module"
     }
   },
