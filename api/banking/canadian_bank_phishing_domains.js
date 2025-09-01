@@ -1,3 +1,3 @@
 export default 
-{"feedType":"banking-phishing","lastUpdated":"20250901T151908Z","domainCount":2,"domains":[
+{"feedType":"banking-phishing","lastUpdated":"20250901T154600Z","domainCount":2,"domains":[
 "interyield.td563.com","nkmbmorv.dermals.org"]}
