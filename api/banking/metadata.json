@@ -59,8 +59,17 @@
   "update_frequency": {
     "automatic": "every_12_hours",
     "manual": "force_run_available",
-    "last_update": "2025-09-01T21:30:21Z",
-    "next_scheduled": "2025-09-02T09:30:21Z"
+    "last_update": "2025-09-01T21:49:33Z",
+    "next_scheduled": "2025-09-02T09:49:33Z"
+  },
+  
+  "timestamps": {
+    "metadata_generated": "2025-09-01T21:49:33Z",
+    "data_last_updated": "2025-09-01T21:49:33Z",
+    "pipeline_executed": "2025-09-01T21:49:33Z",
+    "next_scheduled_run": "2025-09-02T09:49:33Z",
+    "data_age_minutes": 0,
+    "pipeline_frequency_hours": 12
   },
   
   "statistics": {
