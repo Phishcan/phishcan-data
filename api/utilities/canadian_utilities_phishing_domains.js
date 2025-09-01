@@ -1,3 +1,3 @@
 export default 
-{"feedType":"utilities-phishing","lastUpdated":"20250901T100349Z","domainCount":39,"domains":[
+{"feedType":"utilities-phishing","lastUpdated":"20250901T101502Z","domainCount":39,"domains":[
 "torontohydro-billing-verify.net","bchydro-online-secure.xyz","enbridge-account-update.tk","fortisbc-login-verify.ga","enbridge.online","manitobahydro.online","hydroone-login-secure.com","bc-hydro.online","hydro-one.online","fortisbc.org","saskpower.info","saskpower.inc","saskpower.solar","enbridge.au","enbridge.ng","enbridge.app","enbridge.link","enbridge.jp","enbridge.com.au","enbridge.earth","enbridge.co.uk","epcor.ca","hydroone.org","nb-power.com","nbpower.shop","bc-hydro-promo.com","atco.team","atco.org.uk","atco.xn--fiq228c5hs","atco.tel","atco.com.br","atco.org","hydro-one.ca","hydro-one.de","hydro-one-b2b.ru","hydro-one.ru","hydro-one-msk.ru","bchydro.ca","bchydro.live"]}
