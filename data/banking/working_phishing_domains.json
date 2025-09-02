@@ -1,0 +1,4527 @@
+{
+  "total_domains": 484,
+  "detected_at": "2025-09-02T18:00:44.413608",
+  "domains": [
+    {
+      "domain": "cibcsecure-login.top",
+      "score": 170,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: login",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410391"
+    },
+    {
+      "domain": "cibcsecure-online.top",
+      "score": 170,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious keyword: online",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410479"
+    },
+    {
+      "domain": "cibclogin-secure.top",
+      "score": 170,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: login",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410895"
+    },
+    {
+      "domain": "cibcsecure-verify.top",
+      "score": 170,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious keyword: verify",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410908"
+    },
+    {
+      "domain": "cgi-bin-rbcaccess.online",
+      "score": 170,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411503"
+    },
+    {
+      "domain": "bmo-online-verify-account.s1gn3e123892109024j3.recioestudio.com",
+      "score": 160,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online",
+        "Suspicious keyword: verify",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411139"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.life",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .life"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409967"
+    },
+    {
+      "domain": "com.cgi-bin-rbaccess-rbcge3m01f21f-f77ibrequest.xyz",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409991"
+    },
+    {
+      "domain": "cibcsecure-mobile.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410121"
+    },
+    {
+      "domain": "cgi-bin-rbaccess-rbcgi3m01f61f7ib-f21-ibf12-ibrequest.top",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410304"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410360"
+    },
+    {
+      "domain": "cibclogon-secure.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410457"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f71f-f21ibrequest.top",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410524"
+    },
+    {
+      "domain": "cgi-bin-rbaccess-rbcgi3m10f81f-f21ibrequest.top",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410695"
+    },
+    {
+      "domain": "hmerbcnatb.online",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online",
+        "Suspicious TLD: .online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410833"
+    },
+    {
+      "domain": "cibcsecure-profile.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410905"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.shop",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .shop"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410918"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411214"
+    },
+    {
+      "domain": "cibcverify-logon.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: verify",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411276"
+    },
+    {
+      "domain": "cibcsecure-https.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411336"
+    },
+    {
+      "domain": "1onlinebmo-banking.online",
+      "score": 150,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online",
+        "Suspicious TLD: .online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411437"
+    },
+    {
+      "domain": "online.scotiabank.i1i0.xyz",
+      "score": 150,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411500"
+    },
+    {
+      "domain": "cibcsecure-app.top",
+      "score": 150,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411511"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.life",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .life"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411539"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f57f-f13ibrequest.xyz",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411568"
+    },
+    {
+      "domain": "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f17f-f13ibrequest.xyz",
+      "score": 150,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411621"
+    },
+    {
+      "domain": "cibc-update-online.net",
+      "score": 140,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: online",
+        "Suspicious keyword: update"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410000"
+    },
+    {
+      "domain": "autverifyrbconline.ddns.net",
+      "score": 140,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410188"
+    },
+    {
+      "domain": "bmo-access-update-kexisih260895620.codeanyapp.com",
+      "score": 140,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: update",
+        "Suspicious keyword: access"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410344"
+    },
+    {
+      "domain": "amazon.account-update.amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.biz",
+      "score": 140,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: update",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410497"
+    },
+    {
+      "domain": "account-update.amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.biz",
+      "score": 140,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: update",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410594"
+    },
+    {
+      "domain": "rbc-verifylogin5.web.app",
+      "score": 140,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: login",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410625"
+    },
+    {
+      "domain": "rbclogin.security-alert.verify-support.bjabhayakendram.com",
+      "score": 140,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: login",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410995"
+    },
+    {
+      "domain": "access.tdbank.online.netspar.net",
+      "score": 140,
+      "indicators": [
+        "Targets TD",
+        "Suspicious keyword: online",
+        "Suspicious keyword: access"
+      ],
+      "bank": "td",
+      "detected_at": "2025-09-02T18:00:44.411095"
+    },
+    {
+      "domain": "login-verifyrbc.web.app",
+      "score": 140,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: login",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411105"
+    },
+    {
+      "domain": "rbc.royalbankofcanada-online1-secure-signin1.wallsandfences.com.au",
+      "score": 140,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411187"
+    },
+    {
+      "domain": "bobmoore.xyz",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409951"
+    },
+    {
+      "domain": "movbmog.ga",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .ga"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410110"
+    },
+    {
+      "domain": "jppost-bmo.top",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410124"
+    },
+    {
+      "domain": "anixter-rbc.tk",
+      "score": 130,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious TLD: .tk"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410197"
+    },
+    {
+      "domain": "rbcfu.life",
+      "score": 130,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious TLD: .life"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410264"
+    },
+    {
+      "domain": "bmojsaj.top",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410301"
+    },
+    {
+      "domain": "amazon-jp.bmornn.top",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410429"
+    },
+    {
+      "domain": "aqt8hc5fk2m5fgrbcyqv6mpxw4.qwo231sdx.club",
+      "score": 130,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious TLD: .club"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410447"
+    },
+    {
+      "domain": "jobmovey.top",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410607"
+    },
+    {
+      "domain": "bmofinancialbankverification6700.tk",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .tk"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410631"
+    },
+    {
+      "domain": "amazomerowihuiegarbcc.xyz",
+      "score": 130,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410638"
+    },
+    {
+      "domain": "chasejbmorgannotificatiion6674.ml",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .ml"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410685"
+    },
+    {
+      "domain": "bmofunancialbank1verification661.ga",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .ga"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410867"
+    },
+    {
+      "domain": "rbcroyalbank.top",
+      "score": 130,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410888"
+    },
+    {
+      "domain": "icicibcsk.xyz",
+      "score": 130,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411102"
+    },
+    {
+      "domain": "cibc.site",
+      "score": 130,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious TLD: .site"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411211"
+    },
+    {
+      "domain": "bmofunancialbank1verification661.ml",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .ml"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411378"
+    },
+    {
+      "domain": "cibc-a.club",
+      "score": 130,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious TLD: .club"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411403"
+    },
+    {
+      "domain": "www.jobmovey.top",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .top"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411514"
+    },
+    {
+      "domain": "joingrubmontok18.mantap2022.xyz",
+      "score": 130,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious TLD: .xyz"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411542"
+    },
+    {
+      "domain": "1-bmo-client-login.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: login"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409969"
+    },
+    {
+      "domain": "com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.info",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410003"
+    },
+    {
+      "domain": "cibc.accessclientcard01.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410099"
+    },
+    {
+      "domain": "rbcroyal-secure.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410117"
+    },
+    {
+      "domain": "auth.scotiaonline.scotiabank.com.wo-ix.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410154"
+    },
+    {
+      "domain": "1wvw.scotiaweb1-online-scotiabank.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410157"
+    },
+    {
+      "domain": "rbconlinewebchat.web.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410201"
+    },
+    {
+      "domain": "bmoalto-login.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: login"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410204"
+    },
+    {
+      "domain": "online.scotiabank.mx01online.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410227"
+    },
+    {
+      "domain": "online-rbcz.space",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410249"
+    },
+    {
+      "domain": "www.scotiabank-secure.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410310"
+    },
+    {
+      "domain": "myrbcsecure.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410317"
+    },
+    {
+      "domain": "rbclogin-line.web.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: login"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410357"
+    },
+    {
+      "domain": "rbconlinesecurity.ca",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410373"
+    },
+    {
+      "domain": "resetcibc-logincibc.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: login"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410406"
+    },
+    {
+      "domain": "1bmo-overview-online.net",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410419"
+    },
+    {
+      "domain": "bmo-overview-online.net",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410494"
+    },
+    {
+      "domain": "alertcibcsecuremobile.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410509"
+    },
+    {
+      "domain": "auth.scotiaonline.scotiabank.com.twsupp.org",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410517"
+    },
+    {
+      "domain": "auth.scotiaonline.scotiabank.com.cbo.support",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410565"
+    },
+    {
+      "domain": "bmo-reviewonline.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410576"
+    },
+    {
+      "domain": "cibcsecureo1-001-site1.htempurl.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410584"
+    },
+    {
+      "domain": "bmo-online-signon.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410587"
+    },
+    {
+      "domain": "1ww.scotiabank.com.online-scotiabnk3.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410672"
+    },
+    {
+      "domain": "rbc-verify2.web.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410678"
+    },
+    {
+      "domain": "scotiabank-secure.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410691"
+    },
+    {
+      "domain": "autodiscover.sslcibc-verify.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410836"
+    },
+    {
+      "domain": "bmo1-com-myaccount.techno-san.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410885"
+    },
+    {
+      "domain": "bmoverify.nl",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410938"
+    },
+    {
+      "domain": "admin.myrbcsecure.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411048"
+    },
+    {
+      "domain": "rbcroyal1online.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411055"
+    },
+    {
+      "domain": "online-rbc-royal.netlify.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411078"
+    },
+    {
+      "domain": "com.cgi-bin-rbaccess-rbcgi3m01f61f-f21ibrequest.info",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411128"
+    },
+    {
+      "domain": "bmosign-inonline.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411132"
+    },
+    {
+      "domain": "rbcsecurecheckup.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411153"
+    },
+    {
+      "domain": "royalrbcverify.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411176"
+    },
+    {
+      "domain": "internationalbanking.accountbloggeralert.com.ng",
+      "score": 120,
+      "indicators": [
+        "Targets NATIONAL",
+        "Suspicious keyword: account"
+      ],
+      "bank": "national",
+      "detected_at": "2025-09-02T18:00:44.411193"
+    },
+    {
+      "domain": "cibc.app-secure2.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411202"
+    },
+    {
+      "domain": "securesign-rbcroyal.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411223"
+    },
+    {
+      "domain": "bmo1-account.estiloinsano.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411239"
+    },
+    {
+      "domain": "cibc.accessclientcard7.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411248"
+    },
+    {
+      "domain": "homeonlinerbcbca.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411270"
+    },
+    {
+      "domain": "bmosecure.co",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411273"
+    },
+    {
+      "domain": "cibc-onlinebanking.website",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411302"
+    },
+    {
+      "domain": "bmo.2web-account.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411312"
+    },
+    {
+      "domain": "cibcsecure04-001-site1.etempurl.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411319"
+    },
+    {
+      "domain": "1rbcroyalonline.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411333"
+    },
+    {
+      "domain": "online.scotiabank.mxdigital987.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411339"
+    },
+    {
+      "domain": "auth-verifyrbc.web.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411391"
+    },
+    {
+      "domain": "cibc.access-mobi2.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411393"
+    },
+    {
+      "domain": "onlinebanking-tdbank.duckdns.org",
+      "score": 120,
+      "indicators": [
+        "Targets TD",
+        "Suspicious keyword: online"
+      ],
+      "bank": "td",
+      "detected_at": "2025-09-02T18:00:44.411407"
+    },
+    {
+      "domain": "app-rbconlines.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411414"
+    },
+    {
+      "domain": "bmoonlinealert.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411440"
+    },
+    {
+      "domain": "cibcupdate.desbi.com.my",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: update"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411443"
+    },
+    {
+      "domain": "bmo-online-terms.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: online"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411454"
+    },
+    {
+      "domain": "authrbcroyalonline.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411461"
+    },
+    {
+      "domain": "app-online-rbc.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411471"
+    },
+    {
+      "domain": "online-rbcroyalbank.netlify.app",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411482"
+    },
+    {
+      "domain": "cibc.accessclientcard1.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411486"
+    },
+    {
+      "domain": "cibc.accessclientcard5.com",
+      "score": 120,
+      "indicators": [
+        "Targets CIBC",
+        "Suspicious keyword: access"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411493"
+    },
+    {
+      "domain": "rbcroyalbank.ca-online2.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411521"
+    },
+    {
+      "domain": "bmo-account-ca.duckdns.org",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: account"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411525"
+    },
+    {
+      "domain": "auth.scotiaonline.scotiabank.com.wzx-ox.com",
+      "score": 120,
+      "indicators": [
+        "Targets SCOTIA",
+        "Suspicious keyword: online"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411565"
+    },
+    {
+      "domain": "onlinebanking.tdbank.com.zlinkyemen.com",
+      "score": 120,
+      "indicators": [
+        "Targets TD",
+        "Suspicious keyword: online"
+      ],
+      "bank": "td",
+      "detected_at": "2025-09-02T18:00:44.411576"
+    },
+    {
+      "domain": "bmoverify.com",
+      "score": 120,
+      "indicators": [
+        "Targets BMO",
+        "Suspicious keyword: verify"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411616"
+    },
+    {
+      "domain": "app-rbconlinehome.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: online"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411669"
+    },
+    {
+      "domain": "rbc.secureid-ca.com",
+      "score": 120,
+      "indicators": [
+        "Targets RBC",
+        "Suspicious keyword: secure"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411683"
+    },
+    {
+      "domain": "rbcroyalbalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409927"
+    },
+    {
+      "domain": "rbcroyal-alert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409954"
+    },
+    {
+      "domain": "banner.rbc.ru",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409956"
+    },
+    {
+      "domain": "ca-rbcroyalbalerts.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409958"
+    },
+    {
+      "domain": "bafybeida623vywfp6c6qfxb5ss2pmfxojedbmo2jgmmu5hwynocqxyfuyq.ipfs.w3s.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409960"
+    },
+    {
+      "domain": "flt9923.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409963"
+    },
+    {
+      "domain": "amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409965"
+    },
+    {
+      "domain": "bmo5.azurewebsites.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409972"
+    },
+    {
+      "domain": "royalbank-rbc.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409974"
+    },
+    {
+      "domain": "cibc-validationforum.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.409976"
+    },
+    {
+      "domain": "cmmqlgggmrbcnnyu-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409979"
+    },
+    {
+      "domain": "rbcauth.147-185-238-176.cprapid.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409981"
+    },
+    {
+      "domain": "rll4362.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409984"
+    },
+    {
+      "domain": "www.xtbmondo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409986"
+    },
+    {
+      "domain": "bmo-digitalservice.codeanyapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409989"
+    },
+    {
+      "domain": "hfpabmoahrfx.wcnv20.cn",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409993"
+    },
+    {
+      "domain": "rbcremovepayee.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.409996"
+    },
+    {
+      "domain": "events.tabmo.io",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.409998"
+    },
+    {
+      "domain": "bmo3transactions.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410007"
+    },
+    {
+      "domain": "bmonotes.haloinvesting.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410011"
+    },
+    {
+      "domain": "cibc-banking.base-acess.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410015"
+    },
+    {
+      "domain": "bafybeihbr2qgidgbmo7yzjlnkkpa3xdfgnyazbkchantylg5kchqu2aowe.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410058"
+    },
+    {
+      "domain": "rbc-onclick.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410063"
+    },
+    {
+      "domain": "credito-scotiabank.sytes.net",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410067"
+    },
+    {
+      "domain": "www.cfd.erbcapital.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410070"
+    },
+    {
+      "domain": "auntoservicioscotiabankuy.personasdefault.repl.co",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410074"
+    },
+    {
+      "domain": "ca-rbcroyalbalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410077"
+    },
+    {
+      "domain": "rbc-royalbnk.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410080"
+    },
+    {
+      "domain": "cfd.rbcplatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410083"
+    },
+    {
+      "domain": "xtbmondo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410087"
+    },
+    {
+      "domain": "www.web.rbcpllatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410091"
+    },
+    {
+      "domain": "acadie-accwebmouv.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410095"
+    },
+    {
+      "domain": "bafybeidh3wdcpsqif5e33rgmpsv55ddzsbmoretfb6beocz24c75r6czyu.ipfs.astyanax.io",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410102"
+    },
+    {
+      "domain": "bmo-monprofile.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410106"
+    },
+    {
+      "domain": "ohy6235.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410114"
+    },
+    {
+      "domain": "caroyalrbcinfo.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410128"
+    },
+    {
+      "domain": "bmorgan.atozgroup.ir",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410132"
+    },
+    {
+      "domain": "trasbmovs.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410136"
+    },
+    {
+      "domain": "puhsbmouzrcoiuar-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410139"
+    },
+    {
+      "domain": "irrobmonta.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410143"
+    },
+    {
+      "domain": "bankofmontreal.cc",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410147"
+    },
+    {
+      "domain": "cml5761.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410150"
+    },
+    {
+      "domain": "bmofstl.registid.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410160"
+    },
+    {
+      "domain": "kmrbczpepqgnmwin-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410163"
+    },
+    {
+      "domain": "new-mlbbmoontn06.cf",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410166"
+    },
+    {
+      "domain": "ppwfceegwhxutfvkdvrbcevqfe-dot-gleowayel400503.uc.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410169"
+    },
+    {
+      "domain": "analytics.cibcholidaysforheroes.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410174"
+    },
+    {
+      "domain": "moncompte-bmo.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410177"
+    },
+    {
+      "domain": "pbhbmount345moftwnet.finance",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410181"
+    },
+    {
+      "domain": "rbc-mobile-alert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410184"
+    },
+    {
+      "domain": "faccebook.com-rbcpv8h5.adaz.hu",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410191"
+    },
+    {
+      "domain": "rbc-21be6e.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410194"
+    },
+    {
+      "domain": "bafybeibcf35wpfiunhrfs2rbcv4ys2soooib2hdxa67y64sm7qsmcq4at4.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410207"
+    },
+    {
+      "domain": "bprdpunymsrbmope-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410210"
+    },
+    {
+      "domain": "apply.rhbmotor.ringgitplus.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410213"
+    },
+    {
+      "domain": "rbc-verification-utilisateurs-ca.bsaty.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410216"
+    },
+    {
+      "domain": "rbc-anth-ogrn.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410221"
+    },
+    {
+      "domain": "kubmohanigltd.ng",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410224"
+    },
+    {
+      "domain": "bnbiumawirjrjotulualrbchtp-dot-gleowayel400503.uc.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410230"
+    },
+    {
+      "domain": "rbcroyalbanc.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410233"
+    },
+    {
+      "domain": "tts7324.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410236"
+    },
+    {
+      "domain": "1bmo-seconnecter.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410239"
+    },
+    {
+      "domain": "mgrbcvzspqsehwlq-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410243"
+    },
+    {
+      "domain": "bafybeicgym3ei7yoik6mz6mrnounvbvg3zoauwtrhr73ldbmo2sopv7peu.ipfs.cf-ipfs.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410246"
+    },
+    {
+      "domain": "p4126.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410251"
+    },
+    {
+      "domain": "www.labmorecab.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410255"
+    },
+    {
+      "domain": "bafybeidh3wdcpsqif5e33rgmpsv55ddzsbmoretfb6beocz24c75r6czyu.ipfs.cf-ipfs.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410258"
+    },
+    {
+      "domain": "laweuqkomqsuboybevyblymbmo-dot-gl9393jan.uk.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410261"
+    },
+    {
+      "domain": "b2bmovil.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410267"
+    },
+    {
+      "domain": "dev-bnk-scotiabank-peru.pantheonsite.io",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410271"
+    },
+    {
+      "domain": "rbcroyalalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410274"
+    },
+    {
+      "domain": "hpz.rbc.mybluehost.me",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410277"
+    },
+    {
+      "domain": "1bmo-services-enligne.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410280"
+    },
+    {
+      "domain": "bmo-acceuil.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410283"
+    },
+    {
+      "domain": "abmonitortransbill.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410286"
+    },
+    {
+      "domain": "cfd.rbccapitalmarketsllc.lp9vb2nmqxt3a8kwzrfy.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410290"
+    },
+    {
+      "domain": "engine.rbc.medialand.ru",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410293"
+    },
+    {
+      "domain": "rbylgczlyfgdvrbcjfdbwfnxyo-dot-gl099898987fhkl.uk.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410297"
+    },
+    {
+      "domain": "comptecibcap06.000webhostapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410307"
+    },
+    {
+      "domain": "al6tnqbkjjvpi2fa5rbcseo8yyoygtdqkh6mlg3m17htphe39zoxbeqyxl0rxds.xzone.no",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410314"
+    },
+    {
+      "domain": "bafkreifrneobksw2vql27bmopylgq57l3kevlmjxcxehvuryjaisrlxdpi.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410320"
+    },
+    {
+      "domain": "dherbcare.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410324"
+    },
+    {
+      "domain": "bafybeien5zphvmyhb5ao32moynirbcltxumodc4fbhywxiq2wdwxmntt3i.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410327"
+    },
+    {
+      "domain": "dskyfdzvrdcnrbcc-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410330"
+    },
+    {
+      "domain": "ozd6483.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410335"
+    },
+    {
+      "domain": "myidsjrbca.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410338"
+    },
+    {
+      "domain": "bmoabogados.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410341"
+    },
+    {
+      "domain": "bmo.tfcum.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410347"
+    },
+    {
+      "domain": "rbc-service.cf",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410350"
+    },
+    {
+      "domain": "kvh9324.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410354"
+    },
+    {
+      "domain": "ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410364"
+    },
+    {
+      "domain": "xtbmondo.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410367"
+    },
+    {
+      "domain": "cibc-a.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410370"
+    },
+    {
+      "domain": "webrbcroyalbank.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410376"
+    },
+    {
+      "domain": "security1bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410379"
+    },
+    {
+      "domain": "labmorecab.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410382"
+    },
+    {
+      "domain": "app.ucibcom.net",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410385"
+    },
+    {
+      "domain": "bafybeieqczpqtp6ewj3vie7jkvvnbmowrgleezrb5janwmlrilj6jtg34a.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410388"
+    },
+    {
+      "domain": "bkpnbmohds.se.ke",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410395"
+    },
+    {
+      "domain": "rbc0.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410399"
+    },
+    {
+      "domain": "rbci.cc",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410402"
+    },
+    {
+      "domain": "loggin.scotiabank14.repl.co",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410409"
+    },
+    {
+      "domain": "auth-rbcsecurity.serveirc.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410412"
+    },
+    {
+      "domain": "bmo-demo-identity.fraedom-uat.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410415"
+    },
+    {
+      "domain": "authenticateform-rbcmobileappssl.info",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410422"
+    },
+    {
+      "domain": "nkmbmorv.dermals.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410426"
+    },
+    {
+      "domain": "bb2webmoney.hopto.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410432"
+    },
+    {
+      "domain": "bmoharris.agency",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410436"
+    },
+    {
+      "domain": "bafybeibk376mm7sqxevnzpm7hxgsnqazbwv7aejomdceubsbbcibcolt5e.ipfs.infura-ipfs.io",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410439"
+    },
+    {
+      "domain": "mahitabmohamed.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410443"
+    },
+    {
+      "domain": "rbcroyalbank.ca-auth2.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410450"
+    },
+    {
+      "domain": "www.webmoblink.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410454"
+    },
+    {
+      "domain": "mbmobiliarios.com.br",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410460"
+    },
+    {
+      "domain": "web.rbcplatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410464"
+    },
+    {
+      "domain": "1rbcalertinfo.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410467"
+    },
+    {
+      "domain": "rbcnooamow2.ydns.eu",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410470"
+    },
+    {
+      "domain": "bmodekgd.eventfree.de",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410475"
+    },
+    {
+      "domain": "bmoreferral.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410482"
+    },
+    {
+      "domain": "rbcroyal-signon.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410487"
+    },
+    {
+      "domain": "www.dherbcare.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410490"
+    },
+    {
+      "domain": "1rbcalertinfos.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410503"
+    },
+    {
+      "domain": "corbcoretirement.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410506"
+    },
+    {
+      "domain": "office365dumc0med5cibcugnc7dkvci2qbmrzo72wkguova62vqkkcib.softmail1.workers.dev",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410513"
+    },
+    {
+      "domain": "grabmodo.store",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410521"
+    },
+    {
+      "domain": "bmo-enligne.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410528"
+    },
+    {
+      "domain": "rbcreativemg.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410532"
+    },
+    {
+      "domain": "marbcyntyyonhzup-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410536"
+    },
+    {
+      "domain": "rbcroyalbank.ca-web1.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410539"
+    },
+    {
+      "domain": "bafybeifkt2b3dini2zmlm3s436rlk3dczvimbkpybmoztzapbtn2r7tpji.ipfs.cf-ipfs.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410543"
+    },
+    {
+      "domain": "bmorgan4229.50-6-171-148.cprapid.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410547"
+    },
+    {
+      "domain": "cibc-infoapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410551"
+    },
+    {
+      "domain": "dev.rbc.imw.sametrit.net",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410554"
+    },
+    {
+      "domain": "bmo-mescomptes.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410558"
+    },
+    {
+      "domain": "rbc-royalalerts.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410561"
+    },
+    {
+      "domain": "appcibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410568"
+    },
+    {
+      "domain": "1colpascotiabank.2host.me",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410572"
+    },
+    {
+      "domain": "1services-bancaires-bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410580"
+    },
+    {
+      "domain": "bmo.best",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410591"
+    },
+    {
+      "domain": "bmovieapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410597"
+    },
+    {
+      "domain": "ca1rbcroyalinfo.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410601"
+    },
+    {
+      "domain": "analytics.cibcrewards.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410604"
+    },
+    {
+      "domain": "mrtbmopub-nj.lfstmedia.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410610"
+    },
+    {
+      "domain": "cibc-a.cc",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410614"
+    },
+    {
+      "domain": "rbcroyalb-alerts.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410618"
+    },
+    {
+      "domain": "8dd5b24e.bmoney-frn.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410621"
+    },
+    {
+      "domain": "cnnbmokxk.5q5e5o.cn",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410628"
+    },
+    {
+      "domain": "mail.scotiabankcol.com",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.410634"
+    },
+    {
+      "domain": "1bmo-rewards.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410641"
+    },
+    {
+      "domain": "www.pozyczkarbcroyal.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410645"
+    },
+    {
+      "domain": "amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.biz",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410648"
+    },
+    {
+      "domain": "hurbcw.loseyourip.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410651"
+    },
+    {
+      "domain": "auto-vendu.groupe-cibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410655"
+    },
+    {
+      "domain": "crbckfiktcxzvmpp-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410658"
+    },
+    {
+      "domain": "app-bmo-enligne.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410662"
+    },
+    {
+      "domain": "acceuil-client-bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410665"
+    },
+    {
+      "domain": "bl0kir-fbuofdrbc.grup-baru2023.my.id",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410669"
+    },
+    {
+      "domain": "rbc-01.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410675"
+    },
+    {
+      "domain": "bafybeibxnux34gics7n46p7sxmnx3nrbcz4cypsqwjbiikjdg2jb5otusq.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410681"
+    },
+    {
+      "domain": "pozyczkarbcroyal.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410688"
+    },
+    {
+      "domain": "rbc-royal.teamworxs.co.za",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410698"
+    },
+    {
+      "domain": "cibc.2mobi-auth.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410701"
+    },
+    {
+      "domain": "rbcroyalbank.com.amsarmedical.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410704"
+    },
+    {
+      "domain": "sanosrepaibmolocnabnab.zeabur.app",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410708"
+    },
+    {
+      "domain": "1.bmo.best",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410788"
+    },
+    {
+      "domain": "aikidoclubmontbeliard.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410794"
+    },
+    {
+      "domain": "smetrics.bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410797"
+    },
+    {
+      "domain": "polybmotiv.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410800"
+    },
+    {
+      "domain": "rbcroyal-alerts.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410803"
+    },
+    {
+      "domain": "rbcmontgomery.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410806"
+    },
+    {
+      "domain": "bmo-enligne.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410809"
+    },
+    {
+      "domain": "rbcroyalnbalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410812"
+    },
+    {
+      "domain": "rakibmotors.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410816"
+    },
+    {
+      "domain": "sanosrepaibmolocnab.zeabur.app",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410819"
+    },
+    {
+      "domain": "rbc11.surge.sh",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410823"
+    },
+    {
+      "domain": "bafybeicgym3ei7yoik6mz6mrnounvbvg3zoauwtrhr73ldbmo2sopv7peu.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410826"
+    },
+    {
+      "domain": "www.jobmomentum.info",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410829"
+    },
+    {
+      "domain": "tti4792.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410849"
+    },
+    {
+      "domain": "ow0ohrbcaz28.optimytool.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410853"
+    },
+    {
+      "domain": "rbc-com.heteml.net",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410857"
+    },
+    {
+      "domain": "owebmoney.ru",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410861"
+    },
+    {
+      "domain": "bmo.connexion-portail.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410864"
+    },
+    {
+      "domain": "jvm2122.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410871"
+    },
+    {
+      "domain": "rbcroyalbank.appid2.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410874"
+    },
+    {
+      "domain": "kandbmoldedproducts.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410877"
+    },
+    {
+      "domain": "rbc.ca-authid.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410881"
+    },
+    {
+      "domain": "web.rbcpllatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410891"
+    },
+    {
+      "domain": "rbcroyalbank.saudabile.com.br",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410898"
+    },
+    {
+      "domain": "bafybeifblzdrve6qofa2rbc5mfijobinbnmxg6hl4de3z525ojgxfkcmy4.ipfs.cf-ipfs.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410901"
+    },
+    {
+      "domain": "www.polybmotiv.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410911"
+    },
+    {
+      "domain": "bmorris.youdeh.co.za",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410915"
+    },
+    {
+      "domain": "www.grabmodo.store",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410922"
+    },
+    {
+      "domain": "ngrbc.blogspot.lu",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410925"
+    },
+    {
+      "domain": "jobmomentum.info",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410928"
+    },
+    {
+      "domain": "bmonametsi.duckdns.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410931"
+    },
+    {
+      "domain": "rbc.com.10-123-43-27.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410934"
+    },
+    {
+      "domain": "bafybeihz36p2p47gefwq5o3i4a7fxiec2mice3hdhckmk4hwlrbctj76ji.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410941"
+    },
+    {
+      "domain": "bmo1-center.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410944"
+    },
+    {
+      "domain": "rbc.medialand.ru",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410947"
+    },
+    {
+      "domain": "www.cfd.rbccapitalmarketsllc.lp9vb2nmqxt3a8kwzrfy.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410950"
+    },
+    {
+      "domain": "clubmom.122.2o7.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410953"
+    },
+    {
+      "domain": "9352cf4a.bmoney-frn.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410955"
+    },
+    {
+      "domain": "chatbot-cibc-sbx.azurewebsites.net",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410958"
+    },
+    {
+      "domain": "rbcroyalbank1.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410961"
+    },
+    {
+      "domain": "fbmobi.froshvibes.icu",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410965"
+    },
+    {
+      "domain": "bmobankingverfiermail.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410968"
+    },
+    {
+      "domain": "bafybeigv4c6irew6af5blrbcwv2vbknccdpvgueww2jlctxskwdszwj4fq.ipfs.nftstorage.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410971"
+    },
+    {
+      "domain": "bafybeibk376mm7sqxevnzpm7hxgsnqazbwv7aejomdceubsbbcibcolt5e.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410975"
+    },
+    {
+      "domain": "managercibc1-e45.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.410978"
+    },
+    {
+      "domain": "rbcalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410982"
+    },
+    {
+      "domain": "bmohvekwim.duckdns.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410986"
+    },
+    {
+      "domain": "www.web.rbcplatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410989"
+    },
+    {
+      "domain": "8ca2f16f.bmoney-frn.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.410992"
+    },
+    {
+      "domain": "rbcroyalbank1.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.410998"
+    },
+    {
+      "domain": "rtc6528.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411008"
+    },
+    {
+      "domain": "officnk9zp47bchlkerqg0wrbcuz9nk7pjwb5y37g2nhj.s3.us-east-2.amazonaws.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411012"
+    },
+    {
+      "domain": "analytics.cibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411015"
+    },
+    {
+      "domain": "bmo-identity.fraedom-uat.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411018"
+    },
+    {
+      "domain": "fb-acc.fbmobil.cc",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411021"
+    },
+    {
+      "domain": "cibcservice.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411024"
+    },
+    {
+      "domain": "rbccanadacheck.000webhostapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411027"
+    },
+    {
+      "domain": "cibc.lk",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411031"
+    },
+    {
+      "domain": "bmo.ways-to-bank.buzz",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411034"
+    },
+    {
+      "domain": "hlgimrbcghasukkg-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411038"
+    },
+    {
+      "domain": "omlinerbcz.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411041"
+    },
+    {
+      "domain": "kbmovers.co.za",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411045"
+    },
+    {
+      "domain": "isn1-scotiabank.azurewebsites.net",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411052"
+    },
+    {
+      "domain": "www.cfd.rbcplatform77.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411058"
+    },
+    {
+      "domain": "rbcwealthmanagement.charitypro.ca",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411061"
+    },
+    {
+      "domain": "rbcroyalfinance.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411065"
+    },
+    {
+      "domain": "rhl9521.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411068"
+    },
+    {
+      "domain": "rbmods.se.intellitxt.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411071"
+    },
+    {
+      "domain": "cvp-facebook.com-luzycibcvl.efg.or.tz",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411075"
+    },
+    {
+      "domain": "niz8256.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411081"
+    },
+    {
+      "domain": "adambmoore.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411085"
+    },
+    {
+      "domain": "royalbankca-001-site1.gtempurl.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411088"
+    },
+    {
+      "domain": "1cibc.mobi",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411091"
+    },
+    {
+      "domain": "cibc-signon.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411098"
+    },
+    {
+      "domain": "bafybeid6qnpgkixvi5az75bmone2r3btrtqy4wllvixiduauoyy2jbrx7a.ipfs.w3s.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411109"
+    },
+    {
+      "domain": "rbcroyainfos.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411112"
+    },
+    {
+      "domain": "labmoja.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411116"
+    },
+    {
+      "domain": "bmo-idclients.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411119"
+    },
+    {
+      "domain": "rbc-line.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411122"
+    },
+    {
+      "domain": "rbc-5ce44.web.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411125"
+    },
+    {
+      "domain": "asdsicfbmowaktqp-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411135"
+    },
+    {
+      "domain": "rbceservices.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411141"
+    },
+    {
+      "domain": "bafybeicpyaysrbcey3a63klhpalonrzjcg3yzq4lywhxruobfz6td2rzlu.ipfs.w3s.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411144"
+    },
+    {
+      "domain": "bmogsp.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411147"
+    },
+    {
+      "domain": "bmoharris.donfitzsimmons.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411150"
+    },
+    {
+      "domain": "fro3138.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411156"
+    },
+    {
+      "domain": "www.niz8256.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411159"
+    },
+    {
+      "domain": "authentication.tdcanada.com.avionrewardgift.com",
+      "score": 100,
+      "indicators": [
+        "Targets TD"
+      ],
+      "bank": "td",
+      "detected_at": "2025-09-02T18:00:44.411163"
+    },
+    {
+      "domain": "acceuil-bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411166"
+    },
+    {
+      "domain": "rbc.personalizedprescribing.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411170"
+    },
+    {
+      "domain": "apisaisaoncorbcojp.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411173"
+    },
+    {
+      "domain": "peqhyijjovlqeznltlzbmorsts-dot-gl9393jan.uk.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411180"
+    },
+    {
+      "domain": "api.rbc.design",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411183"
+    },
+    {
+      "domain": "rbc.design",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411190"
+    },
+    {
+      "domain": "instcibc.world",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411196"
+    },
+    {
+      "domain": "atttyhrbcvnvhd.weebly.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411199"
+    },
+    {
+      "domain": "postbmo.click",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411205"
+    },
+    {
+      "domain": "mail.rbc1royalalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411208"
+    },
+    {
+      "domain": "analytics.cibcrepitpournosheros.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411217"
+    },
+    {
+      "domain": "sulfabubmo.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411220"
+    },
+    {
+      "domain": "sgn8902.webmo.fr",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411226"
+    },
+    {
+      "domain": "catalog.clubmoneymammals.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411229"
+    },
+    {
+      "domain": "bmo-acceuilclient.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411232"
+    },
+    {
+      "domain": "bmo-web-customers.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411235"
+    },
+    {
+      "domain": "www.trasbmovs.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411242"
+    },
+    {
+      "domain": "bmocs.ubpogy.es",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411245"
+    },
+    {
+      "domain": "avwggdhwxehgfumqqefbmoffffomyhgqppdz-dot-cryptic-now-290917.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411252"
+    },
+    {
+      "domain": "alertsbmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411254"
+    },
+    {
+      "domain": "myalerts-cibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411258"
+    },
+    {
+      "domain": "rbc.reactivateacccount.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411261"
+    },
+    {
+      "domain": "1rbc-royalalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411264"
+    },
+    {
+      "domain": "rbcnakaocanada.crabdance.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411267"
+    },
+    {
+      "domain": "rbcroyalbank.mallmannconsultoria.com.br",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411279"
+    },
+    {
+      "domain": "bcqanmldmpkgvbscgaprukhsryabbgbxrbcy-dot-solar-vertex-285913.rj.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411282"
+    },
+    {
+      "domain": "kdbbmonced.blogspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411285"
+    },
+    {
+      "domain": "www.rbcreativemg.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411287"
+    },
+    {
+      "domain": "bafybeigfy6o3zejfzsthaihxddbc3mjeffxb4wcg46vfmfhzbirbcghghe.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411290"
+    },
+    {
+      "domain": "bobmovies.me",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411292"
+    },
+    {
+      "domain": "rbcroyalbank.com.kerjapandai.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411296"
+    },
+    {
+      "domain": "beqmnlibbuycbmoq-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411299"
+    },
+    {
+      "domain": "2021fbmostbeautifulgirl.000webhostapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411306"
+    },
+    {
+      "domain": "myshaw-sjrbca.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411309"
+    },
+    {
+      "domain": "erbcq.blogspot.am",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411316"
+    },
+    {
+      "domain": "safety-royalbank.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411322"
+    },
+    {
+      "domain": "rbcroyalbkinfo.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411326"
+    },
+    {
+      "domain": "actualizarscotiabankcolpatriaco.co.vu",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411330"
+    },
+    {
+      "domain": "rbc.wvvv6.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411342"
+    },
+    {
+      "domain": "bkmbbmodositasa.cyou",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411345"
+    },
+    {
+      "domain": "carbcroyalbinfo.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411348"
+    },
+    {
+      "domain": "cibc-oniinecibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411351"
+    },
+    {
+      "domain": "erbcq.blogspot.bg",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411354"
+    },
+    {
+      "domain": "bafybeia4ghp5o72eucwl2vki64rbcu6crk2mzlarhnvx42r5ol3ovnbyeu.ipfs.infura-ipfs.io",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411357"
+    },
+    {
+      "domain": "carbcroyainfos.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411360"
+    },
+    {
+      "domain": "bmo.bankofmontreal.repl.co",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411363"
+    },
+    {
+      "domain": "prbcom.fr",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411366"
+    },
+    {
+      "domain": "bmo-idclient.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411369"
+    },
+    {
+      "domain": "bmo.appid-web.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411372"
+    },
+    {
+      "domain": "kzowsqjowdrbcefk-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411375"
+    },
+    {
+      "domain": "auth-royalbank.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411381"
+    },
+    {
+      "domain": "businesstransbmo4823.world",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411384"
+    },
+    {
+      "domain": "rakibmondal2507.github.io",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411388"
+    },
+    {
+      "domain": "accwebmov-desjardins.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411397"
+    },
+    {
+      "domain": "bmo-authentication.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411400"
+    },
+    {
+      "domain": "rbc-5dba56.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411410"
+    },
+    {
+      "domain": "rfgfdnegbmoswnkazhzxuwxhhdjnttopcdbm-dot-offglen.uk.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411418"
+    },
+    {
+      "domain": "aibmobterms.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411420"
+    },
+    {
+      "domain": "cibc-register.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411424"
+    },
+    {
+      "domain": "bmoharris.spencerooi.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411427"
+    },
+    {
+      "domain": "1rbcroyalalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411430"
+    },
+    {
+      "domain": "bafybeiez7bpvwlzk4f2ikseg2ebwy2rywtnzx52hxwt6oobmoshtzvhv3y.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411433"
+    },
+    {
+      "domain": "rbcroyalbark.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411445"
+    },
+    {
+      "domain": "bancawebs.scotiabank0.repl.co",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411449"
+    },
+    {
+      "domain": "cibc.clientcardreset.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411451"
+    },
+    {
+      "domain": "httpswww1scotiabankcomuyscotiaenlinea.htmloutl.repl.co",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411458"
+    },
+    {
+      "domain": "mych-jbmoree.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411464"
+    },
+    {
+      "domain": "rbcroyalert.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411468"
+    },
+    {
+      "domain": "www.sulfabubmo.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411475"
+    },
+    {
+      "domain": "rbcroyalbank.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411478"
+    },
+    {
+      "domain": "avwggdhwxehgfumqqefbmoffffomyhgqppdz.cryptic-now-290917.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411489"
+    },
+    {
+      "domain": "bafybeibm2643wbmovgtfvrj52aamvzgajkbfmsmjphi2xdesliummqsixq.ipfs.dweb.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411496"
+    },
+    {
+      "domain": "bmopariks.za.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411507"
+    },
+    {
+      "domain": "c0vidrbcsoul.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411518"
+    },
+    {
+      "domain": "rbc.sg",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411528"
+    },
+    {
+      "domain": "bafybeia4ghp5o72eucwl2vki64rbcu6crk2mzlarhnvx42r5ol3ovnbyeu.ipfs.cf-ipfs.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411532"
+    },
+    {
+      "domain": "cidsrbmolg.duckdns.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411536"
+    },
+    {
+      "domain": "fb.us-cibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411551"
+    },
+    {
+      "domain": "cibcplus.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411554"
+    },
+    {
+      "domain": "as-samirinternationalbank.net",
+      "score": 100,
+      "indicators": [
+        "Targets NATIONAL"
+      ],
+      "bank": "national",
+      "detected_at": "2025-09-02T18:00:44.411558"
+    },
+    {
+      "domain": "aglnmfefkqebmobdqhjyshnjjrjayxhxyonc-dot-cedar-code-289917.nn.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411561"
+    },
+    {
+      "domain": "efvbdrbcbfc.000webhostapp.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411572"
+    },
+    {
+      "domain": "miscotiabankpe.eshost.com.ar",
+      "score": 100,
+      "indicators": [
+        "Targets SCOTIA"
+      ],
+      "bank": "scotia",
+      "detected_at": "2025-09-02T18:00:44.411579"
+    },
+    {
+      "domain": "jxywvpedjzujebmo-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411583"
+    },
+    {
+      "domain": "ca-rbc.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411586"
+    },
+    {
+      "domain": "oggrbclsumtmhnoy-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411590"
+    },
+    {
+      "domain": "cfd.erbcapital.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411594"
+    },
+    {
+      "domain": "5osgp.bobmosierart.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411598"
+    },
+    {
+      "domain": "protection-cibc.com",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411601"
+    },
+    {
+      "domain": "www.postbmo.click",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411605"
+    },
+    {
+      "domain": "bmoservice-alert.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411609"
+    },
+    {
+      "domain": "bmo-portailclient.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411612"
+    },
+    {
+      "domain": "bmo-portailenligne.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411624"
+    },
+    {
+      "domain": "hgcxcmpgzyfyaenbiawyerbmow-dot-gloff849483.uk.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411628"
+    },
+    {
+      "domain": "firstnationalbank-au.com",
+      "score": 100,
+      "indicators": [
+        "Targets NATIONAL"
+      ],
+      "bank": "national",
+      "detected_at": "2025-09-02T18:00:44.411631"
+    },
+    {
+      "domain": "www.irrobmonta.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411635"
+    },
+    {
+      "domain": "rbcfinance.ath.cx",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411638"
+    },
+    {
+      "domain": "autherecetlecobmobiautheregio.duckdns.org",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411641"
+    },
+    {
+      "domain": "bafkreifrneobksw2vql27bmopylgq57l3kevlmjxcxehvuryjaisrlxdpi.ipfs.w3s.link",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411645"
+    },
+    {
+      "domain": "www.cibc.lk",
+      "score": 100,
+      "indicators": [
+        "Targets CIBC"
+      ],
+      "bank": "cibc",
+      "detected_at": "2025-09-02T18:00:44.411648"
+    },
+    {
+      "domain": "cfilkzccbrprbcgq-dot-millinium.ey.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411651"
+    },
+    {
+      "domain": "bmo.connexion-services.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411655"
+    },
+    {
+      "domain": "ohyuwbzebcockrwokhdrswaukciikvarbcky-dot-solar-vertex-285913.rj.r.appspot.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411658"
+    },
+    {
+      "domain": "raghabmondal.github.io",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411662"
+    },
+    {
+      "domain": "rbc-clientsupport1.com",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411665"
+    },
+    {
+      "domain": "amaz0n.co.jp-token.wvw1-bmo.com",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411672"
+    },
+    {
+      "domain": "rbc-8766.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411676"
+    },
+    {
+      "domain": "rbc-07801b.netlify.app",
+      "score": 100,
+      "indicators": [
+        "Targets RBC"
+      ],
+      "bank": "rbc",
+      "detected_at": "2025-09-02T18:00:44.411680"
+    },
+    {
+      "domain": "www.xtbmondo.pro",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411686"
+    },
+    {
+      "domain": "webmonitor.fyxm.net",
+      "score": 100,
+      "indicators": [
+        "Targets BMO"
+      ],
+      "bank": "bmo",
+      "detected_at": "2025-09-02T18:00:44.411689"
+    }
+  ]
+}
