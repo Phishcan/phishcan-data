@@ -59,15 +59,15 @@
   "update_frequency": {
     "automatic": "every_12_hours",
     "manual": "force_run_available",
-    "last_update": "2025-09-02T18:49:07Z",
-    "next_scheduled": "2025-09-03T06:49:07Z"
+    "last_update": "2025-09-02T19:09:54Z",
+    "next_scheduled": "2025-09-03T07:09:54Z"
   },
   
   "timestamps": {
-    "metadata_generated": "2025-09-02T18:49:07Z",
-    "data_last_updated": "2025-09-02T18:49:07Z",
-    "pipeline_executed": "2025-09-02T18:49:07Z",
-    "next_scheduled_run": "2025-09-03T06:49:07Z",
+    "metadata_generated": "2025-09-02T19:09:54Z",
+    "data_last_updated": "2025-09-02T19:09:54Z",
+    "pipeline_executed": "2025-09-02T19:09:54Z",
+    "next_scheduled_run": "2025-09-03T07:09:54Z",
     "data_age_minutes": 0,
     "pipeline_frequency_hours": 12
   },
