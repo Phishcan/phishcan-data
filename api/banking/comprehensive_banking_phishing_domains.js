@@ -111,6 +111,7 @@ export const domains = [
   "cibc-a.club",
   "cibc-a.com",
   "cibc-a.net",
+  "cibc-ag.com",
   "cibc-banking.base-acess.com",
   "cibc-clients.com",
   "cibc-infoapp.com",
