@@ -26,7 +26,6 @@ export const domains = [
   "james.rogers.falconshar.com",
   "jane.rogers.atozgroup.ir",
   "notice-videotron.com",
-  "primus.au",
   "rci-rogers.net",
   "rcs-rogers.com",
   "rogers-benefits.com",
