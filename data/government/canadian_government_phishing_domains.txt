@@ -45,11 +45,9 @@ cra.canada-server.cc
 fwrd-canadapost.ca
 jppost-cra.top
 mail.e-transfer-cra.com
-redelivery-alert.com
 ref-cra.xyz
 services.cra-arc-gov-ca.org
 srvetrnsfnow-cra.com
-tracking-redelivery.com
 www.canadapost-azrev.top
 www.canadapost-parcels.com
 www.cra-deposit.ca
