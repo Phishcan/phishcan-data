@@ -35,7 +35,6 @@ accweb.mouv.desjmob.com
 accwebmov-desjardins.com
 alberta-account.ca
 alert-easyweb-td.org
-alert-rbc-updates.com
 amaz0n.co.jp-token.wvw1-bmo.com
 amazon.fr-login-account-informations-backup.glbookkeepingtax.ca
 amende-enligne-qc.com
@@ -73,7 +72,6 @@ bmo-online-terms.com
 bmo-online-verify-account.s1gn3e123892109024j3.recioestudio.com
 bmo-overview-online.net
 bmo-portailenligne.com
-bmo-restriction.com
 bmo-reviewonline.com
 bmo-web-customers.com
 bmo.2web-account.com
@@ -90,7 +88,6 @@ ca-accweb.best
 ca-interac.com
 ca-interac.site
 ca-rbc.com
-cacib-desjardins.com
 caisse-desjardins-therese-de-blainville.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
@@ -106,7 +103,6 @@ cibc-a.com
 cibc-a.net
 cibc-ag.com
 cibc-banking.base-acess.com
-cibc-banque.com
 cibc-clients.com
 cibc-infoapp.com
 cibc-mobi.me
@@ -147,7 +143,6 @@ claim.secure-lnterac.com
 clientportal-atb.ca
 cnd-tangerine.top
 cobranza-scotiabank.memphis.mx
-compte-caisse-epargne.fr
 cra-interac.com
 cra-signin.ca
 crapayments-interac.support
@@ -162,10 +157,6 @@ desjardins-info24.com
 desjardins-portailaccessd.com
 desjardins-qcaccesd.com
 desjardins.active.usdroneteam.com
-desjardins.ae
-desjardins.ai
-desjardins.ca
-desjardins.com
 desjardins.creditunion-authority.com
 desjardins.pret-mutuel.com
 desjardins.versement.ca
@@ -417,7 +408,6 @@ mail.interac-etransfercostco.com
 mail.interac.company
 mail.interac.tax
 mail.r0ger-lnterac.com
-meridian-bet7.com
 mescomptes-sgpart.ortodontica.mx
 mescomptes.expre-package.info
 moncompte-bmo.net
@@ -437,10 +427,8 @@ online.scotiabank.mxdigital987.com
 particuliers-mescomptes.com
 payments.com-transaction-moneris.top
 portails-desjardins.com
-portal-cibc.com
 prestationqc-interac.ca
 protection-cibc.com
-quiz-desjardins.com
 r0ger-lnterac.com
 r0yalbank-secure0nline12.info
 rbc-01.netlify.app
@@ -454,7 +442,6 @@ rbc-8766.netlify.app
 rbc-8a0c63.netlify.app
 rbc-bnk.com
 rbc-c2d68f.netlify.app
-rbc-career.com
 rbc-com.heteml.net
 rbc-financial-secured.com
 rbc-line.com
@@ -530,9 +517,6 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbankrbc.org
 safety-royalbank.com
 sc0tia-blckd19.com
-scd-coastcapitalsavings.com
-scd-desjardins.ca
-scd-desjardins.com
 scotia-bank-online-verify-account-on-hold-187263.businesscentrenewyork.com
 scotia-bank.co
 scotia-bank.org
@@ -546,7 +530,6 @@ scotia.1mobile-web.com
 scotia.authonline-bs.com
 scotia.inononline.com
 scotiabank-canalesvirtuales.com
-scotiabank-fsagrifinance.ca
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-supportdesk.com
@@ -581,10 +564,6 @@ signin-cibc.com
 signin-tangerine.com
 statics-rbc.com
 summary-etransfer.live
-swift-prospera.com
-tandia.ca
-tandia.com
-tandia.net
 tangerine-174.top
 tangerine-ca.com
 tangerine-can.com
@@ -603,16 +582,11 @@ terms-bmo-online.com
 tps-etransfer.org
 transfer-interac.com
 transfer-lnterac.ca
-upgrades-desj.com
-us-cibc.com
 valida-scotiabank.sc.hstn.me
 verify-user-rbc.web.app
 view-carr-logon-interac.com
 virement-lnterac-ca-bell.com
-w16-interac.com
-ww2-interac.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
-www-scotia-online.com
 www1-royalbank.com-get-verify.info
 www1.bmo-online.tinycoconut.com
