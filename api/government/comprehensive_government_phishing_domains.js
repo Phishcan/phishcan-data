@@ -44,7 +44,6 @@ export const domains = [
   "cra.canada-server.cc",
   "ecomquebec.ca",
   "fwrd-canadapost.ca",
-  "gambling.tax",
   "jppost-cra.top",
   "lib-defined-edmonton-afraid.trycloudflare.com",
   "mail.e-transfer-cra.com",

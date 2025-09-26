@@ -21,7 +21,6 @@ export const domains = [
   "accesd-web-info.com",
   "accesd-web.com",
   "accesd-web3.com",
-  "accesd.ca",
   "accesd01verif.com",
   "accesd1uniock.com",
   "accesd2uniock.com",
