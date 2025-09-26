@@ -3,7 +3,7 @@
 Open, regularly updated threat intelligence feeds of Canadian-targeted phishing domains.
 
 ## 📊 Current Stats
-Last Update: 2025-09-26T17:59:28Z
+Last Update: 2025-09-26T18:01:09Z
 
 - 🏦 Banking: 808 domains
 - ⚡ Utilities: 694 domains
@@ -31,10 +31,10 @@ Last Update: 2025-09-26T17:59:28Z
 
 ### Investor Alerts
 - [CSV](data/investor-alerts/investor-alerts.csv) (full IOSCO export, Canada only)
-- [TXT](data/investor-alerts/investor-alerts.txt)
-- [JSON](api/investor-alerts/comprehensive_investor_alerts_domains.json)
-- [CSV](api/investor-alerts/comprehensive_investor_alerts_domains.csv)
-- [JS](api/investor-alerts/comprehensive_investor_alerts_domains.js)
+- [TXT](api/investor-alerts/investor-alerts.txt)
+- [JSON](api/investor-alerts/comprehensive_investor-alerts_domains.json)
+- [CSV](api/investor-alerts/comprehensive_investor-alerts_domains.csv)
+- [JS](api/investor-alerts/comprehensive_investor-alerts_domains.js)
 
 ## 📜 License
 Feeds are provided for defensive, non-commercial use with clear attribution to PhishCan.
