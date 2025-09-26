@@ -1,4 +1,4 @@
-export const domains = [
+export const utilities_domains = [
   "1.fido-reference-8777283.com",
   "1servicios0nline-bcofalabellla-pe.000webhostapp.com",
   "1telus-mobility.com",

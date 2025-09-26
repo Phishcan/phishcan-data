@@ -1,4 +1,4 @@
-export const domains = [
+export const government_domains = [
   "39928-canadapost.com",
   "acct-cra.com",
   "albertahealthservicesinteraconlinetransfer.hostclone.com",

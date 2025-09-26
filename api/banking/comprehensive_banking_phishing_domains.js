@@ -1,4 +1,4 @@
-export const domains = [
+export const banking_domains = [
   "005verf-desj.com",
   "009verf-desj.com",
   "1.bmo.best",
