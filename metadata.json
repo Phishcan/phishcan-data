@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-09-29T20:52:24Z",
+  "last_updated": "2025-09-29T22:36:53Z",
   "feeds": {
     "banking": {
       "domains": 808,
-      "new_domains": 2,
+      "new_domains": 0,
       "source_file": "canadian_phish_banking_2025-09-29.txt"
     },
     "government": {
@@ -13,7 +13,7 @@
     },
     "utilities": {
       "domains": 695,
-      "new_domains": 33,
+      "new_domains": 0,
       "source_file": "canadian_phish_utilities_2025-09-29.txt"
     },
     "investor-alerts": {
