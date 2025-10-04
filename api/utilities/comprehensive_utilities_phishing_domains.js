@@ -515,6 +515,7 @@ export const utilities_domains = [
   "rogersrefundnow.com",
   "rogerssupport.ca",
   "rogerssupportteam.com",
+  "rogersusersonline.github.io",
   "rogersverification.com",
   "rogerswireless-accountbalance.com",
   "rogerswirelessservices.com",
