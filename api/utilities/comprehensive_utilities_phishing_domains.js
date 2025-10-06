@@ -190,7 +190,6 @@ export const utilities_domains = [
   "bellsouthverifyueru9332.webflow.io",
   "bellsttattnetverify.weebly.com",
   "bellsupdaverifycation.godaddysites.com",
-  "bellsupportservice.weebly.com",
   "bellupdate48ca.weebly.com",
   "bellverify.webflow.io",
   "bellverify.xyz",
