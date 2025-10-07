@@ -705,6 +705,7 @@ export const banking_domains = [
   "scotiabank.whereisacopwhenyouneedone.com",
   "scotiabank1.com",
   "scotiabank9623.zendesk.com",
+  "scotiaonline.scotiarbank.com",
   "scotiasecurelink.net",
   "scotiasecuritycenter.com",
   "scotiaupdateinformation.ca",
