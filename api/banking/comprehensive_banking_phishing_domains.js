@@ -809,6 +809,7 @@ export const banking_domains = [
   "td.foxtrot47.dev",
   "td.gametimeng.com",
   "td.rumpusroompodcast.com",
+  "td.sd4o7.ru",
   "td.secure-2auth.com",
   "td.secure-web1.com",
   "td.web2-auth.com",
