@@ -220,6 +220,7 @@ export const utilities_domains = [
   "billybradshaw.duckdns.org",
   "blockfidotcom-login.godaddysites.com",
   "breezleaf-i0pkindlespire.koodoozou.sa.com",
+  "brindingbell.online",
   "c.cashback-freedommobi1737.com",
   "cabellinvoice.online",
   "cashawebupdate.weebly.com",
