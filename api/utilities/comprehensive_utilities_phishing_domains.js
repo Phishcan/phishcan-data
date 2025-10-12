@@ -709,6 +709,7 @@ export const utilities_domains = [
   "webmail-bell-login.congkhanhluat.vn",
   "webmail-bell-login.inspiraclin.com.br",
   "webmail-bell-login.raypfhope.com",
+  "webmail-bell-one.vercel.app",
   "webmail-bell.payall.ng",
   "webmail-bell.vercel.app",
   "webmail-eastlink-cai.weebly.com",

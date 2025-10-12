@@ -374,7 +374,6 @@ export const banking_domains = [
   "fbterms-2754522607.atb.ps",
   "fbterms-4757343096.atb.ps",
   "fbterms-7264995119.atb.ps",
-  "florida.revenue-td.cc",
   "fondsdesjardins.com",
   "fr-cle-digitale-mescomptes.com",
   "getdeposit-lnteractransfer.live",
@@ -845,5 +844,6 @@ export const banking_domains = [
   "www-scotiabank.ddns.net",
   "www1-royalbank.com-get-verify.info",
   "www1.bmo-online.tinycoconut.com",
+  "xn--mlarfirmastockholm-4tb.se",
   "young-massive-tangerine.glitch.me"
 ];
