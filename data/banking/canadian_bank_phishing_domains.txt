@@ -760,7 +760,10 @@ td-ca-unverified-payees.com
 td-canada-trust.cyou
 td-canada-trust.work
 td-cc.com
+td-client.info
+td-corp.info
 td-dev.tsbc.com
+td-disclosure.info
 td-dominion-secure.com
 td-ease-web.com
 td-easywb-myprofile.com
@@ -773,6 +776,7 @@ td-min.com
 td-mywebaccess.com
 td-oin.com
 td-onlinebnking.com
+td-restore.info
 td-rin.com
 td-rmn.com
 td-secure.buyermapping.com
@@ -783,6 +787,7 @@ td-service2alert.com
 td-signon-easy.com
 td-sin.com
 td-tec-de.com
+td-update.info
 td-web.acc-ld.com
 td.1access-mobi.com
 td.1auth-web.com
@@ -810,6 +815,7 @@ td.rumpusroompodcast.com
 td.sd4o7.ru
 td.secure-2auth.com
 td.secure-web1.com
+td.secureuser.info
 td.web2-auth.com
 td.webacc-ca2.com
 td1auth-secure.com
