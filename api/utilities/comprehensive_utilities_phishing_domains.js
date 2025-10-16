@@ -66,6 +66,7 @@ export const utilities_domains = [
   "bell.refund-3471-3421.com",
   "bell2020camail.weebly.com",
   "bell2022update.weebly.com",
+  "bell746373webmail.wixsite.com",
   "bell75canada.com",
   "bell879mail.weebly.com",
   "bellaa-vip.xon-private.my.id",
