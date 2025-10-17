@@ -210,6 +210,7 @@ export const utilities_domains = [
   "bfalabella-zona-online-cuenta-personas-cl.000webhostapp.com",
   "bfalabella-zonasegura-cuentapersona-online-cl.000webhostapp.com",
   "billandisabella.com",
+  "billbagshaw.store",
   "billfidorefu.com",
   "billinfidoref.com",
   "billingportalshaw.atskype.net",
