@@ -56,6 +56,7 @@ export const banking_domains = [
   "app-online-rbc.com",
   "as85485-interac.gogss.com",
   "assistance-caisse.servehttp.com",
+  "atb-dystrybucja.com",
   "atb-online-ban-king.com",
   "atb.support",
   "aut1h-easyweb.com",

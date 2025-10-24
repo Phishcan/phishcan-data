@@ -611,6 +611,7 @@ export const utilities_domains = [
   "shaw-webmail.vercel.app",
   "shaw11update.weebly.com",
   "shaw2021login.weebly.com",
+  "shawaccountsign-in.framer.website",
   "shawbusiness4onlinecheck.weebly.com",
   "shawcanada-remail.weebly.com",
   "shawcawebmailserver.weebly.com",
