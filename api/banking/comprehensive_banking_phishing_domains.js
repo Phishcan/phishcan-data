@@ -199,7 +199,6 @@ export const banking_domains = [
   "cobranza-scotiabank.memphis.mx",
   "colpatria12.scotiabank12.repl.co",
   "colpatria2.scotiabank22.repl.co",
-  "conexus.se",
   "cra-interac-mobil.com",
   "cra-interac.com",
   "crapayments-interac.support",
