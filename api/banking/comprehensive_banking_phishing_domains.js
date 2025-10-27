@@ -647,6 +647,7 @@ export const banking_domains = [
   "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f71f-f21ibrequest.top",
   "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top",
   "royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top",
+  "royalbank.sk",
   "royalbankrbc.org",
   "royalcanadasecure.com",
   "s.team-td.com",
