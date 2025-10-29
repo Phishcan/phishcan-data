@@ -520,6 +520,7 @@ export const utilities_domains = [
   "rogerssupportteam.com",
   "rogersusersonline.github.io",
   "rogersverification.com",
+  "rogersverifymailnewupdatet000.framer.wiki",
   "rogerswireless-accountbalance.com",
   "rogerswirelessservices.com",
   "rogersyahoosignin.weeblysite.com",
