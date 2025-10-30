@@ -3,7 +3,7 @@
 Open, regularly updated threat intelligence feeds of Canadian-targeted phishing domains.
 
 ## 📊 Current Stats
-Last Update: 2025-10-30T00:25:46Z
+Last Update: 2025-10-30T12:26:02Z
 
 - 🏦 Banking: 854 domains
 - ⚡ Utilities: 748 domains
