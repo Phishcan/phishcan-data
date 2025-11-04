@@ -22,6 +22,7 @@ export const utilities_domains = [
   "clienmax.cyou",
   "cloudleaf-k1uaeroence.koodoozou.sa.com",
   "cogeco-support.com",
+  "cosibella.notinoro.online",
   "courielvideotron.weebly.com",
   "courrielwebvide0tron.weebly.com",
   "dawncrest-w3hjhglimsong.koodoozou.sa.com",
