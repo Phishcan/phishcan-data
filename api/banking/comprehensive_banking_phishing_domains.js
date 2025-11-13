@@ -75,6 +75,5 @@ export const banking_domains = [
   "us-tdbank.com",
   "webinterac-trustca-et101.com",
   "webinterac23-trustca.com",
-  "www1-royalbank.com-get-verify.info",
-  "xn--lngtidsparkeringar-4tb.se"
+  "www1-royalbank.com-get-verify.info"
 ];
