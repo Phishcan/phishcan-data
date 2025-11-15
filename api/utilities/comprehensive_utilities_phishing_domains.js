@@ -1,7 +1,6 @@
 export const utilities_domains = [
   "aeroelle-vj9solleaf.koodoozou.sa.com",
   "bell-reset.com",
-  "bell746373webmail.wixsite.com",
   "bellaliant-support.com",
   "bellaliantservice365.weebly.com",
   "bellavista-woodview.com",
