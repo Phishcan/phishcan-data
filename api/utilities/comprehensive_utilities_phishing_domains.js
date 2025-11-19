@@ -14,6 +14,7 @@ export const utilities_domains = [
   "bellservice8778767.weebly.com",
   "bellsouth-email-verifier-4fdde4.webflow.io",
   "bellsouth-mail-verifier-15561f.webflow.io",
+  "bellsouth-services-upgrade.webflow.io",
   "bellwebmailloginletgo.weebly.com",
   "bellwebmails.weebly.com",
   "bellwebmailsymt.weebly.com",
