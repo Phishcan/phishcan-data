@@ -12,7 +12,6 @@ export const government_domains = [
   "cra-avr.icu",
   "cra-ch.com",
   "cra-health.com",
-  "hst.cra.ac.th",
   "servicetrust-cra.com",
   "sk-postes.top",
   "track-poste-canada-parcel.com"
