@@ -11,6 +11,7 @@ export const banking_domains = [
   "cibc.lk",
   "cra-interac-mobil.com",
   "desbloquear-td.webcindario.com",
+  "diplomatie.gouv.td",
   "etra-interac.ca",
   "etransfer.interac.ca-iris.club",
   "fr-cle-digitale-mescomptes.com",
