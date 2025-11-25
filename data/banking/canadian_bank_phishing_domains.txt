@@ -18,6 +18,9 @@ interac-1-webtrustca.com
 interac-100et-webtrust-ca.com
 interac-acceptcra.com
 interac-ca.uordersget-74753592.sbs
+interac-pay-ca.cfd
+interac-transfer.cyou
+interac-transfer.sbs
 interac-trustonweb-1.com
 interac1.info
 interac100trust-trustca.com
