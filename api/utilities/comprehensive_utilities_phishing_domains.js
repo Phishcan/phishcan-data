@@ -26,6 +26,7 @@ export const utilities_domains = [
   "billbagshaw.store",
   "breezleaf-i0pkindlespire.koodoozou.sa.com",
   "brindingbell.online",
+  "caaxrogers.ca",
   "clienmax.cyou",
   "cloudleaf-k1uaeroence.koodoozou.sa.com",
   "cogeco-support.com",
