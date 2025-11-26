@@ -1,4 +1,5 @@
 export const banking_domains = [
+  "1secureverification-bmo.info",
   "accept-ca-interac.com",
   "accesd-web-desjardins-info.com",
   "alerts-rbc.com",
@@ -47,6 +48,7 @@ export const banking_domains = [
   "rbc.re",
   "rbc.secure-enligne.com",
   "rbc.web-enligne.com",
+  "rbconlinesignin.com",
   "revcanada-direct-login-webca.com",
   "royalbank-rbc.com",
   "royalcanadasecure.com",

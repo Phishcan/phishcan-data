@@ -114,6 +114,7 @@ export const utilities_domains = [
   "techsupport-rogers.com",
   "techsupport-shaw.com",
   "techsupport-telus.com",
+  "telus-securemobility.com",
   "telus-support.com",
   "toetast-standardprompt.handbell.ca",
   "topshawmail.weebly.com",

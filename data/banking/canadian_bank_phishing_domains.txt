@@ -1,3 +1,4 @@
+1secureverification-bmo.info
 accept-ca-interac.com
 accesd-web-desjardins-info.com
 alerts-rbc.com
@@ -46,6 +47,7 @@ rbc.enligne-secure.com
 rbc.re
 rbc.secure-enligne.com
 rbc.web-enligne.com
+rbconlinesignin.com
 revcanada-direct-login-webca.com
 royalbank-rbc.com
 royalcanadasecure.com
