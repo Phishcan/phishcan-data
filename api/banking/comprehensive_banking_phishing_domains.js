@@ -4,7 +4,6 @@ export const banking_domains = [
   "accesd-web-desjardins-info.com",
   "alerts-rbc.com",
   "atb-dystrybucja.com",
-  "auth-td07.sbs",
   "cibc-ag.com",
   "cibc-clients.com",
   "cibc-online.com",
