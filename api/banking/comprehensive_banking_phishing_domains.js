@@ -68,7 +68,6 @@ export const banking_domains = [
   "tangerineaccessrestore.com",
   "td-alert1service.com",
   "td-bnkng.info",
-  "td-c.se",
   "td-client.info",
   "td-corp.info",
   "td-disclosure.info",
