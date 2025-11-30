@@ -45,7 +45,6 @@ export const utilities_domains = [
   "galaglee-w8bvibenest.koodoozou.sa.com",
   "galasurge-5rmcglimleaf.koodoozou.sa.com",
   "glimnest-ty0dunesurge.koodoozou.sa.com",
-  "help-synovus.com",
   "ilizimbrashawwebmail.weebly.com",
   "inknest-l6jlpjoysong.koodoozou.sa.com",
   "inkpeak-tkap8wavepeak.koodoozou.sa.com",
