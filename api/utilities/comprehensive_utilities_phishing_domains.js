@@ -57,7 +57,6 @@ export const utilities_domains = [
   "mailsecurity.crowbell.com",
   "mistspire-s4vlightnest.koodoozou.sa.com",
   "montebelluna-hk.com",
-  "monumentalgoshawk.pro",
   "mybellca.com",
   "myshawacct.codeberg.page",
   "myshawwebmail.weebly.com",
