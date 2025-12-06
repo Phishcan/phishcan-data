@@ -6,7 +6,6 @@ export const utilities_domains = [
   "bellavista-woodview.com",
   "bellcanada-support.com",
   "bellimaglngonline.com",
-  "bellivediamonds.se",
   "bellmobile.help",
   "bellmobility-billing.com",
   "belloginfoweb.weebly.com",
