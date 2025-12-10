@@ -334,6 +334,7 @@ etransfer-interac1.com
 etransfer-interacccc-ca.com
 etransfer-interacs-ca.ga
 etransfer-interacs-ca.gq
+etransfer-interact.com
 etransfer-lnterac.ca
 etransfer.dep-transfer.xyz
 etransfer.interac-access.com
@@ -451,6 +452,7 @@ interac-transfer.cyou
 interac-transfer.sbs
 interac-trustonweb-1.com
 interac-urgenceqc.ca
+interac-virement-recu.com
 interac.arandanoseldinde.com
 interac.aubeconseil.ma
 interac.auth-28429.live
@@ -811,6 +813,7 @@ td-rmn.com
 td-secure.buyermapping.com
 td-secure.ca
 td-secure.springreport.net
+td-secure2fa.com
 td-service1alert.com
 td-service2alert.com
 td-signon-easy.com
