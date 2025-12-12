@@ -614,7 +614,6 @@ export const banking_domains = [
   "rbc.enligne-connexion.com",
   "rbc.enligne-secure.com",
   "rbc.personalizedprescribing.com",
-  "rbc.re",
   "rbc.reactivateacccount.com",
   "rbc.secure-enligne.com",
   "rbc.secureid-ca.com",
