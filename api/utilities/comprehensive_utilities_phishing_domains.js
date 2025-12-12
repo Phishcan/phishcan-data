@@ -117,6 +117,7 @@ export const utilities_domains = [
   "bellsouth-account-veriify.webflow.io",
   "bellsouth-accountt-update.webflow.io",
   "bellsouth-activation-service.webflow.io",
+  "bellsouth-att-sign-in-verification.webflow.io",
   "bellsouth-att-signin-023358.webflow.io",
   "bellsouth-att-signin-9ebd82.webflow.io",
   "bellsouth-att-signing-2e81e7.webflow.io",
