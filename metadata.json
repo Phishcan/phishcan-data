@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-12-14T11:47:50Z",
+  "last_updated": "2025-12-15T00:47:38Z",
   "feeds": {
     "banking": {
       "domains": 539,
       "new_domains": 0,
-      "source_file": "canadian_phish_banking_2025-12-14.txt"
+      "source_file": "canadian_phish_banking_2025-12-15.txt"
     },
     "government": {
       "domains": 55,
       "new_domains": 0,
-      "source_file": "canadian_phish_government_2025-12-14.txt"
+      "source_file": "canadian_phish_government_2025-12-15.txt"
     },
     "utilities": {
       "domains": 557,
       "new_domains": 0,
-      "source_file": "canadian_phish_utilities_2025-12-14.txt"
+      "source_file": "canadian_phish_utilities_2025-12-15.txt"
     },
     "investor-alerts": {
       "domains": 224,
