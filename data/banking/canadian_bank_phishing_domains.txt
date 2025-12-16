@@ -58,7 +58,6 @@ authentication-td-mobile.cyou
 authentication-td-mobile.xyz
 authentication-td-online.cyou
 authentication-td.link
-authentication.td-bahk.link
 authscotia-onlinebanking.com
 autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
@@ -107,7 +106,6 @@ caisse-desjardins-therese-de-blainville.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
 caisse8-popu22desj.info
-caisseacces1-001-site1.anytempurl.com
 caisseauthenti.wpengine.com
 caissedesjardinsaccesd.com
 can-bell-lnterac.com
@@ -155,7 +153,6 @@ cibconline.accessclientcard6.com
 cibcsecure-https.top
 cibcsecure-login.top
 cibcsecure-mobile.top
-cibcsecure-profile.top
 cibcsecure-verify.top
 claim-dana-kaget.wb-td.com
 claim.secure-lnterac.com
@@ -173,9 +170,7 @@ credito-scotiabank.sytes.net
 currency-etransfer.live
 desbloquear-td.webcindario.com
 desjardins-accesd-web.online
-desjardins-accweb-enligne-secure.com
 desjardins-connexion.com
-desjardins-info24.com
 desjardins-portailaccessd.com
 desjardins.active.usdroneteam.com
 desjardins.creditunion-authority.com
@@ -291,7 +286,6 @@ etransfer-deposit.linkpc.net
 etransfer-deposits.co
 etransfer-interac-299134.com
 etransfer-interacccc-ca.com
-etransfer-interacs-ca.gq
 etransfer-interact.com
 etransfer-lnterac.ca
 etransfer.interac-access.com
@@ -362,7 +356,6 @@ interac-ca.interc-uorder712.icu
 interac-ca.manual-acceptance.cyou
 interac-ca.mfa-easy.site
 interac-ca.org
-interac-ca.rcimgmt.com
 interac-ca.secure-order00.info
 interac-ca.sessione-easywe-may-7er.site
 interac-ca.sessionfebr-23er.site
@@ -474,7 +467,6 @@ lnteracpayments.me
 loggin.scotiabank14.repl.co
 login.ionos.ca
 login.office-server-onedrive.ca
-login.offices-server.ca
 login.robertatcanada.com
 m.interac-mobile-deposit.com
 mail.authentication-scotiaonline.com
@@ -500,7 +492,6 @@ myaccount.beiimobility.ca
 myalerts-cibc.com
 myapp-easyweb.com
 myappweb-td.com
-myrbcsecure.com
 myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
