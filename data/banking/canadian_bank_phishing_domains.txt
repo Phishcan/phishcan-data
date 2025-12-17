@@ -172,7 +172,6 @@ cibclogon-secure.top
 cibconline-mobile.top
 cibconline.accessclientcard6.com
 cibcsecure-https.top
-cibcsecure-login.top
 cibcsecure-mobile.top
 cibcsecure-profile.top
 cibcsecure-verify.top
@@ -406,7 +405,6 @@ interac-etransfer-online.recal.it
 interac-etransfer-online.studiolegaleerrighi.it
 interac-etransfer-online.tecnosistemisrl.com
 interac-etransfer-online.umesterung-cavitator.de
-interac-etransfer.xyz
 interac-etransfer32452313.com
 interac-etransfercostco.com
 interac-etransfert.com
@@ -430,7 +428,6 @@ interac-trustonweb-1.com
 interac-urgenceqc.ca
 interac-virement-recu.com
 interac.arandanoseldinde.com
-interac.aubeconseil.ma
 interac.auth-28429.live
 interac.ca-a.club
 interac.ca-aj.com
