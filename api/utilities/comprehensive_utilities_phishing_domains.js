@@ -102,7 +102,6 @@ export const utilities_domains = [
   "bellrushhoursbills.weebly.com",
   "bellsecurebusiness.netlify.app",
   "bellsecuredloginfom-net.vercel.app",
-  "bellsecurewifi.servehttp.com",
   "bellselective-billing.surge.sh",
   "bellservice8778767.weebly.com",
   "bellservices.org",
