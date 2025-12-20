@@ -60,7 +60,6 @@ authentication-td-mobile.cyou
 authentication-td-mobile.xyz
 authentication-td-online.cyou
 authentication-td.link
-authentication.td-bahk.link
 authscotia-onlinebanking.com
 autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
@@ -109,7 +108,6 @@ caisse-desjardins-therese-de-blainville.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
 caisse8-popu22desj.info
-caisseacces1-001-site1.anytempurl.com
 caisseauthenti.wpengine.com
 caissedesjardinsaccesd.com
 can-bell-lnterac.com
@@ -155,7 +153,6 @@ cibconline-mobile.top
 cibconline.accessclientcard6.com
 cibcsecure-https.top
 cibcsecure-mobile.top
-cibcsecure-profile.top
 cibcsecure-verify.top
 claim-dana-kaget.wb-td.com
 claim.secure-lnterac.com
@@ -327,7 +324,6 @@ ets.interac.caqcpay.club
 ets.interac.rgrdevelopmentinc.com
 evening-gleaming-tangerine.glitch.me
 fb-accountverify.ca
-fb.us-cibc.com
 fbterms-0984345875.atb.ps
 fbterms-2569447671.atb.ps
 fbterms-2754522607.atb.ps

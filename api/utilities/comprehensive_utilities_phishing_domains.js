@@ -102,7 +102,6 @@ export const utilities_domains = [
   "bellsecuredloginfom-net.vercel.app",
   "bellselective-billing.surge.sh",
   "bellservice8778767.weebly.com",
-  "bellservices.org",
   "bellsouth-account-management-0a5a27.webflow.io",
   "bellsouth-account-veriify.webflow.io",
   "bellsouth-accountt-update.webflow.io",
