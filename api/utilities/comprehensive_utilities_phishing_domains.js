@@ -216,6 +216,7 @@ export const utilities_domains = [
   "connectrogers.weebly.com",
   "cosibella.notinoro.online",
   "courielvideotron.weebly.com",
+  "courrielweb-videotron-login-layout-iwc-static-fr-html-calender.weebly.com",
   "courrielwebvide0tron.weebly.com",
   "crosenmax.cyou",
   "currently-pacbell-verify.weebly.com",
