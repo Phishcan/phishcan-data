@@ -50,7 +50,6 @@ export const banking_domains = [
   "auth-royalbank.com",
   "auth-td-online.cyou",
   "auth-td-online.link",
-  "auth-td-online.xyz",
   "auth-td07.sbs",
   "auth-tdsecure.net",
   "auth.atb-ca.tel",
@@ -822,6 +821,5 @@ export const banking_domains = [
   "www1-rbc-login.com",
   "www1-royalbank.com-get-verify.info",
   "www1.bmo-online.tinycoconut.com",
-  "xn--vtmarksentreprenad-4tb.se",
   "young-massive-tangerine.glitch.me"
 ];
