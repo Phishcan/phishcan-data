@@ -427,7 +427,6 @@ export const utilities_domains = [
   "quixpeak-ap1mystshade.koodoozou.sa.com",
   "quixwood-g1mxwhirlsong.koodoozou.sa.com",
   "r0gers-wirelessrefunds.com",
-  "r0gers.secure.mraqi.com",
   "raiffeisenmax.icu",
   "rakutenmax.net",
   "re.mybell.world",
