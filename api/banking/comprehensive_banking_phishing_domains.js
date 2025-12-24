@@ -535,7 +535,6 @@ export const banking_domains = [
   "rbc-service.cf",
   "rbc-service1alert.com",
   "rbc-signon-app.com",
-  "rbc-verification-utilisateurs-ca.bsaty.com",
   "rbc-verify.com",
   "rbc-verify2.web.app",
   "rbc-verifylogin5.web.app",
