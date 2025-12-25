@@ -174,7 +174,6 @@ export const banking_domains = [
   "desjardins.versement.ca",
   "desjardinsetf.ca",
   "dev-bnk-scotiabank-peru.pantheonsite.io",
-  "diplomatie.gouv.td",
   "e-interac.co",
   "e-interac.shop",
   "e-transfer-info-interac.cyou",

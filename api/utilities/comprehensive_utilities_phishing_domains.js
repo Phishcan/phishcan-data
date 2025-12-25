@@ -407,7 +407,6 @@ export const utilities_domains = [
   "pastebomb.campbellserver.com",
   "payeebellinvoices.com",
   "paymefidoref.com",
-  "payment.park-warshaw.icu",
   "payment.rogersform.com",
   "paymfido.com",
   "pcampbelldd2f.myportfolio.com",
