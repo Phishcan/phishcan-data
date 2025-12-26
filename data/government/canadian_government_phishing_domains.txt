@@ -3,6 +3,7 @@ acct-cra.com
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
 albertataxi.com
+antai-gouv.essipun-on-sea.com
 ca-postescanada.top
 ca-ref-cra.info
 canada-revenue-agency.co
@@ -15,16 +16,20 @@ canadapost-parcels.com
 canadapost-postes-shipping.drwskinesia.com
 canadapost-postes.cc
 canadapost-postescaanada.com
+canadapost-postescanada-redelivery.com
 canadapost-postescanada.duia.us
 canadapost-postescanadabest.vip
 canadapost-postescanadake.xyz
 canadapost-postescanadako.xyz
 canadapost-postescanadaks.xyz
 canadapost-postescaxxtu.top
+canadapost-postezcanada.xyz
+canadapost-q.ca
 canadapost-updates.com
 canadapost.postcanadalju.top
 canadapost.postgoverment.com
 canadapost.reserv-confirms.com
+canadapostdeliveryreschedule.com
 canadarevenue.serveirc.com
 canadarevenueagency.co
 canadarevenueagency.online
@@ -44,6 +49,7 @@ cra-gouv-cov19.org
 cra-health.com
 cra-info.com
 cra-invoice.info
+cra-revenu.icu
 cra-signin.ca
 cra.canada-server.cc
 ecomquebec.ca
@@ -57,6 +63,7 @@ postescanada.art
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
 ref-cra.xyz
+remboursementxquebec.com
 remboursementxquebec.net
 revenuegovcanadataxesrefund.com
 saaq-transfert.com
