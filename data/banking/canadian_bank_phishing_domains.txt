@@ -172,6 +172,7 @@ cibc.access-mobi2.com
 cibc.accessclientcard01.com
 cibc.accessclientcard1.com
 cibc.accessclientcard5.com
+cibc.accessclientcard7.com
 cibc.app-secure2.com
 cibc.clientcardreset.com
 cibc.lk
@@ -310,6 +311,7 @@ et.interac.van-ca.info
 et.interac.works
 et.interac1.ch
 et.interac1.info
+et.interac1.life
 et.interac1.live
 et.interac1.net
 et.interac1.org
@@ -341,6 +343,7 @@ etransfer.interac.ca-iris.club
 etransfer.interac.ca-opi7.club
 etransfer.interac.ca-pay.top
 etransfer.interac.ca-td.club
+etransfer.interac.cadq.club
 etransfer.interac.hair
 etransfer.interac.team
 etransfer.lnlerac.ru
@@ -356,6 +359,7 @@ etransfers-interacs.com
 etransfers-payment-ca.cf
 etransfers.interac.ca-accesd8.com
 etransfers.interac.ca-accweb.best
+etransfers.interac.ca-agc.info
 etransfers.interac.ca-now.today
 etransfers.interac.ca-oh.com
 etransfers.interac.ca-oo.com
@@ -514,6 +518,7 @@ lnteracpayments.me
 loggin.scotiabank14.repl.co
 login.ionos.ca
 login.office-server-onedrive.ca
+login.offices-server.ca
 login.robertatcanada.com
 m.interac-mobile-deposit.com
 mail.authentication-scotiaonline.com
@@ -534,7 +539,6 @@ mouvaccesdsupport.com
 mouvdesjardins.com
 my-rbc.us
 my-td-dashboard.com
-my-td-summary.com
 myaccount.beiimobiiity.ca
 myaccount.beiimobility.ca
 myalerts-cibc.com
