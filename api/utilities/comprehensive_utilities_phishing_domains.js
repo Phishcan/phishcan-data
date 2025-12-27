@@ -283,7 +283,6 @@ export const utilities_domains = [
   "fido.ca.invoice992817.com",
   "fidocareservices.com",
   "fidoforu2-online.preview-domain.com",
-  "fidomobillinfs.com",
   "fidoonline755.com",
   "fidoprovider.com",
   "fidoref.com",
