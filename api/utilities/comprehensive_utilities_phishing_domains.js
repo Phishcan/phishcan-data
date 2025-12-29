@@ -455,7 +455,6 @@ export const utilities_domains = [
   "paymfido.com",
   "pcampbelldd2f.myportfolio.com",
   "pdf-reader-online.bellevue.org",
-  "pentabellservices.top",
   "phcehxhdtsjfa-shdgcehqsypkfej-vnhurwtrgsm-tttgjgfrexolitqte.bells000.dns.army",
   "php.cashback-freedommobi1737.com",
   "poolsbell.my",
