@@ -716,6 +716,8 @@ export const banking_domains = [
   "scotiabank-canalesvirtuales.com",
   "scotiabank-chat.web.app",
   "scotiabank-cl.com",
+  "scotiabank-gift.com",
+  "scotiabank-glft.cc",
   "scotiabank-helpcentre.com",
   "scotiabank-helpdesk.com",
   "scotiabank-sign-in.com",
