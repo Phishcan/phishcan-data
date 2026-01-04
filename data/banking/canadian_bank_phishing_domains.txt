@@ -483,7 +483,6 @@ interac.pcrentacar.com.br
 interac.pizzariadopan.com.br
 interac.pro
 interac.recipes
-interac.se
 interac.systems
 interac.tax
 interac.today
@@ -700,6 +699,7 @@ scotia-protege-online.zya.me
 scotia-s6579.web.app
 scotia-scm.web.app
 scotia-secure-2fauth-9a276d.netlify.app
+scotia-updayteinfosapp.2bd.net
 scotia-validacionesonlinepe.liveblog365.com
 scotia-validationforum.one
 scotia-verifica-2023.paolitatim.repl.co
