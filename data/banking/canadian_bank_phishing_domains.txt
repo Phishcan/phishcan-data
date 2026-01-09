@@ -742,6 +742,7 @@ scotiabank.ca.sco-rd2-3w.com
 scotiabank.ca.ssl-f45-sf.com
 scotiabank.ca.ssl9-cds-secure.com
 scotiabank.ca.w3-f5-d43-q0.com
+scotiabank.co.com
 scotiabank.dudullc.com
 scotiabank.mx-xcom.xyz
 scotiabank.security.zya.me
