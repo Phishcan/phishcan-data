@@ -31,6 +31,7 @@ export const government_domains = [
   "canadapost.postcanadalju.top",
   "canadapost.postgoverment.com",
   "canadapost.reserv-confirms.com",
+  "canadapost.se",
   "canadapostdeliveryreschedule.com",
   "canadarevenue.serveirc.com",
   "canadarevenueagency.co",
