@@ -63,6 +63,7 @@ aut1h-easyweb.com
 auth-cloud.carbooth.ca
 auth-easy-webb-td.org
 auth-royalbank.com
+auth-scotiaonline-scotiabank.tempurl.host
 auth-td-online.cyou
 auth-td-online.link
 auth-td-online.xyz
@@ -136,6 +137,7 @@ ca-interac.com
 ca-interac.site
 ca-rbc.com
 caisse-desjardins-therese-de-blainville.com
+caisse-enregistreuse-maroc.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
 caisse8-popu22desj.info
