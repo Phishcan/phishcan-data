@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-01-16T06:33:49Z",
+  "last_updated": "2026-01-16T18:33:28Z",
   "feeds": {
     "banking": {
       "domains": 906,
-      "new_domains": 1,
+      "new_domains": 0,
       "source_file": "canadian_phish_banking_2026-01-16.txt"
     },
     "government": {
