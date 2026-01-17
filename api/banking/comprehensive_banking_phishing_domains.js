@@ -826,7 +826,6 @@ export const banking_domains = [
   "td-mywebaccess.com",
   "td-oin.com",
   "td-onlinebnking.com",
-  "td-partner.se",
   "td-restore.info",
   "td-rin.com",
   "td-rmn.com",
