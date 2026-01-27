@@ -131,6 +131,7 @@ bellsouth-att-verification-db6f65.webflow.io
 bellsouth-authentication-service.webflow.io
 bellsouth-email-account-verifi-5d347a.webflow.io
 bellsouth-email-verifier-4fdde4.webflow.io
+bellsouth-email-verifier-b0eab5.webflow.io
 bellsouth-login-143095.webflow.io
 bellsouth-login.webflow.io
 bellsouth-login.weebly.com
@@ -160,7 +161,6 @@ bellsouthaccountservices.weebly.com
 bellsouthattverification-7ef803.webflow.io
 bellsouthemailaccountverifier.webflow.io
 bellsouthemaillverification.weebly.com
-bellsouthemailservice.godaddysites.com
 bellsouthemailupgradeverificat.godaddysites.com
 bellsouthemailverificationadmi20.godaddysites.com
 bellsouthemailverificationadmi40.godaddysites.com
@@ -600,7 +600,6 @@ sasktelwebmailsecureteam.weebly.com
 sasktelwebmailsextensionwork.webflow.io
 sasktelwebmailupgrade2022.square.site
 sasnewsasktel.weebly.com
-secure.happybellies.net
 securedbellsverimebybells.webflow.io
 securefile-dawn-wind-52c9.annecampbell12.workers.dev
 securefolder.rogersmob.com
