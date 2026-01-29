@@ -331,6 +331,7 @@ export const utilities_domains = [
   "invoicebelll.online",
   "invoicefido001.com",
   "invoicesbellmobiles.com",
+  "isabellabille.se",
   "jamnest-rrhg9echoroot.koodoozou.sa.com",
   "jamwood-5lgwavewood.koodoozou.sa.com",
   "jimmysbelleayreskishop.com",
