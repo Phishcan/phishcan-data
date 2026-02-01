@@ -340,6 +340,7 @@ export const utilities_domains = [
   "joln-chatrruwndd.mediafire-newlink.my.id",
   "joyflux-8ennoirroot.koodoozou.sa.com",
   "joypeak-swv1knoirella.koodoozou.sa.com",
+  "jurgenmax.se",
   "klaim-vocer-bellanja.cs-service.biz.id",
   "koleksi-video-natasya-bella-group-telegram-melayu-luca.asetku.my.id",
   "konty.bella-noor1a.my.id",
