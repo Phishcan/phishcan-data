@@ -876,5 +876,6 @@ export const banking_domains = [
   "www-scotiabank.ddns.net",
   "www1-rbc-login.com",
   "www1-royalbank.com-get-verify.info",
+  "xn--vrdcentralengenarp-4tb.se",
   "young-massive-tangerine.glitch.me"
 ];
