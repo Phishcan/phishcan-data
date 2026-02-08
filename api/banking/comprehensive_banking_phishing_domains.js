@@ -651,6 +651,7 @@ export const banking_domains = [
   "reservation-lnteractransfer.live",
   "restablecimiento.scotia.repl.co",
   "revcanada-direct-login-webca.com",
+  "revenuecanadainterac.com",
   "revenueqc-interac.ca",
   "royalbank-rbc.com",
   "royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital",
