@@ -65,7 +65,6 @@ auth-cloud.carbooth.ca
 auth-easy-webb-td.org
 auth-royalbank.com
 auth-scotiaonline-scotiabank.tempurl.host
-auth-td-online.cyou
 auth-td-online.link
 auth-td-online.xyz
 auth-td07.sbs
@@ -110,12 +109,8 @@ bmo-mescomptes.com
 bmo-monprofile.com
 bmo-online-signon.com
 bmo-online-terms.com
-bmo-online-verify-account.s1gn3e123892109024j3.recioestudio.com
 bmo-online.tinycoconut.com
 bmo-overview-online.net
-bmo-portailenligne.com
-bmo-reviewonline.com
-bmo-web-customers.com
 bmo.2web-account.com
 bmo.appid-web.com
 bmo.bankofmontreal.repl.co
@@ -149,7 +144,6 @@ can-bell-lnterac.com
 canada-interac.ca
 canada-interac.com
 canadasecureinterac.serveo.net
-case-fitting-title-td.trycloudflare.com
 chatbot-cibc-sbx.azurewebsites.net
 cibc-1.com
 cibc-a.cc
@@ -171,6 +165,7 @@ cibc-signon.com
 cibc-update-online.net
 cibc-validationforum.com
 cibc-webmobile.simcoecountywastesurvey.ca
+cibc.2app-access.com
 cibc.2mobi-auth.com
 cibc.access-mobi2.com
 cibc.accessclientcard01.com
@@ -190,7 +185,6 @@ cibconline.accessclientcard6.com
 cibcsecure-app.top
 cibcsecure-https.top
 cibcsecure-login.top
-cibcsecure-mobile.top
 cibcsecure-online.top
 cibcsecure-profile.top
 cibcsecure-verify.top
@@ -233,6 +227,7 @@ easyweb-accesss.link
 easyweb-ca-auth.cloud
 easyweb-mytd.com
 easyweb-td-authlogin.com
+easyweb.td-on.limited
 elsewedy-td.com
 emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
@@ -255,7 +250,10 @@ et.interac.accwebca.support
 et.interac.agency
 et.interac.atb1.tel
 et.interac.bc-pay.info
+et.interac.ca-aa.info
+et.interac.ca-aa.live
 et.interac.ca-dnb.club
+et.interac.ca-emt.info
 et.interac.ca-ha.club
 et.interac.ca-iw.info
 et.interac.ca-knb.club
@@ -300,6 +298,7 @@ et.interac.nb-s8.live
 et.interac.nb-today.live
 et.interac.pay-gov.pro
 et.interac.pay-nb.co
+et.interac.pro
 et.interac.quebec
 et.interac.recipes
 et.interac.run
@@ -349,6 +348,7 @@ etransfer.interac.hair
 etransfer.interac.team
 etransfer.lnlerac.ru
 etransfer.lnterac.cc
+etransfer.nard.ca
 etransfer.paymentsinterac.ca
 etransfer.refundpay.net
 etransfer.shadir.com
@@ -389,7 +389,6 @@ hpz.rbc.mybluehost.me
 humorous-accidental-tangerine.glitch.me
 immediate-interac.com
 inexpensive-broad-tangerine.glitch.me
-info-etransfer.live
 interac-1-webtrustca.com
 interac-100et-webtrust-ca.com
 interac-5dc74fdca3104595.jembotsu.com
@@ -434,6 +433,7 @@ interac-etransfer.xyz
 interac-etransfer32452313.com
 interac-etransfercostco.com
 interac-etransfert.com
+interac-gst.com
 interac-invoice71518.com
 interac-mobil.net
 interac-online-deposit-transfer.suitesandtreatspetresort.com
@@ -514,19 +514,17 @@ lebocoin.groupe-cibc.com
 lnterac-deposit.co
 lnterac-id1849128.cfd
 lnterac.co
-lnterac.compl-easweby-june20.site
 lnterac.info
 lnteracpayments.com
 lnteracpayments.me
 loggin.scotiabank14.repl.co
 login.ionos.ca
 login.office-server-onedrive.ca
-login.offices-server.ca
 login.robertatcanada.com
 m.interac-mobile-deposit.com
-mail.authentication-scotiaonline.com
 mail.etransfer-interacccc-ca.com
 mail.etransfers-interacs.com
+mail.interac-company.com
 mail.interac-etransfer32452313.com
 mail.interac-etransfercostco.com
 mail.interac.company
@@ -542,6 +540,7 @@ mouvaccesdsupport.com
 mouvdesjardins.com
 my-rbc.us
 my-td-dashboard.com
+my-td-summary.com
 myaccount.beiimobiiity.ca
 myaccount.beiimobility.ca
 myalerts-cibc.com
@@ -590,6 +589,7 @@ rbc-financial-secure.com
 rbc-financial-secured.com
 rbc-line.com
 rbc-mainline.web.app
+rbc-mobile-alert.com
 rbc-onclick.com
 rbc-royal.netlify.app
 rbc-royal.teamworxs.co.za
@@ -600,10 +600,10 @@ rbc-royalbnk.netlify.app
 rbc-service.cf
 rbc-service1alert.com
 rbc-signon-app.com
-rbc-verification-utilisateurs-ca.bsaty.com
 rbc-verify.com
 rbc-verify2.web.app
 rbc-verifylogin5.web.app
+rbc-web-customers.com
 rbc.app-connexion.com
 rbc.app-enligneweb.com
 rbc.application-web.com
@@ -631,7 +631,6 @@ rbcroyal-secure.com
 rbcroyal-signon.com
 rbcroyalbank-secured.com
 rbcroyalbank.2web-ca.com
-rbcroyalbank.appid2.com
 rbcroyalbank.ca-auth2.com
 rbcroyalbank.ca-online2.com
 rbcroyalbank.ca-web1.com
@@ -654,7 +653,9 @@ revcanada-direct-login-webca.com
 revenuecanadainterac.com
 revenueqc-interac.ca
 royalbank-rbc.com
+royalbank-unlock.link
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
+royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f77ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.life
@@ -667,6 +668,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.life
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f51f-f73ibrequest.shop
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f57f-f13ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f21ibrequest.info
+royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.info
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f71f-f21ibrequest.top
@@ -675,6 +677,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.id5di3b7fbf2e2a4d7f2b064a318ds31.shop
 royalbankrbc.org
 royalcanadasecure.com
+s.team-td.com
 safety-royalbank.com
 sc0tia-blckd19.com
 scotia-4287.netlify.app
@@ -685,6 +688,7 @@ scotia-bank-online-verify-account-on-hold-187263.businesscentrenewyork.com
 scotia-bank.co
 scotia-bank.org
 scotia-ca956.web.app
+scotia-clientvalidation.one
 scotia-connect.co.com
 scotia-d6547.firebaseapp.com
 scotia-d6547.web.app
@@ -748,16 +752,20 @@ secure-authrbcroyal.com
 secure-bmo-page1.com
 secure-rbc.duckdns.org
 secure-rbconline.com
+secure-rbcroyalalert.com
 secure-rbcroyalalerts.com
 secure-scotiabank.net
 secure-scotiabank.sytes.net
 secure.royalbank.erafde.com
+secure.royalbank.irercc.com
 secure1-ca-interac.com
 secure1rbcroyal.com
 securemail-interac-verify.com
 securerbc-royalbank.com
+secureroyal1rbconline.com
 secures-etransfers-ca.ml
 securesign-rbcroyal.com
+securetransfer0111.ca
 security-alert-td.sbs
 servus-dibatanservicerss.xyz
 sign-intrust-scotiaonline.com
@@ -787,6 +795,7 @@ td-autheasy1wb.com
 td-authweb.net
 td-bank-secure.com
 td-bnkng.info
+td-ca-trust.club
 td-ca-trust.cyou
 td-ca-unverified-payees.com
 td-canada-trust.cyou
@@ -796,7 +805,9 @@ td-client.info
 td-corp.info
 td-dev.tsbc.com
 td-disclosure.info
+td-dominion-secure.com
 td-ease-web.com
+td-easywb-myprofile.com
 td-emn.com
 td-hcn.com
 td-hin.com
@@ -822,8 +833,12 @@ td-update.info
 td-vortex.com
 td-web.acc-ld.com
 td.1access-mobi.com
+td.1auth-web.com
 td.2easy-auth.com
+td.2easyauth.com
+td.2web-ca.com
 td.2webauth.com
+td.access-auth1.com
 td.accesscard1.com
 td.act1-solution.com
 td.arundelschool.net
@@ -836,7 +851,9 @@ td.auth2acc.com
 td.ca-easy2web.com
 td.cardaccess1.com
 td.com.auth0-account.ltd
+td.com.set-login.group
 td.foxtrot47.dev
+td.gametimeng.com
 td.rumpusroompodcast.com
 td.secure-2auth.com
 td.secure-web1.com
@@ -844,11 +861,13 @@ td.secureuser.info
 td.web2-auth.com
 td.webacc-ca2.com
 td1auth-secure.com
+tdbank-onlinebanking1.com
 tdbank.afe.wiki
 tdbank.kindlingministries.com
 tdbanking-portal.com
 tdcanada-authentication.biz
 tdcanada-authentication.link
+tdcanadatrust-scr.com
 telegram-grilss12.wb-td.com
 terms-bmo-online.com
 tps-etransfer.org
@@ -876,5 +895,6 @@ www-rbc-online.net
 www-scotiabank.ddns.net
 www1-rbc-login.com
 www1-royalbank.com-get-verify.info
+www1.bmo-online.tinycoconut.com
 xn--vrdcentralengenarp-4tb.se
 young-massive-tangerine.glitch.me
