@@ -532,6 +532,7 @@ export const banking_domains = [
   "mail.r0ger-lnterac.com",
   "mailaccescaisse04-bccd8a.ingress-comporellon.ewp.live",
   "manage-wealthsimple.com",
+  "meridian-app.nu",
   "mescomptes-sgpart.ortodontica.mx",
   "mescomptes.expre-package.info",
   "mobile-scotia1.app.link",
