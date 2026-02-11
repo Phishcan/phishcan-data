@@ -536,6 +536,7 @@ export const banking_domains = [
   "mescomptes-sgpart.ortodontica.mx",
   "mescomptes.expre-package.info",
   "mobile-scotia1.app.link",
+  "mon-espace-securise-interac.com",
   "moncompte-bmo.net",
   "mouvaccesdsupport.com",
   "mouvdesjardins.com",
