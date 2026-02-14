@@ -35,6 +35,7 @@ attverificationbellsouth.webflow.io
 auth0sharefid0000000200000ff1ce009id31d2bb9c.auth0rizesharedo.workers.dev
 bbbbbbbbbbsasktel.weebly.com
 bell-alliant-mail-six.vercel.app
+bell-bill.com
 bell-billing.caritasgambia.gm
 bell-billing.dingerpay.com
 bell-ca-ref.xyz
@@ -400,6 +401,7 @@ mypanelshaw.com
 myr0gersin7.com
 myrogers-2manage-payments.net
 myrogers-account-signin.weeblysite.com
+myrogers-fraudprevention.com
 myrogerspanel.com
 myrogerssjrb.com
 myrogersusers.com
@@ -412,7 +414,6 @@ myshaw-info.com
 myshaw-sjrbca.com
 myshawacct.codeberg.page
 myshawca-user.com
-myshawcamail.com
 myshawclick.com
 myshawcnd.com
 myshawrog.com
