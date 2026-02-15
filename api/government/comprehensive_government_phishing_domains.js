@@ -31,7 +31,6 @@ export const government_domains = [
   "cbsa.dyndns.dk",
   "cra-abt.icu",
   "cra-any.icu",
-  "cra-arc-gov-ca.org",
   "cra-aue.icu",
   "cra-avr.icu",
   "cra-cg-ca-agency.com",
