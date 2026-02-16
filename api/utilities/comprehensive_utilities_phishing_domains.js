@@ -368,7 +368,6 @@ export const utilities_domains = [
   "my-pacbellsecure.square.site",
   "my.salesforce.onfido.sale",
   "myab-shaw.com",
-  "myaccount.r0gerswlreless.com",
   "mybell-08.godaddysites.com",
   "mybell-109546.weeblysite.com",
   "mybell-webmail.viaggiareincrediti.it",
@@ -759,6 +758,5 @@ export const utilities_domains = [
   "xplornetnet.weebly.com",
   "xplornetvoice-webmail.pages.dev",
   "yahoo-att-bellsouthupdate.weeblysite.com",
-  "yourreftelus.top",
-  "zmyshaw.com"
+  "yourreftelus.top"
 ];
