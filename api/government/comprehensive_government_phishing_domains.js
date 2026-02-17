@@ -40,7 +40,6 @@ export const government_domains = [
   "cra-health.com",
   "cra-info.com",
   "cra-revenu.icu",
-  "cra.canada-server.cc",
   "ecomquebec.ca",
   "futurefundcanada.com",
   "fwrd-canadapost.ca",
