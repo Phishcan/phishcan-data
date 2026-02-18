@@ -720,7 +720,6 @@ export const utilities_domains = [
   "wavesong-ph5mystline.koodoozou.sa.com",
   "web-sasktelnet.weebly.com",
   "web-sasktelonline.weebly.com",
-  "webmail-bell-107469.weeblysite.com",
   "webmail-bell-login.congkhanhluat.vn",
   "webmail-bell-login.inspiraclin.com.br",
   "webmail-bell-one.vercel.app",
