@@ -267,7 +267,6 @@ export const utilities_domains = [
   "emailshawwebmaillxjjidx.weebly.com",
   "embellishedornerymonads.josealbertoal21.repl.co",
   "emyshawbillupdate.is-leet.com",
-  "enmax.se",
   "erikoistarjouksessa.handbell.ca",
   "eshawupdate.from-ca.com",
   "faltenbellaservice.top",
