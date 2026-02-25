@@ -440,7 +440,6 @@ export const utilities_domains = [
   "oshawaelectricalservices.com",
   "oversign.campbellserver.com",
   "overtelusclient.com",
-  "parrocchie.campobello.it",
   "pastebomb.campbellserver.com",
   "payeebellinvoices.com",
   "paymefidoref.com",
