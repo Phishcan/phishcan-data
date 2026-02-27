@@ -60,6 +60,7 @@ export const government_domains = [
   "services.cra-arc-gov-ca.org",
   "servicetrust-cra.com",
   "sk-postes.top",
+  "spx-cra.cz",
   "track-poste-canada-parcel.com",
   "transfer-saaq.com"
 ];
