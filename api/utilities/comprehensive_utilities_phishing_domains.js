@@ -326,7 +326,6 @@ export const utilities_domains = [
   "invoicesbellmobiles.com",
   "jamnest-rrhg9echoroot.koodoozou.sa.com",
   "jamwood-5lgwavewood.koodoozou.sa.com",
-  "jimmysbelleayreskishop.com",
   "jira.cashback-freedommobi1737.com",
   "john.campbell.larealtypertners.com",
   "joln-chatrruwndd.mediafire-newlink.my.id",
