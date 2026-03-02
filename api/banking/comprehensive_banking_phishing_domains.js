@@ -182,7 +182,6 @@ export const banking_domains = [
   "cibcsecure-https.top",
   "cibcsecure-login.top",
   "cibcsecure-mobile.top",
-  "cibcsecure-online.top",
   "cibcsecure-verify.top",
   "claim-dana-kaget.wb-td.com",
   "claim.secure-lnterac.com",
