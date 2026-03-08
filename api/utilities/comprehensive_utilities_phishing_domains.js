@@ -387,6 +387,7 @@ export const utilities_domains = [
   "myfid0inv578.com",
   "myfid0mob3.com",
   "myfido-alert.info",
+  "myizabella.se",
   "mymtsbellmaildesk.weebly.com",
   "mynvbellnet.square.site",
   "mypanelshaw.com",
