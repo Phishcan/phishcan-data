@@ -488,6 +488,7 @@ export const banking_domains = [
   "lnteracpayments.com",
   "lnteracpayments.me",
   "loggin.scotiabank14.repl.co",
+  "login-ss.fpcsorp.ca",
   "login.ionos.ca",
   "login.office-server-onedrive.ca",
   "login.offices-server.ca",
