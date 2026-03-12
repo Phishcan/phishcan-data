@@ -7,7 +7,6 @@
 1wvw.scotiaweb1-online-scotiabank.com
 5-interac.com
 68dc3bc4d86cf100084e33ff--tangerine-baklava-b04631.netlify.app
-acccweb.mouv.desjardinsway.com
 accdweb01desjardins.com
 accept-ca-interac.com
 acces-desjardins.online
@@ -22,10 +21,7 @@ accesd-web-info.com
 accesd-web.com
 accesd-web3.com
 accesd01verif.com
-accesd1uniock.com
-accesd2uniock.com
 accesdesjardins-authentification.online
-access-interac-funds-cad-transf.com
 access-lnteractransfer.live
 accesweb-desj.com
 acceswebdesjardins.com
@@ -42,11 +38,12 @@ accweb.mouv.desjmob.com
 accwebmov-desjardins.com
 accwebs01mouvdesjardins.com
 admin.myrbcsecure.com
-alert-easyweb-td.org
 alerts-rbc.com
 amende-enligne-qc.com
+api.rbc.design
 app-bmo-enligne.net
 app-online-rbc.com
+as85485-interac.gogss.com
 atb-dystrybucja.com
 atb-online-ban-king.com
 auth-td07.sbs
@@ -55,6 +52,7 @@ authentication-td-pthip.com
 auto-vendu.groupe-cibc.com
 autverifyrbconline.ddns.net
 bmo-easysecure.com
+broken-cosmic-tangerine.glitch.me
 button-juicy-tangerine.glitch.me
 cibc-ag.com
 cibc-clients.com
