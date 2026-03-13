@@ -12,6 +12,7 @@ export const government_domains = [
   "canadapost-postescanadaks.xyz",
   "canadapost.reserv-confirms.com",
   "canadasecurecheck.info",
+  "cbsa-asfc.directsmailsolution.com",
   "cra-abt.icu",
   "cra-any.icu",
   "cra-aue.icu",
