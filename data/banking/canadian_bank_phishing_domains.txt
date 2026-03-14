@@ -7,6 +7,7 @@
 1wvw.scotiaweb1-online-scotiabank.com
 5-interac.com
 68dc3bc4d86cf100084e33ff--tangerine-baklava-b04631.netlify.app
+acccweb.mouv.desjardinsway.com
 accdweb01desjardins.com
 accept-ca-interac.com
 acces-desjardins.online
@@ -21,7 +22,10 @@ accesd-web-info.com
 accesd-web.com
 accesd-web3.com
 accesd01verif.com
+accesd1uniock.com
+accesd2uniock.com
 accesdesjardins-authentification.online
+access-interac-funds-cad-transf.com
 access-lnteractransfer.live
 accesweb-desj.com
 acceswebdesjardins.com
@@ -207,6 +211,7 @@ rbc.secure-enligne.com
 rbc.web-enligne.com
 rbconlinesignin.com
 revcanada-direct-login-webca.com
+revenuecanadainterac.com
 royalbank-rbc.com
 royalcanadasecure.com
 scotia-connect.co.com
