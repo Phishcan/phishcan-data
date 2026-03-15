@@ -239,7 +239,6 @@ export const utilities_domains = [
   "montebelluna-hk.com",
   "mybell0server0.weebly.com",
   "mybellca.com",
-  "myizabella.se",
   "myrogers-2manage-payments.net",
   "myrogers-fraudprevention.com",
   "myshawwebmail.weebly.com",
