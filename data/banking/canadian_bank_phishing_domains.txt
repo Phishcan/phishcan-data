@@ -210,6 +210,7 @@ rbc.secure-enligne.com
 rbc.web-enligne.com
 rbconlinesignin.com
 revcanada-direct-login-webca.com
+revenuecanadainterac.com
 royalbank-rbc.com
 royalcanadasecure.com
 scotia-connect.co.com
@@ -230,6 +231,7 @@ signin-tangerine.com
 sv-rbcroyalbank.com
 tangerine-ca.com
 tangerine-can.com
+tangerine-crisp-b3cb52.netlify.app
 tangerine-pudding-d450f1.netlify.app
 tangerine-security.com
 tangerine-zone.com
