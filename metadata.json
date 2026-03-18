@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:44:47Z",
+  "last_updated": "2026-03-18T16:45:18Z",
   "feeds": {
     "banking": {
       "domains": 260,
@@ -13,7 +13,7 @@
     },
     "utilities": {
       "domains": 336,
-      "new_domains": 1,
+      "new_domains": 0,
       "source_file": "canadian_phish_utilities_2026-03-18.txt"
     },
     "investor-alerts": {
