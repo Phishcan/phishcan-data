@@ -66,6 +66,7 @@ export const utilities_domains = [
   "bellamydental.com",
   "bellamykendra8.wixsite.com",
   "bellavista-woodview.com",
+  "bellcanada-mu.vercel.app",
   "bellcanada-support.com",
   "bellfruitonline.in",
   "bellimaglngonline.com",
