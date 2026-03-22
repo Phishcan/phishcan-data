@@ -185,6 +185,7 @@ export const banking_domains = [
   "interacpayments.neocities.org",
   "isn1-scotiabank.azurewebsites.net",
   "lnterac-id1849128.cfd",
+  "login.albertagamingliquor.ca",
   "manage-wealthsimple.com",
   "meridian-app.lol",
   "mon-espace-securise-interac.com",
