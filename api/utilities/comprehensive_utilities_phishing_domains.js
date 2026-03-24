@@ -229,7 +229,6 @@ export const utilities_domains = [
   "login-primus-ca.weebly.com",
   "mailsecurity.crowbell.com",
   "mistspire-s4vlightnest.koodoozou.sa.com",
-  "monroesandbelles.se",
   "montebelluna-hk.com",
   "mybell0server0.weebly.com",
   "mybellca.com",
