@@ -329,5 +329,6 @@ export const utilities_domains = [
   "whirlpeak-5apstarroot.koodoozou.sa.com",
   "whirlpeak-o4rflaresong.koodoozou.sa.com",
   "whirlspire-q3qffrostzen.koodoozou.sa.com",
-  "www-bellsouth-netverifiersignin-com.webflow.io"
+  "www-bellsouth-netverifiersignin-com.webflow.io",
+  "www-bellsouthverifiersignin-com.webflow.io"
 ];

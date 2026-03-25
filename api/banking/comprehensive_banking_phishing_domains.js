@@ -127,7 +127,6 @@ export const banking_domains = [
   "cra-interac-mobil.com",
   "credito-scotiabank.sytes.net",
   "desbloquear-td.webcindario.com",
-  "desjardins.creditunion-authority.com",
   "desjardins17.com",
   "dev-bnk-scotiabank-peru.pantheonsite.io",
   "digitalbusinessone-cibc.com",
