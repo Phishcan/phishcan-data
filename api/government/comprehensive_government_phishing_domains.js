@@ -3,7 +3,6 @@ export const government_domains = [
   "albertahealthservicesinteraconlinetransfer.hostclone.com",
   "albertahealthservicesinteraconlinetransfer.mahlobynklap.com",
   "antai-gouv.essipun-on-sea.com",
-  "ca-postescanada.top",
   "canadapost-postecanadadeliverylivraison.com",
   "canadapost-postescanada.work",
   "canadapost-postescanadake.xyz",
