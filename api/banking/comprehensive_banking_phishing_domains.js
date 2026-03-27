@@ -212,7 +212,6 @@ export const banking_domains = [
   "rbc.web-enligne.com",
   "rbconlinesignin.com",
   "revcanada-direct-login-webca.com",
-  "revenuecanadainterac.com",
   "royalbank-rbc.com",
   "royalcanadasecure.com",
   "scotia-connect.co.com",
