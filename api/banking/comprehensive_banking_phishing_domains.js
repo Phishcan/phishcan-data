@@ -58,6 +58,7 @@ export const banking_domains = [
   "auth-royalbank.com",
   "auth-td-online.link",
   "auth-td-online.xyz",
+  "auth-td07.sbs",
   "auth-tdsecure.net",
   "auth.atb-ca.tel",
   "authentication-td-koanip.com",
