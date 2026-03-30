@@ -188,6 +188,7 @@ export const banking_domains = [
   "lnterac-id1849128.cfd",
   "login.albertagamingliquor.ca",
   "manage-wealthsimple.com",
+  "manager.meridian-rentacar.com",
   "meridian-app.lol",
   "mon-espace-securise-interac.com",
   "mouvdesjardins.com",
