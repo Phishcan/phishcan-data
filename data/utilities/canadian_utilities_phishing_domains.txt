@@ -110,7 +110,6 @@ bellsouth-att-signing-a46195.webflow.io
 bellsouth-att-signing-b613f6.webflow.io
 bellsouth-att-signing-c0218f.webflow.io
 bellsouth-att-signing-e99efa.webflow.io
-bellsouth-att-signing-verifier-b51628.webflow.io
 bellsouth-att-signing-verify-48fc56.webflow.io
 bellsouth-att-verification-db6f65.webflow.io
 bellsouth-authentication-service.webflow.io
@@ -232,6 +231,7 @@ jamwood-5lgwavewood.koodoozou.sa.com
 joyflux-8ennoirroot.koodoozou.sa.com
 joypeak-swv1knoirella.koodoozou.sa.com
 login-primus-ca.weebly.com
+lotscode.danbellservices.com
 mailsecurity.crowbell.com
 mistspire-s4vlightnest.koodoozou.sa.com
 montebelluna-hk.com
@@ -278,6 +278,7 @@ signin-att-bellsouth-4473f2.webflow.io
 signin-rogers.com
 smyk.cosibellapl-co.com
 soulroot-ju6kglimspire.koodoozou.sa.com
+spicycata.danbellservices.com
 starsbelll.casa
 starspire-8qojqwhirlline.koodoozou.sa.com
 stonenest-vr8idawnspire.koodoozou.sa.com
