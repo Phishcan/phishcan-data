@@ -201,6 +201,7 @@ export const utilities_domains = [
   "connect-bell-web.weebly.com",
   "cosibella.notinoro.online",
   "cosibella.parys.help",
+  "cosibellaonline.shop",
   "courielvideotron.weebly.com",
   "courrielweb-videotron-login-layout-iwc-static-fr-html-calender.weebly.com",
   "courrielweb-videotron-login-layout-iwc-static-fr-html.weebly.com",
