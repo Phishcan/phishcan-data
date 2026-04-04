@@ -1,4 +1,5 @@
 export const utilities_domains = [
+  "1pqv53qc.dumbbellshower.digital",
   "1servicios0nline-bcofalabellla-pe.000webhostapp.com",
   "1telus-mobility.com",
   "220sbcproaddressmailing76788892bellglobalm9983892atthjaiaoride.weebly.com",
@@ -104,7 +105,6 @@ export const utilities_domains = [
   "bellsouth-att-signin-023358.webflow.io",
   "bellsouth-att-signin-9ebd82.webflow.io",
   "bellsouth-att-signing-07d6c7.webflow.io",
-  "bellsouth-att-signing-22025d.webflow.io",
   "bellsouth-att-signing-2b7e1a.webflow.io",
   "bellsouth-att-signing-2e81e7.webflow.io",
   "bellsouth-att-signing-7d8035.webflow.io",
