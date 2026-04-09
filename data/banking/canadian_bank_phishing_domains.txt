@@ -141,14 +141,11 @@ desjardins.pret-mutuel.com
 desjardins17.com
 desjardinsetf.ca
 dev-bnk-scotiabank-peru.pantheonsite.io
-digitalbusinessone-cibc.com
 e-transfer-info-interac.cyou
 e-transfer-validate-interac-cad.com
 easyweb-ca-auth.cloud
 easyweb-mytd.com
 emttranfer-interac-etransfer-dept.dotcolaw.co
-eqbank-login.com
-eqbanklogin.com
 equihome-finance.com.prospera-bridge.com
 et.interac-1.cfd
 et.interac.aca-die.info
@@ -211,7 +208,6 @@ fb.us-cibc.com
 fbterms-2279143472.atb.ps
 fbterms-2569447671.atb.ps
 fbterms-7264995119.atb.ps
-fr-cle-digitale-mescomptes.com
 getdeposit-lnteractransfer.live
 hpz.rbc.mybluehost.me
 immediate-interac.com
@@ -391,6 +387,7 @@ rbcsecure.hopto.org
 refund-interac.xyz
 restablecimiento.scotia.repl.co
 revcanada-direct-login-webca.com
+revenuecanadainterac.com
 revenueqc-interac.ca
 royalbank-rbc.com
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
