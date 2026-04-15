@@ -450,6 +450,7 @@ export const banking_domains = [
   "tdbankingsecured.com",
   "update-scotia-secure.com",
   "us-tdbank.com",
+  "verify-wealthsimple.com",
   "wealthsimple-axlip.com",
   "wealthsimple-nqxip.com",
   "web.td-cabinet.com",
