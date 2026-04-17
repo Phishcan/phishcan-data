@@ -133,7 +133,6 @@ export const banking_domains = [
   "credito-scotiabank.sytes.net",
   "desbloquear-td.webcindario.com",
   "desjardins-accesportailsd.com",
-  "desjardins-account.com",
   "desjardins-accweb-enligne-secure.com",
   "desjardins-info24.com",
   "desjardins-portailaccessd.com",
