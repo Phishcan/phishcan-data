@@ -239,7 +239,6 @@ export const utilities_domains = [
   "fidoservice.website",
   "fidoservices.com",
   "fidoupdatemobili.com",
-  "fidoverification.com",
   "flareroot-n9ogalaline.koodoozou.sa.com",
   "freedom0mobile.com",
   "frommobile.000webhostapp.com",
