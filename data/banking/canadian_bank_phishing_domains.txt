@@ -51,7 +51,6 @@ app-bmo-enligne.net
 app-online-rbc.com
 as85485-interac.gogss.com
 assistance-caisse.servehttp.com
-atb-dystrybucja.com
 atb-online-ban-king.com
 atb-online.org
 aut1h-easyweb.com
@@ -130,7 +129,6 @@ cobranza-scotiabank.memphis.mx
 com-accesd-2025.com
 cra-interac-mobil.com
 credito-scotiabank.sytes.net
-desbloquear-td.webcindario.com
 desjardins-accesportailsd.com
 desjardins-accweb-enligne-secure.com
 desjardins-info24.com
@@ -430,6 +428,7 @@ tangerine-pudding-d450f1.netlify.app
 tangerine-security.com
 tangerine-zone.com
 tangerineaccessrestore.com
+td-aki.com
 td-alert1service.com
 td-auto.com
 td-bnkng.info
