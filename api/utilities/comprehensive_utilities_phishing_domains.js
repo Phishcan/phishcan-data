@@ -493,6 +493,7 @@ export const utilities_domains = [
   "whirlpeak-o4rflaresong.koodoozou.sa.com",
   "whirlspire-q3qffrostzen.koodoozou.sa.com",
   "wm-shawlogin76.framer.website",
+  "wm-webmail-shaw31.framer.website",
   "www-bellsouthverifiersignin-com.webflow.io",
   "xplornetemail.weebly.com",
   "xplornetvoice-webmail.pages.dev"
