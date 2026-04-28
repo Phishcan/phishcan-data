@@ -345,6 +345,7 @@ rbc-royal.teamworxs.co.za
 rbc-royalbcanada.com
 rbc-royalbk.com
 rbc-royalbnk.netlify.app
+rbc-sapt.com
 rbc-service.cf
 rbc-service1alert.com
 rbc-verify2.web.app
@@ -435,6 +436,7 @@ td-bnkng.info
 td-client.info
 td-corp.info
 td-disclosure.info
+td-exec.limited
 td-restore.info
 td-secure2fa.com
 td-service1alert.com

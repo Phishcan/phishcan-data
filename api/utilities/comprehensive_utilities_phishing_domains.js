@@ -80,7 +80,6 @@ export const utilities_domains = [
   "bellmobility-billing.com",
   "bellmobilitycarrier.com",
   "bellmtcwebmail.weeblysite.com",
-  "bellmtsdatabaseverification.framer.website",
   "bellmtsmailer.weebly.com",
   "bellmymtsaccesspage-17274709.weebly.com",
   "bellmymtsaccesspage-17973609.weebly.com",
