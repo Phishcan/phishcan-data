@@ -129,7 +129,6 @@ cobranza-scotiabank.memphis.mx
 com-accesd-2025.com
 cra-interac-mobil.com
 credito-scotiabank.sytes.net
-desbloquear-td.webcindario.com
 desjardins-accesportailsd.com
 desjardins-accweb-enligne-secure.com
 desjardins-info24.com
@@ -138,6 +137,7 @@ desjardins-qcaccesd.com
 desjardins.active.usdroneteam.com
 desjardins.creditunion-authority.com
 desjardins.pret-mutuel.com
+desjardins1-auth00.com
 desjardins17.com
 desjardinsetf.ca
 dev-bnk-scotiabank-peru.pantheonsite.io
