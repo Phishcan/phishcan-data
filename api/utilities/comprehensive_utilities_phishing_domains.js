@@ -263,7 +263,6 @@ export const utilities_domains = [
   "joyflux-8ennoirroot.koodoozou.sa.com",
   "joypeak-swv1knoirella.koodoozou.sa.com",
   "klaim-vocer-bellanja.cs-service.biz.id",
-  "koodooba.ru",
   "labellemontagne.com",
   "larenmax.com",
   "login-primus-ca.weebly.com",
