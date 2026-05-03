@@ -129,7 +129,6 @@ cobranza-scotiabank.memphis.mx
 com-accesd-2025.com
 cra-interac-mobil.com
 credito-scotiabank.sytes.net
-desbloquear-td.webcindario.com
 desjardins-accesportailsd.com
 desjardins-accweb-enligne-secure.com
 desjardins-info24.com
@@ -393,7 +392,6 @@ rbcsecure.hopto.org
 refund-interac.xyz
 restablecimiento.scotia.repl.co
 revcanada-direct-login-webca.com
-revenuecanadainterac.com
 revenueqc-interac.ca
 royalbank-rbc.com
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -450,6 +448,7 @@ td.secureuser.info
 tdbank-idverification.com
 tdbank.kindlingministries.com
 tdbankingsecured.com
+tdsecure-portal.com
 update-scotia-secure.com
 us-tdbank.com
 verify-wealthsimple.com
