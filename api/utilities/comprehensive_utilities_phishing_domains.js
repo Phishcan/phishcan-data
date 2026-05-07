@@ -478,6 +478,7 @@ export const utilities_domains = [
   "webmail-eastlink-cai.weebly.com",
   "webmail-en-bellnet-ca-ux-index.netlify.app",
   "webmail-login-shawcal.com",
+  "webmailbell.vercel.app",
   "webmailbellaccount.weebly.com",
   "webmaillshawcca.weebly.com",
   "webmailshaw900.wixsite.com",

@@ -21,6 +21,7 @@ export const government_domains = [
   "cra-ch.com",
   "cra-gouv-cov19.org",
   "cra-health.com",
+  "e-transfer-canada-info.cfd",
   "futurefundcanada.com",
   "fwrd-canadapost.ca",
   "hst.cra.ac.th",
