@@ -99,10 +99,8 @@ bellsouth-activation-service.webflow.io
 bellsouth-att-sign-in-verification.webflow.io
 bellsouth-att-signin-023358.webflow.io
 bellsouth-att-signin-9ebd82.webflow.io
-bellsouth-att-signing-07d6c7.webflow.io
 bellsouth-att-signing-1318f3.webflow.io
 bellsouth-att-signing-1dd6db.webflow.io
-bellsouth-att-signing-290628.webflow.io
 bellsouth-att-signing-2e81e7.webflow.io
 bellsouth-att-signing-7d8035.webflow.io
 bellsouth-att-signing-854e3f.webflow.io
@@ -117,7 +115,6 @@ bellsouth-att-verification-db6f65.webflow.io
 bellsouth-authentication-service.webflow.io
 bellsouth-email-account-verifi-5d347a.webflow.io
 bellsouth-email-verifier-4fdde4.webflow.io
-bellsouth-email-verifier-b0eab5.webflow.io
 bellsouth-login-143095.webflow.io
 bellsouth-login.webflow.io
 bellsouth-login.weebly.com
@@ -470,7 +467,6 @@ videotronmail8.weebly.com
 videotronooo34.weebly.com
 videotronsecurity2470.weebly.com
 videotronwebmai1.weebly.com
-videotronwebmailservices.weebly.com
 videotronxwvtron.weebly.com
 videotronz.weebly.com
 wavesong-ph5mystline.koodoozou.sa.com
