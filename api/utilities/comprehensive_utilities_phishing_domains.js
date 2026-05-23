@@ -360,6 +360,7 @@ export const utilities_domains = [
   "rogersinvoice.wpengine.com",
   "rogerslogin.vercel.app",
   "rogersmail00.weebly.com",
+  "rogersmembercentetrlogin.weebly.com",
   "rogersmembershipsecureteam.weebly.com",
   "rogersmemberssignin.github.io",
   "rogersrefundnow.com",
