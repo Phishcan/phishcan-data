@@ -1,7 +1,6 @@
 export const banking_domains = [
   "005verf-desj.com",
   "009verf-desj.com",
-  "0frduisp.cloud-meridian.digital",
   "1.bmo.best",
   "1accesd8.com",
   "1secureverification-bmo.info",
@@ -131,7 +130,6 @@ export const banking_domains = [
   "com-accesd-2025.com",
   "cra-interac-mobil.com",
   "credito-scotiabank.sytes.net",
-  "desbloquear-td.webcindario.com",
   "desjardins-accesportailsd.com",
   "desjardins-accweb-enligne-secure.com",
   "desjardins-info24.com",
