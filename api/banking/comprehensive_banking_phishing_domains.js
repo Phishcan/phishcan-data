@@ -440,6 +440,7 @@ export const banking_domains = [
   "td-client.info",
   "td-corp.info",
   "td-disclosure.info",
+  "td-donburi.com",
   "td-exec.limited",
   "td-restore.info",
   "td-secure2fa.com",
