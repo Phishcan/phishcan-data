@@ -129,6 +129,7 @@ cobranza-scotiabank.memphis.mx
 com-accesd-2025.com
 cra-interac-mobil.com
 credito-scotiabank.sytes.net
+desbloquear-td.webcindario.com
 desjardins-accesportailsd.com
 desjardins-accweb-enligne-secure.com
 desjardins-info24.com
@@ -208,7 +209,6 @@ fb.us-cibc.com
 fbterms-2279143472.atb.ps
 fbterms-2569447671.atb.ps
 fbterms-7264995119.atb.ps
-fkmrx4nm.signal-meridian.digital
 getdeposit-lnteractransfer.live
 hpz.rbc.mybluehost.me
 immediate-interac.com
