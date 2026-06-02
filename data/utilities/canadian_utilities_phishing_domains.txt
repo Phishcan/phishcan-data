@@ -111,7 +111,6 @@ bellsouth-att-signing-9c9d73.webflow.io
 bellsouth-att-signing-a46195.webflow.io
 bellsouth-att-signing-b613f6.webflow.io
 bellsouth-att-signing-c0218f.webflow.io
-bellsouth-att-signing-e10bb7.webflow.io
 bellsouth-att-signing-e99efa.webflow.io
 bellsouth-att-signing-verify-48fc56.webflow.io
 bellsouth-att-verification-db6f65.webflow.io
@@ -388,6 +387,7 @@ sasktelmailnotification.weebly.com
 sasktelnet-102870.weeblysite.com
 sasktelonlinenetworks.weebly.com
 sasktelonlinewebsite.weebly.com
+sasktelresetupdate.framer.website
 sasktelsasktelimitstorageincreaseprovis.webflow.io
 sasktelsasktelwebmailsystemwebmailservi.webflow.io
 sasktelsuccessextension.webflow.io
