@@ -413,6 +413,7 @@ export const banking_domains = [
   "scotia.empresas-chile.life",
   "scotia1developer.world",
   "scotiaalerts.com",
+  "scotiabank-card-inve-tapv.bolt.host",
   "scotiabank-cl.com",
   "scotiabank-gift.com",
   "scotiabank-glft.cc",
