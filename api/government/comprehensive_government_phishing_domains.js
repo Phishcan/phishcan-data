@@ -22,6 +22,7 @@ export const government_domains = [
   "cra-ch.com",
   "cra-gouv-cov19.org",
   "cra-health.com",
+  "cra-ready.se",
   "defi-on-arc.vercel.app",
   "e-transfer-canada-info.cfd",
   "futurefundcanada.com",
