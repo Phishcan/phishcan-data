@@ -204,6 +204,7 @@ export const utilities_domains = [
   "cosibella.parys.help",
   "cosibellaonline.shop",
   "courielvideotron.weebly.com",
+  "courrielweb-connexion-9789478-html-videotron-ca.framer.website",
   "courrielweb-connexion-videotron-89367393-videotron-ca.framer.website",
   "courrielweb-videotron-login-layout-iwc-static-fr-html-calender.weebly.com",
   "courrielweb-videotron-login-layout-iwc-static-fr-html.weebly.com",
