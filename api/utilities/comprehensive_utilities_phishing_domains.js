@@ -223,7 +223,6 @@ export const utilities_domains = [
   "emyshawbillupdate.is-leet.com",
   "erikoistarjouksessa.handbell.ca",
   "eshawupdate.from-ca.com",
-  "faltenbellaservice.top",
   "fido-clients.online",
   "fido-mobility-devicesplan.com",
   "fido-provider.info",
