@@ -197,6 +197,7 @@ export const utilities_domains = [
   "billybradshaw.duckdns.org",
   "breezleaf-i0pkindlespire.koodoozou.sa.com",
   "brindingbell.online",
+  "businessebillbell.netlify.app",
   "caaxrogers.ca",
   "cabellinvoice.online",
   "cafebellaonline.com",
