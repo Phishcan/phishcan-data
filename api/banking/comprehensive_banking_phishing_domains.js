@@ -386,6 +386,7 @@ export const banking_domains = [
   "myalerts-cibc.com",
   "nbc-eg.com",
   "nbc.uatb.org",
+  "neat-tangerine-530162.framer.app",
   "net-flix-update.ca",
   "newfieldnationalbank-secure.com",
   "nextpayments-authverif-lnterac-ca.precisiongroup.org",

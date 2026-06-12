@@ -279,7 +279,6 @@ export const utilities_domains = [
   "joypeak-swv1knoirella.koodoozou.sa.com",
   "karma.ashleyshaw.ca",
   "klaim-vocer-bellanja.cs-service.biz.id",
-  "koodooba.ru",
   "labellemontagne.com",
   "larenmax.com",
   "login-primus-ca.weebly.com",
