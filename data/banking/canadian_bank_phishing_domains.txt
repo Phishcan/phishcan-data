@@ -154,7 +154,6 @@ caisse-desjardins-therese-de-blainville.com
 caisse-populaire-secure-log.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
-caisse.pro
 caisse8-popu22desj.info
 caisseacces1-001-site1.anytempurl.com
 caisseauthenti.wpengine.com
@@ -222,6 +221,7 @@ colpatria12.scotiabank12.repl.co
 colpatria2.scotiabank22.repl.co
 com-accesd-2025.com
 com-page-membre-accesd-1-service-desjardins.com
+commercialbanking-td-support.com
 conexus-nexus.online
 connection.accesd.com-html-acceuil-page-9-desjardins.com
 cordis-meridian.ru
@@ -423,6 +423,7 @@ fbterms-7264995119.atb.ps
 fkmrx4nm.signal-meridian.digital
 flutter-td.com
 fondsdesjardins.com
+fr-cle-digitale-mescomptes.com
 getdeposit-lnteractransfer.live
 gov-lnterac.info
 gov-revenue-interac.com
@@ -430,7 +431,6 @@ gr.meridian-saving.com
 homepersonalonline-rbc.com
 hpz.rbc.mybluehost.me
 humorous-accidental-tangerine.glitch.me
-icon8security.ca
 immediate-interac.com
 imtoken-td.org
 inexpensive-broad-tangerine.glitch.me
@@ -580,7 +580,6 @@ laurentian-fire.000webhostapp.com
 laurentian-toronto.com
 lebocoin.groupe-cibc.com
 lnterac-deposit.co
-lnterac-fr1.site
 lnterac-id1849128.cfd
 lnterac-secure.atmentecnologia.com.br
 lnterac.co
@@ -603,6 +602,7 @@ login.rogersform.com
 login4uz9jht3lke3iy6.frooglia.ca
 loginsupportscotiabank.com
 logo-td-whatsapp.hl.cn
+mail-royalbank.com
 mail.etransfer-interacccc-ca.com
 mail.etransfers-interacs.com
 mail.interac-company.com
@@ -689,8 +689,6 @@ rbc-ca.com
 rbc-com.heteml.net
 rbc-expressrecovery.com
 rbc-financial-secured.com
-rbc-idverification.com
-rbc-loginsecure.com
 rbc-mainline.web.app
 rbc-mobile-alert.com
 rbc-onclick.com
@@ -766,7 +764,6 @@ rbcroyalbank1.com
 rbcroyalbank1.netlify.app
 rbcroyalbankofcanadasecuresignin.roadstarmusicstudio.com
 rbcs3cure-appalic.serveirc.com
-rbcsecure.hopto.org
 refund-interac.xyz
 reminder-interac.com
 reservation-lnteractransfer.live
@@ -813,7 +810,6 @@ scotia-bank.co
 scotia-bank.org
 scotia-bankalert.com
 scotia-ca956.web.app
-scotia-clientportal.com
 scotia-clientvalidation.one
 scotia-connect.co.com
 scotia-d6547.firebaseapp.com
@@ -822,6 +818,7 @@ scotia-infos-alerts.com
 scotia-infosalerts.com
 scotia-itrade.com
 scotia-itrade.online
+scotia-itrade.org
 scotia-level3upgrade.litlls.buzz
 scotia-login.com
 scotia-login.info
@@ -837,7 +834,6 @@ scotia-validacionesonlinepe.liveblog365.com
 scotia-validationforum.one
 scotia-verifica-2023.paolitatim.repl.co
 scotia-verifyca.vercel.app
-scotia-websecure.ddns.net
 scotia.1mobile-web.com
 scotia.empresas-chile.life
 scotia.inononline.com
@@ -944,7 +940,6 @@ td-aki.com
 td-alert1service.com
 td-alertseasywb.com
 td-app1wb.com
-td-as.com
 td-authweb.net
 td-auto.com
 td-bank-secure.com
@@ -996,7 +991,6 @@ td-tubor.com
 td-udol.com
 td-update.info
 td-ventures.net
-td-verification.com
 td-vortex.com
 td.1access-mobi.com
 td.1auth-web.com
@@ -1019,7 +1013,6 @@ td.cardaccess1.com
 td.com.auth0-account.ltd
 td.com.set-login.group
 td.dauthuyduong.com
-td.distributedruntimehub.surf
 td.foxtrot47.dev
 td.gametimeng.com
 td.gtja689.top
@@ -1041,7 +1034,6 @@ td.xycn24.buzz
 td.xycn33.buzz
 td1-acc-login.com
 td1-login-acc1.com
-tdbank-idverification.com
 tdbank-onlinebanking1.com
 tdbank.afe.wiki
 tdbank.kindlingministries.com
@@ -1087,6 +1079,5 @@ www1-royalbank-cf.com
 www1-royalbank-ol.com
 www1-royalbank.com-get-verify.info
 www1.bmo-online.tinycoconut.com
-xmdkri560nzd9c9o-bm0.com
 young-massive-tangerine.glitch.me
 z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info
