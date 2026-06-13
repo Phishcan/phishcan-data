@@ -1,9 +1,10 @@
-export const government_domains = [
+export const domains = [
   "acct-cra.com",
   "airc-on-arc.vercel.app",
   "albertahealthservicesinteraconlinetransfer.hostclone.com",
   "albertahealthservicesinteraconlinetransfer.mahlobynklap.com",
   "antai-gouv.essipun-on-sea.com",
+  "bellservicecanada.com",
   "ca-ref-cra.info",
   "canada-revenue-agency.co",
   "canada-revenue-agency.com",

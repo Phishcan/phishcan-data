@@ -1,4 +1,4 @@
-export const banking_domains = [
+export const domains = [
   "0001interac.com",
   "005verf-desj.com",
   "009verf-desj.com",
@@ -599,6 +599,8 @@ export const banking_domains = [
   "login.ionos.ca",
   "login.office-server-onedrive.ca",
   "login.robertatcanada.com",
+  "login.rogersform.ca",
+  "login.rogersform.com",
   "login4uz9jht3lke3iy6.frooglia.ca",
   "loginsupportscotiabank.com",
   "logo-td-whatsapp.hl.cn",
