@@ -617,7 +617,6 @@ manager.meridian-rentacar.com
 membre.accesd.com-html5-page-8-membre-desjardins.com
 membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
-meridian-accountants.com
 meridian-app.lol
 meridian-architecture.com
 meridian-globalcapital.com
@@ -659,7 +658,6 @@ online.scotiabank.mx01online.com
 online.scotiabank.mxdigital987.com
 paiementnumeriq-interac.ca.xsph.ru
 particuliers-mescomptes.com
-payment-interac.cfd
 payments.com-transaction-moneris.top
 pcfinancialsecureaccess.com
 pcfinancialsecuredweb.com
@@ -899,6 +897,7 @@ secure.royalbank.erafde.com
 secure.royalbank.irercc.com
 secure1-ca-interac.com
 secure1rbcroyal.com
+securelogin-td.com
 securemail-interac-verify.com
 securerbc-royalbank.com
 secureroyal1rbconline.com
@@ -959,6 +958,7 @@ td-dominion-secure.com
 td-donburi.com
 td-ease-web.com
 td-easywb-myprofile.com
+td-edu.online
 td-emn.com
 td-exec.limited
 td-hcn.com
@@ -1063,6 +1063,7 @@ wallet-wealthsimple.com
 wealthsimple-axlip.com
 wealthsimple-nqxip.com
 wealthsimple-rewards.xyz
+wealthsimple.kids
 web-avance-para-personas-scotia-cl.cf
 web-avance-para-personas-scotia-cl.gq
 web-desjardins.com
