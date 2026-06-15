@@ -19,7 +19,6 @@ accept-ca-interac.com
 acces-desjardins.online
 accesd-1web.com
 accesd-affaire.com
-accesd-aide.ca
 accesd-caissepop-desjsupport.info
 accesd-de-desjardins.com
 accesd-desjardlns2.com
@@ -64,7 +63,6 @@ accwebmouv-desjardin.com
 accwebmov-desjardins.com
 accwebs01mouvdesjardins.com
 admin.myrbcsecure.com
-afrk-td.garden
 alberta-account.ca
 alert-easyweb-td.org
 alert-td-safety.sbs
@@ -223,6 +221,7 @@ com-accesd-2025.com
 com-page-membre-accesd-1-service-desjardins.com
 commercialbanking-td-support.com
 conexus-nexus.online
+conexus.pro
 connection.accesd.com-html-acceuil-page-9-desjardins.com
 cordis-meridian.ru
 cra-interac-mobil.com
@@ -236,7 +235,6 @@ desjardins-accesportails.com
 desjardins-accesportailsd.com
 desjardins-accweb-enligne-secure.com
 desjardins-auth.one
-desjardins-compte.com
 desjardins-connexion.com
 desjardins-info24.com
 desjardins-online-auth.com
@@ -619,11 +617,11 @@ membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
 meridian-app.lol
 meridian-architecture.com
+meridian-fcl.com
 meridian-globalcapital.com
 meridian-health.ru
 meridian-saving.com
 meridian-studios.xyz
-meridian-us.org
 mescomptes-sgpart.ortodontica.mx
 midnight-td.com
 mobile-alert-scotia.com
@@ -644,7 +642,6 @@ myscotiaportal.com
 myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
-nbc-bwk.org
 nbc-eg.com
 nbc-secure.info
 nbc.uatb.org
@@ -666,7 +663,6 @@ ph13-td.garden
 portail-accesdesjardins.com
 prestationqc-interac.ca
 projets-td.ch
-prospera.services
 prospera.top
 protection-cibc.com
 protectmyidentity-cibc.com
@@ -769,7 +765,6 @@ restablecimiento.scotia.repl.co
 rev-td.xyz
 revcanada-direct-login-webca.com
 revenueqc-interac.ca
-royalbank-dispute.com
 royalbank-myapp.com
 royalbank-rbc.com
 royalbank-unlock.link
