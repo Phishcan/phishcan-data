@@ -171,6 +171,7 @@ export const banking_domains = [
   "cibc-banking.base-acess.com",
   "cibc-check212.com",
   "cibc-clients.com",
+  "cibc-digital-business-verify.com",
   "cibc-infoapp.com",
   "cibc-log2.com",
   "cibc-mobi.me",
@@ -561,7 +562,6 @@ export const banking_domains = [
   "interacpayment.cyou",
   "interacpayments.cfd",
   "interacpayments.neocities.org",
-  "interacportalgateway.com",
   "interacrefund.at",
   "interacsecuredpay.ca",
   "interacsecureportal.com",
@@ -841,7 +841,6 @@ export const banking_domains = [
   "scotiabank-card-inve-tapv.bolt.host",
   "scotiabank-chat.web.app",
   "scotiabank-cl.com",
-  "scotiabank-empresas.net",
   "scotiabank-gift.com",
   "scotiabank-glft.cc",
   "scotiabank-helpcentre.com",
@@ -1075,5 +1074,6 @@ export const banking_domains = [
   "www1-royalbank.com-get-verify.info",
   "www1.bmo-online.tinycoconut.com",
   "young-massive-tangerine.glitch.me",
-  "z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info"
+  "z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info",
+  "zhc-nbc-hthsports.com"
 ];
