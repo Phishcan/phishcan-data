@@ -103,13 +103,13 @@ bankofmontreal.cc
 bdcd-interac.com
 becu-verify.bmzimmigration.ca
 beta.duca.it
-big-td-fantasy.app
 billing-interactransfer.com
 bm0-recovery.com
 bm0-verf12acti0n.com
 bmo-access-update-kexisih260895620.codeanyapp.com
 bmo-account-ca.duckdns.org
 bmo-authentication.com
+bmo-bmo.com
 bmo-canada-secure-onlinealert.com
 bmo-commerciallogin.com
 bmo-demo-identity.fraedom-uat.com
@@ -146,7 +146,6 @@ ca-accesd8.com
 ca-accweb.best
 ca-interac.com
 ca-rbc.com
-caisse-compare.com
 caisse-desjardins-therese-de-blainville.com
 caisse-populaire-secure-log.com
 caisse-regionale.193-70-30-98.plesk.page
@@ -578,6 +577,7 @@ laurentian-fire.000webhostapp.com
 lebocoin.groupe-cibc.com
 lnterac-deposit.co
 lnterac-id1849128.cfd
+lnterac-retourdefonds.com
 lnterac-secure.atmentecnologia.com.br
 lnterac.co
 lnterac.info
@@ -644,6 +644,7 @@ myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
 nbc-eg.com
+nbc-gmail.com
 nbc.uatb.org
 neat-tangerine-530162.framer.app
 net-flix-update.ca
@@ -767,6 +768,7 @@ restablecimiento.scotia.repl.co
 rev-td.xyz
 revcanada-direct-login-webca.com
 revenueqc-interac.ca
+royalbank-deactivated.com
 royalbank-myapp.com
 royalbank-rbc.com
 royalbank-unlock.link
