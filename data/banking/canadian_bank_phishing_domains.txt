@@ -115,7 +115,6 @@ bmo-commerciallogin.com
 bmo-demo-identity.fraedom-uat.com
 bmo-digitalservice.codeanyapp.com
 bmo-easysecure.com
-bmo-enhancedsecurity.com
 bmo-enligne.com
 bmo-idclient.com
 bmo-identity.fraedom-uat.com
@@ -217,7 +216,6 @@ coastcapitalsavings.forum
 cobranza-scotiabank.memphis.mx
 colpatria12.scotiabank12.repl.co
 colpatria2.scotiabank22.repl.co
-com-accesd-2025.com
 com-page-membre-accesd-1-service-desjardins.com
 commercialbanking-td-support.com
 conexus-nexus.online
@@ -246,7 +244,6 @@ desjardins.com-html-asp-page-2131-index-membre-accesd-desjardins.com
 desjardins.creditunion-authority.com
 desjardins.pret-mutuel.com
 desjardins.versement.ca
-desjardins1-auth00.com
 desjardins17.com
 desjardinscourriel818654.pw
 desjardinsetf.ca
@@ -934,7 +931,6 @@ tangerine15.no-ip.biz
 tangerineaccessrestore.com
 td-active01a.com
 td-agri.co.uk
-td-aki.com
 td-alert1service.com
 td-alertseasywb.com
 td-app1wb.com
