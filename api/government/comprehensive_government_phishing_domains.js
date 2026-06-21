@@ -75,6 +75,7 @@ export const government_domains = [
   "lib-defined-edmonton-afraid.trycloudflare.com",
   "mail.e-transfer-cra.com",
   "mail.revquebec.com",
+  "mylogin-cra.com",
   "ontario.postsupport.net",
   "postescanada.art",
   "qc-r3pai3m3nt-cag0uv.com",
