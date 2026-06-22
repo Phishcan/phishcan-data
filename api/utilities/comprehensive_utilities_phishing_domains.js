@@ -350,7 +350,6 @@ export const utilities_domains = [
   "videotroncens.weebly.com",
   "videotroneyebvruehbf.weebly.com",
   "videotronlogginn.weebly.com",
-  "videotronmail8.weebly.com",
   "videotronooo34.weebly.com",
   "videotronsecurity2470.weebly.com",
   "videotronwebmai1.weebly.com",

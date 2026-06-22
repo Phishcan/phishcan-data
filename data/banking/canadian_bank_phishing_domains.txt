@@ -233,6 +233,7 @@ desbloquear-td.webcindario.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
+desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-auth.one
 desjardins-connexion.com
@@ -254,6 +255,7 @@ desjardinsetf.ca
 desjardinsmail6as6545g.pw
 dev-bnk-scotiabank-peru.pantheonsite.io
 digitalbusiness-customer-cibc.com
+digitalbusinessone-cibc.com
 dps-scotiabank.com
 e-interac.co
 e-interac.shop
