@@ -52,7 +52,6 @@ export const utilities_domains = [
   "bellsecurebusiness.netlify.app",
   "bellsecuredloginfom-net.vercel.app",
   "bellsecurewifi.servehttp.com",
-  "billrogerson.ihsanfidyah.com",
   "caaxrogers.ca",
   "chatreputationmanagementservices.com",
   "cienmaxs.com",
