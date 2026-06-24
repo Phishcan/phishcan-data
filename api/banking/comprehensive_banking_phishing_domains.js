@@ -763,6 +763,7 @@ export const banking_domains = [
   "rbcroyalbank1.netlify.app",
   "rbcroyalbankofcanadasecuresignin.roadstarmusicstudio.com",
   "rbcs3cure-appalic.serveirc.com",
+  "refund-financial-interac.replit.app",
   "refund-interac.xyz",
   "reminder-interac.com",
   "reservation-lnteractransfer.live",
