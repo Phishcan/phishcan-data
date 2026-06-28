@@ -40,6 +40,7 @@ export const government_domains = [
   "canadapostd.net",
   "canadapostdele.ca",
   "canadapostdeliver.com",
+  "canadapostfc.top",
   "canadapostlnfo.com",
   "canadapostoffice.click",
   "canadapostpostescanadaca.buzz",
