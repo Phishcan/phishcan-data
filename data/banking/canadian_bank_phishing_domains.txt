@@ -102,6 +102,7 @@ auto-vendu.groupe-cibc.com
 autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
 bankofmontreal.cc
+bastion-td.ru
 bdcd-interac.com
 becu-verify.bmzimmigration.ca
 beta.duca.it
@@ -533,6 +534,7 @@ interac.ca.jarmasolutionsti.com
 interac.ca.nusragenonline.com
 interac.ca937639.com
 interac.cakepay.eu
+interac.casino
 interac.cc
 interac.company
 interac.confirmtoday.xyz
@@ -622,8 +624,11 @@ manager.meridian-rentacar.com
 membre.accesd.com-html5-page-8-membre-desjardins.com
 membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
+meridian-advisory.shop
+meridian-advisory.store
 meridian-app.lol
 meridian-design.studio
+meridian-foods.nl
 meridian-globalcapital.com
 meridian-insights.com
 meridian-saving.com
@@ -694,7 +699,6 @@ rbc-expressrecovery.com
 rbc-financial-secured.com
 rbc-mainline.web.app
 rbc-mobile-alert.com
-rbc-notifclient.com
 rbc-onclick.com
 rbc-portal-manage.com
 rbc-royal.netlify.app
@@ -910,6 +914,7 @@ security-alert-td.sbs
 security.canadatvsite.com
 servus-dibatanservicerss.xyz
 session.desjardins.com-membre-page-6-membre-accesd.com
+setmyalerts-scotia.com
 sign-intrust-scotiaonline.com
 signin-cibc.com
 signin-office.id-ar.ca
@@ -949,6 +954,8 @@ td-arabi.com
 td-authweb.net
 td-auto.com
 td-bank-secure.com
+td-bank.help
+td-bank24.com
 td-bankcanada.com
 td-bnkng.info
 td-ca-trust.club
@@ -972,6 +979,7 @@ td-exec.limited
 td-hcn.com
 td-hin.com
 td-icn.com
+td-infotech.ru
 td-jin.com
 td-jx.com
 td-kuk.si
