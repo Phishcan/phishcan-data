@@ -113,7 +113,6 @@ bmo-1verify.com
 bmo-access-update-kexisih260895620.codeanyapp.com
 bmo-account-ca.duckdns.org
 bmo-authentication.com
-bmo-bmo.com
 bmo-canada-secure-onlinealert.com
 bmo-demo-identity.fraedom-uat.com
 bmo-digitalservice.codeanyapp.com
@@ -588,7 +587,6 @@ laurentian-fire.000webhostapp.com
 lebocoin.groupe-cibc.com
 lnterac-deposit.co
 lnterac-id1849128.cfd
-lnterac-retourdefonds.com
 lnterac-secure.atmentecnologia.com.br
 lnterac.co
 lnterac.info
@@ -628,6 +626,7 @@ meridian-advisory.shop
 meridian-advisory.store
 meridian-app.lol
 meridian-design.studio
+meridian-detailing.com
 meridian-foods.nl
 meridian-globalcapital.com
 meridian-insights.com
@@ -658,7 +657,6 @@ myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
 nbc-eg.com
-nbc-gmail.com
 nbc-healthcare.com
 nbc.uatb.org
 neat-tangerine-530162.framer.app
@@ -779,7 +777,6 @@ reservation-lnteractransfer.live
 restablecimiento.scotia.repl.co
 revcanada-direct-login-webca.com
 revenueqc-interac.ca
-royalbank-deactivated.com
 royalbank-myapp.com
 royalbank-rbc.com
 royalbank-unlock.link
@@ -890,6 +887,7 @@ scotiaonline.com-ssl-m.top
 scotiaportal1.com
 scotiasecuritycenter.com
 scotiaupdateinformation.ca
+sec2r-td.com
 secure-1rbcroyal.com
 secure-account.marcomariani.ca
 secure-authrbcroyal.com
@@ -925,6 +923,7 @@ slots-gallery-login.ca
 spin-casino-login.ca
 statement-scotiabank.com
 summary-etransfer.live
+support-scotiabank.com
 support1-accesd.com
 supportscotia.com
 sv-rbcroyalbank.com
@@ -985,6 +984,7 @@ td-jx.com
 td-kuk.si
 td-meteor.pro
 td-min.com
+td-mp.nl
 td-mywebaccess.com
 td-oin.com
 td-online-authorization.com
