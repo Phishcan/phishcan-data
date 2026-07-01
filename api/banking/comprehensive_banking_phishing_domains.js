@@ -428,6 +428,7 @@ export const banking_domains = [
   "fkmrx4nm.signal-meridian.digital",
   "flutter-td.com",
   "fondsdesjardins.com",
+  "fr-cle-digitale-mescomptes.com",
   "getdeposit-lnteractransfer.live",
   "ggpoker-login.ca",
   "go-meridian.xyz",
