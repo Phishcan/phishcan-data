@@ -108,7 +108,6 @@ beta.duca.it
 billing-interactransfer.com
 bm0-recovery.com
 bm0-verf12acti0n.com
-bmo-1verify.com
 bmo-access-update-kexisih260895620.codeanyapp.com
 bmo-account-ca.duckdns.org
 bmo-allto.com
@@ -150,7 +149,6 @@ ca-accesd8.com
 ca-accweb.best
 ca-interac.com
 ca-rbc.com
-caesars-login.ca
 caisse-desjardins-therese-de-blainville.com
 caisse-populaire-secure-log.com
 caisse-regionale.193-70-30-98.plesk.page
@@ -231,7 +229,6 @@ desbloquear-td.webcindario.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
-desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-auth.one
 desjardins-connexion.com
@@ -252,7 +249,6 @@ desjardinscourriel818654.pw
 desjardinsetf.ca
 desjardinsmail6as6545g.pw
 dev-bnk-scotiabank-peru.pantheonsite.io
-digitalbusinessone-cibc.com
 dps-scotiabank.com
 e-interac.co
 e-interac.shop
@@ -428,7 +424,6 @@ flutter-td.com
 fondsdesjardins.com
 fr-cle-digitale-mescomptes.com
 getdeposit-lnteractransfer.live
-ggpoker-login.ca
 go-meridian.xyz
 gov-lnterac.info
 gov-revenue-interac.com
@@ -629,7 +624,9 @@ meridian-detailing.com
 meridian-foods.nl
 meridian-globalcapital.com
 meridian-saving.com
+meridian-systems.net
 meridian-volks.site
+meridian.llc
 mescomptes-sgpart.ortodontica.mx
 midnight-td.com
 mobile-alert-scotia.com
@@ -880,7 +877,6 @@ scotiabank2svcan.com
 scotiabank9623.zendesk.com
 scotiabankalert-trinidad.com
 scotiabankalerts-trinidad.com
-scotiabankconfirmation.com
 scotiaonline-loginscotia.com
 scotiaonline-web-service.com
 scotiaonline.com-ssl-m.top
@@ -899,6 +895,7 @@ secure-rbcroyalalert.com
 secure-rbcroyalalerts.com
 secure-scotiabank.net
 secure-scotiabank.sytes.net
+secure-td-review.com
 secure.royalbank.erafde.com
 secure.royalbank.irercc.com
 secure1-ca-interac.com
@@ -920,7 +917,6 @@ signin-tangerine.com
 simplii-financial.com
 sky-security.id-ar.ca
 slots-gallery-login.ca
-spin-casino-login.ca
 statement-scotiabank.com
 summary-etransfer.live
 support-scotiabank.com
@@ -1070,7 +1066,6 @@ update-scotia-secure.com
 us-tdbank.com
 usbank.secureupdate.sosechelle.ca
 valida-scotiabank.sc.hstn.me
-vegazone-login.ca
 verf05-desj-actnow1.com
 verif-bmo.com
 verification-cra-interac-deposit.com.beccamartenson.com
