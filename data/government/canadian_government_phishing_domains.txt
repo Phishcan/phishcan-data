@@ -56,7 +56,6 @@ canadarevenuerefundtaxes.com
 canadasecurecheck.info
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
-cms-sjg-cra-arcc.cfd
 cra-abt.icu
 cra-any.icu
 cra-aue.icu
@@ -69,13 +68,11 @@ cra-gc-reference.com
 cra-gouv-cov19.org
 cra-health.com
 cra-info.com
-cra-international.com.au
 cra-invoice.info
 cra-kaiyun.icu
 cra-receivenow.online
 cra-signin.ca
 cra-unclaimedfunds.info
-cra.business
 cra.canada-server.cc
 csshl-gouv-qc.pages.dev
 defi-on-arc.vercel.app
