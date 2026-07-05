@@ -57,6 +57,7 @@ canadasecurecheck.info
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
 cra-abt.icu
+cra-act-canada.ca
 cra-any.icu
 cra-aue.icu
 cra-avr.icu
@@ -71,6 +72,7 @@ cra-info.com
 cra-international.com.au
 cra-invoice.info
 cra-kaiyun.icu
+cra-lvse.icu
 cra-receivenow.online
 cra-signin.ca
 cra-unclaimedfunds.info

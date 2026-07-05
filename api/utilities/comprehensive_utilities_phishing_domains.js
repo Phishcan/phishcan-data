@@ -96,7 +96,6 @@ export const utilities_domains = [
   "gateway.cashback-freedommobi1737.com",
   "genmax.net",
   "getchatref.com",
-  "goldenmax.online",
   "goldenmax.xyz",
   "hbchydro.com",
   "help-rogers.com",

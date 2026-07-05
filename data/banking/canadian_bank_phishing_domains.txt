@@ -179,6 +179,7 @@ cibc-online.com
 cibc-online.net
 cibc-online.work
 cibc-onlinebanking.website
+cibc-onlinesetupdevice1.com
 cibc-register.com
 cibc-security.com
 cibc-signin.com
@@ -428,7 +429,6 @@ gov-lnterac.info
 gov-revenue-interac.com
 gr.meridian-saving.com
 homepersonalonline-rbc.com
-house-meridian.com
 hpz.rbc.mybluehost.me
 humorous-accidental-tangerine.glitch.me
 i-td.ru
@@ -620,10 +620,13 @@ meridian-advisory.store
 meridian-app.lol
 meridian-atelier.com
 meridian-detailing.com
+meridian-distribution.com
 meridian-foods.nl
 meridian-globalcapital.com
 meridian-saving.com
+meridian-sg.org
 meridian-systems.net
+meridian-transit.com
 meridian-volks.site
 meridian.llc
 mescomptes-sgpart.ortodontica.mx
@@ -659,6 +662,7 @@ online-rbc-royal.netlify.app
 online-rbcroyalbank.netlify.app
 online.scotiabank.mx01online.com
 online.scotiabank.mxdigital987.com
+order-interac.cfd
 paiementnumeriq-interac.ca.xsph.ru
 particuliers-mescomptes.com
 payments.com-transaction-moneris.top
@@ -840,7 +844,6 @@ scotia23.confirmar32.repl.co
 scotiaalerts.com
 scotiabank-1.scotiabankverif.repl.co
 scotiabank-1.scotiaverify.repl.co
-scotiabank-2sv.com
 scotiabank-alert.net
 scotiabank-app.com
 scotiabank-canalesvirtuales.com
@@ -959,7 +962,6 @@ td-cc.com
 td-client.info
 td-client.online
 td-cm.com
-td-commercial-verify.com
 td-corp.info
 td-disclosure.info
 td-dominion-secure.com
@@ -1090,6 +1092,5 @@ www1-royalbank-ol.com
 www1-royalbank.com-get-verify.info
 www1.bmo-online.tinycoconut.com
 xn--piceautodespierrefitois-nbc.com
-xn--vrsvenskademokrati-4tb.se
 young-massive-tangerine.glitch.me
 z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info
