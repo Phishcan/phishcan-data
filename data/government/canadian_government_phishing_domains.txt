@@ -12,10 +12,6 @@ canada-revenue-agency.co
 canadapost-deliveryalert.com
 canadapost-deliveryreschedule.ca
 canadapost-parcels.com
-canadapost-postaccanada.life
-canadapost-postaicanada.life
-canadapost-postaocanada.life
-canadapost-postaucanada.life
 canadapost-posteacanada.cfd
 canadapost-postecanadadeliverylivraison.com
 canadapost-postes-shipping.drwskinesia.com
@@ -74,7 +70,6 @@ cra-health.com
 cra-info.com
 cra-international.com.au
 cra-invoice.info
-cra-kaiyun.icu
 cra-lvse.icu
 cra-receivenow.online
 cra-signin.ca
@@ -88,6 +83,7 @@ e-transfer-canada-info.cfd
 futurefundcanada.com
 fwrd-canadapost.ca
 hst.cra.ac.th
+immigrationservicestoronto.ca
 infocanadapost.com
 lib-defined-edmonton-afraid.trycloudflare.com
 mail.e-transfer-cra.com

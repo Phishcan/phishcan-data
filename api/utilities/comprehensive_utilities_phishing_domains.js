@@ -126,7 +126,6 @@ export const utilities_domains = [
   "mybell-webmail.viaggiareincrediti.it",
   "mybell01-001-site1.1tempurl.com",
   "mybell0server0.weebly.com",
-  "mybellabeautyroomatl.com",
   "mybellanailbaruniversity.vip",
   "mybellca.com",
   "mychatrsignin-auth.com",
@@ -155,7 +154,6 @@ export const utilities_domains = [
   "notyetaeasteluserverifynow.weebly.com",
   "novusshineacademy.com",
   "ontariohealthcarebootcamp.ca",
-  "openmax.space",
   "php.cashback-freedommobi1737.com",
   "primusgraf.online",
   "pwebsasktelnetwebmail.weebly.com",
@@ -374,5 +372,6 @@ export const utilities_domains = [
   "withchatref.com",
   "xplornetemail.weebly.com",
   "xplornetvoice-webmail.pages.dev",
-  "yourreftelus.top"
+  "yourreftelus.top",
+  "zachrogers.ca"
 ];
