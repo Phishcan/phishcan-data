@@ -551,6 +551,7 @@ interac.tax
 interac.today
 interac.toro-hydro.com
 interac.toront-hydro.com
+interac.world
 interac1.ch
 interac1.com
 interac1.info
@@ -618,7 +619,6 @@ membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
 meridian-app.lol
 meridian-atelier.com
 meridian-decision-sciences.com
-meridian-detailing.com
 meridian-distribution.com
 meridian-economics.com
 meridian-globalcapital.com
@@ -858,6 +858,7 @@ scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
 scotiabank-sign-in.com
+scotiabank-verifymydevice.com
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
 scotiabank.beonm.org
@@ -885,7 +886,6 @@ scotiaonline.com-ssl-m.top
 scotiaportal1.com
 scotiasecuritycenter.com
 scotiaupdateinformation.ca
-sec2r-td.com
 secure-1rbcroyal.com
 secure-account.marcomariani.ca
 secure-authrbcroyal.com
@@ -919,7 +919,6 @@ simplii-financial.com
 sky-security.id-ar.ca
 statement-scotiabank.com
 summary-etransfer.live
-support-scotiabank.com
 support1-accesd.com
 sv-rbcroyalbank.com
 tandia.club
@@ -979,6 +978,7 @@ td-mp.nl
 td-mywebaccess.com
 td-oin.com
 td-online-authorization.com
+td-parts.ru
 td-restore.info
 td-rin.com
 td-rmn.com
