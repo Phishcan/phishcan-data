@@ -5,7 +5,6 @@ airc-on-arc.vercel.app
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
 antai-gouv.essipun-on-sea.com
-arc-qc-can.link
 bellservicecanada.com
 ca-ref-cra.info
 canada-revenue-agency.co
@@ -28,6 +27,12 @@ canadapost-postescanadako.xyz
 canadapost-postescanadaks.xyz
 canadapost-postescanadast.cc
 canadapost-postescanadcad.cc
+canadapost-posticcanada.life
+canadapost-postiocanada.life
+canadapost-postnncanada.life
+canadapost-postnocanada.life
+canadapost-postnwcanada.life
+canadapost-postoucanada.life
 canadapost-redelivery-package.com
 canadapost-support-exception.com
 canadapost-update-postecanada-support.com
