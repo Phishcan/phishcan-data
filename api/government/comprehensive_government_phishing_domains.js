@@ -34,6 +34,7 @@ export const government_domains = [
   "canadapost-postnocanada.life",
   "canadapost-postnwcanada.life",
   "canadapost-postoucanada.life",
+  "canadapost-postvecanada.life",
   "canadapost-redelivery-package.com",
   "canadapost-support-exception.com",
   "canadapost-update-postecanada-support.com",
