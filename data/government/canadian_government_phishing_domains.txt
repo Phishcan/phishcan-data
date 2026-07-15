@@ -40,6 +40,7 @@ canadapost-postoucanada.life
 canadapost-postvecanada.life
 canadapost-redelivery-package.com
 canadapost-support-exception.com
+canadapost-track.online
 canadapost-update-postecanada-support.com
 canadapost-updates.com
 canadapost.postcanadalju.top
@@ -64,7 +65,6 @@ canadasecurecheck.info
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
 cra-abt.icu
-cra-act-canada.ca
 cra-any.icu
 cra-aue.icu
 cra-avr.icu
@@ -78,7 +78,6 @@ cra-health.com
 cra-info.com
 cra-international.com.au
 cra-invoice.info
-cra-lvse.icu
 cra-noreply.online
 cra-receivenow.online
 cra-signin.ca
