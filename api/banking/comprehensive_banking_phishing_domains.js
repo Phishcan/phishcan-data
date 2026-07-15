@@ -626,6 +626,7 @@ export const banking_domains = [
   "meridian-realty.co.uk",
   "meridian-saving.com",
   "meridian-sg.org",
+  "meridian-trade.sk",
   "meridian-transit.com",
   "meridian.hk",
   "mescomptes-sgpart.ortodontica.mx",
