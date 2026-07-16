@@ -12,6 +12,7 @@ export const utilities_domains = [
   "androgenmaxx.ing",
   "aspenmax.top",
   "auth-freedommobile-secure1payments.com",
+  "bantenmaxwin.nl",
   "bbbbbbbbbbsasktel.weebly.com",
   "bell-alliant-mail-six.vercel.app",
   "bell-bill.com",
@@ -132,6 +133,8 @@ export const utilities_domains = [
   "mybell-webmail.viaggiareincrediti.it",
   "mybell01-001-site1.1tempurl.com",
   "mybell0server0.weebly.com",
+  "mybellaid.com",
+  "mybellamihair.shop",
   "mybellca.com",
   "mychatrsignin-auth.com",
   "myeastlinkdetails.27south.com",
@@ -220,6 +223,7 @@ export const utilities_domains = [
   "rogersmembercentreverify.weebly.com",
   "rogersmembershipsecureteam.weebly.com",
   "rogersmemberssignin.github.io",
+  "rogersmobility.site",
   "rogersprovider.com",
   "rogersrefundnow.com",
   "rogerssupport.ca",
@@ -371,6 +375,5 @@ export const utilities_domains = [
   "xn----9sbejbynenmaxmo4koa.xn--p1ai",
   "xplornetemail.weebly.com",
   "xplornetvoice-webmail.pages.dev",
-  "yourreftelus.top",
-  "zachrogers.ca"
+  "yourreftelus.top"
 ];
