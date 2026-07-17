@@ -613,6 +613,7 @@ export const banking_domains = [
   "mail.rbc-royalcheck.com",
   "manage-wealthsimple.com",
   "manager.meridian-rentacar.com",
+  "massive-tangerine-175291.framer.app",
   "melaleucacanadasignin.com",
   "membre.accesd.com-html5-page-8-membre-desjardins.com",
   "membre.desjardins.com-html-acceuil-page-9-desjardins.com",
