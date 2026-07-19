@@ -1,6 +1,5 @@
 export const government_domains = [
   "acct-cra.com",
-  "acdh-service-canada.com",
   "agencerevenuecanada.xyz",
   "airc-on-arc.vercel.app",
   "albertahealthservicesinteraconlinetransfer.hostclone.com",
@@ -47,6 +46,7 @@ export const government_domains = [
   "canadapost-track.online",
   "canadapost-update-postecanada-support.com",
   "canadapost-updates.com",
+  "canadapost.online",
   "canadapost.postcanadalju.top",
   "canadapost.postgoverment.com",
   "canadapostadjust.com",

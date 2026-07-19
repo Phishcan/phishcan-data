@@ -17,7 +17,6 @@ acccweb.mouv.desjardinsway.com
 accdweb01desjardins.com
 accept-ca-interac.com
 acces-desjardins.online
-acces-qc.click
 accesd-1web.com
 accesd-affaire.com
 accesd-caissepop-desjsupport.info
@@ -212,9 +211,9 @@ claims-coastcapital.com
 clalm-dana-kaget.wb-td.com
 client.accesd.com-cgi-bin-accesd-page-4-membre-desjardins.com
 clientportal-atb.ca
+clientsupport-td.com
 cn-td-whatsapp.hk.cn
 cnd-tangerine.top
-coastcapitalsavings.cc
 cobranza-scotiabank.memphis.mx
 colpatria12.scotiabank12.repl.co
 colpatria2.scotiabank22.repl.co
@@ -268,6 +267,7 @@ easyweb.td-on.limited
 easyweb.td-verification.com
 easyweb.test.ariad.ca
 easyweb.tokyo
+electrica-meridian.com
 elsewedy-td.com
 emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
@@ -422,6 +422,7 @@ fbterms-7264995119.atb.ps
 fkmrx4nm.signal-meridian.digital
 flutter-td.com
 fondsdesjardins.com
+founders-meridian.com
 getdeposit-lnteractransfer.live
 gov-lnterac.info
 gov-revenue-interac.com
@@ -625,6 +626,7 @@ meridian-globalcapital.com
 meridian-groupe.com
 meridian-im.com
 meridian-mrkts.com
+meridian-risk-advisory.org
 meridian-saving.com
 meridian.hk
 meridian.tours
@@ -659,6 +661,7 @@ online-rbc-royal.netlify.app
 online-rbcroyalbank.netlify.app
 online.scotiabank.mx01online.com
 online.scotiabank.mxdigital987.com
+ooum-td.garden
 paiementnumeriq-interac.ca.xsph.ru
 particuliers-mescomptes.com
 payments.com-transaction-moneris.top
@@ -686,7 +689,6 @@ rbc-5ce44.web.app
 rbc-5dba56.netlify.app
 rbc-8766.netlify.app
 rbc-8a0c63.netlify.app
-rbc-bankonline.com
 rbc-bnk.com
 rbc-c2d68f.netlify.app
 rbc-ca.com
@@ -712,7 +714,6 @@ rbc-service1alert.com
 rbc-syst-correction.com
 rbc-verify.com
 rbc-verify2.web.app
-rbc-verifyclientdevices-en.net
 rbc-verifylogin5.web.app
 rbc-web-customers.com
 rbc.app-connexion.com
@@ -856,6 +857,7 @@ scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
 scotiabank-myapptroubleshoot.com
+scotiabank-myverification.com
 scotiabank-sign-in.com
 scotiabank-verifyapp.com
 scotiabank-verifymydevice.com
@@ -883,6 +885,7 @@ scotiabankalerts-trinidad.com
 scotiabankportal.support
 scotiaonline-loginscotia.com
 scotiaonline-web-service.com
+scotiaonline-websecurity.com
 scotiaonline.com-ssl-m.top
 scotiaportal1.com
 scotiasecureregistration.com
@@ -919,6 +922,7 @@ signin-office.id-ar.ca
 signin-tangerine.com
 simplii-financial.com
 sky-security.id-ar.ca
+sm-nbc.net
 statement-scotiabank.com
 summary-etransfer.live
 support1-accesd.com
@@ -1061,7 +1065,6 @@ tdsecure-portal.com
 telegram-grilss12.wb-td.com
 terms-bmo-online.com
 tge-meridian.xyz
-the-last-meridian.com
 ti8puxhlq1-td.shop
 tps-etransfer.org
 transfer-interac.com
