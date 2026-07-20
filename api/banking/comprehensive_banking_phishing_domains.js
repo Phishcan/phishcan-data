@@ -925,6 +925,7 @@ export const banking_domains = [
   "sky-security.id-ar.ca",
   "sm-nbc.net",
   "statement-scotiabank.com",
+  "store.ww17.jorgazsb.scotiabank-secure.info",
   "summary-etransfer.live",
   "support1-accesd.com",
   "sv-rbcroyalbank.com",
@@ -1104,6 +1105,7 @@ export const banking_domains = [
   "www1-royalbank-ol.com",
   "www1-royalbank.com-get-verify.info",
   "www1.bmo-online.tinycoconut.com",
+  "xn--vrdnadstvistjurist-4tb.se",
   "young-massive-tangerine.glitch.me",
   "z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info"
 ];
