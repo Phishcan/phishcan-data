@@ -615,9 +615,9 @@ membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
 meridian-chem.com
 meridian-coastal.com
-meridian-connects.com
 meridian-cpas.com
 meridian-forge.com
+meridian-fundale.click
 meridian-groupe.com
 meridian-im.com
 meridian-mrkts.com
@@ -690,7 +690,6 @@ rbc-8a0c63.netlify.app
 rbc-bnk.com
 rbc-c2d68f.netlify.app
 rbc-ca.com
-rbc-clientgen6286.help
 rbc-com.heteml.net
 rbc-expressrecovery.com
 rbc-financial-secured.com
@@ -848,7 +847,6 @@ scotiabank-alert.net
 scotiabank-canalesvirtuales.com
 scotiabank-chat.web.app
 scotiabank-cl.com
-scotiabank-devicetoubleshoot.com
 scotiabank-gift.com
 scotiabank-glft.cc
 scotiabank-helpcentre.com
@@ -857,7 +855,6 @@ scotiabank-jm.com
 scotiabank-myapptroubleshoot.com
 scotiabank-myverification.com
 scotiabank-sign-in.com
-scotiabank-verifyapp.com
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
 scotiabank.beonm.org
@@ -878,7 +875,6 @@ scotiabank1.com
 scotiabank9623.zendesk.com
 scotiabankalert-trinidad.com
 scotiabankalerts-trinidad.com
-scotiabankportal.support
 scotiaonline-loginscotia.com
 scotiaonline-web-service.com
 scotiaonline-websecurity.com
