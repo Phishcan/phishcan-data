@@ -41,7 +41,6 @@ accesd1-authentification9.com
 accesd1uniock.com
 accesd2uniock.com
 accesdesjardins-authentification.online
-accesenligne-desjardins.com
 access-interac-funds-cad-transf.com
 access-lnteractransfer.live
 accesweb-desj.com
@@ -76,7 +75,6 @@ as85485-interac.gogss.com
 assistance-caisse.servehttp.com
 atb-dystrybucja.pl
 atb-online-ban-king.com
-atb-online.org
 atb.support
 aut1h-easyweb.com
 auth-royalbank.com
@@ -151,6 +149,7 @@ caisse-populaire-secure-log.com
 caisse-regionale.193-70-30-98.plesk.page
 caisse-regionale.builderallwppro.com
 caisse-webapp.ma
+caisse.fcvendlincourt.ch
 caisse8-popu22desj.info
 caisseacces1-001-site1.anytempurl.com
 caisseauthenti.wpengine.com
@@ -169,7 +168,6 @@ cibc-bank-support.com
 cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
-cibc-digital-business-verify.com
 cibc-infoapp.com
 cibc-log2.com
 cibc-mobi.me
@@ -198,7 +196,6 @@ cibc.web-mobi2.com
 cibc0nline.com
 cibclogin-secure.top
 cibconline-mobile.top
-cibconline-website.live
 cibconline.accessclientcard6.com
 cibcsecure-access.com
 cibcsecure-https.top
@@ -209,7 +206,6 @@ cibcsecureportal.com
 claim-dana-kaget.wb-td.com
 claim.secure-lnterac.com
 claimdanakagetmudisini.wb-td.com
-claims-coastcapital.com
 clalm-dana-kaget.wb-td.com
 client.accesd.com-cgi-bin-accesd-page-4-membre-desjardins.com
 clientportal-atb.ca
@@ -275,7 +271,6 @@ elsewedy-td.com
 emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
 encrypted-secure-lnterac.com
-equihome-finance.com.prospera-bridge.com
 espace.client.desjardins.com-html5-page-8-membre-desjardins.com
 et-interac.com
 et-lnterac.net
@@ -423,7 +418,6 @@ fbterms-2754522607.atb.ps
 fbterms-4757343096.atb.ps
 fbterms-7264995119.atb.ps
 fkmrx4nm.signal-meridian.digital
-flutter-td.com
 fondsdesjardins.com
 founders-meridian.com
 getdeposit-lnteractransfer.live
@@ -528,7 +522,6 @@ interac.ca.arnaku.com
 interac.ca.jarmasolutionsti.com
 interac.ca.nusragenonline.com
 interac.ca937639.com
-interac.cakepay.eu
 interac.cc
 interac.company
 interac.confirmtoday.xyz
@@ -620,13 +613,11 @@ melaleucacanadasignin.com
 membre.accesd.com-html5-page-8-membre-desjardins.com
 membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
-meridian-app.lol
 meridian-chem.com
 meridian-coastal.com
 meridian-connects.com
 meridian-cpas.com
 meridian-forge.com
-meridian-globalcapital.com
 meridian-groupe.com
 meridian-im.com
 meridian-mrkts.com
@@ -635,7 +626,6 @@ meridian-saving.com
 meridian-windows.com
 meridian.tours
 mescomptes-sgpart.ortodontica.mx
-midnight-td.com
 mobile-alert-scotia.com
 mobile-scotia1.app.link
 mon-espace-securise-interac.com
@@ -715,7 +705,6 @@ rbc-royalalerts.com
 rbc-royalbcanada.com
 rbc-royalbk.com
 rbc-royalbnk.netlify.app
-rbc-sapt.com
 rbc-secure-verification.com
 rbc-secureonline2024.com
 rbc-service.cf
@@ -734,7 +723,6 @@ rbc.com.verisslfy.com
 rbc.connexion1access.com
 rbc.connexion1id.com
 rbc.design
-rbc.ee
 rbc.enligne-connexion.com
 rbc.enligne-secure.com
 rbc.personalizedprescribing.com
@@ -881,7 +869,6 @@ scotiabank.ca.sco-rd2-3w.com
 scotiabank.ca.ssl-f45-sf.com
 scotiabank.ca.ssl9-cds-secure.com
 scotiabank.ca.w3-f5-d43-q0.com
-scotiabank.co.com
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
@@ -943,7 +930,6 @@ tangerine-biscuit-190bef.netlify.app
 tangerine-ca.com
 tangerine-can.com
 tangerine-cdn.top
-tangerine-crisp-b3cb52.netlify.app
 tangerine-device.com
 tangerine-gelato-e637c8.netlify.app
 tangerine-platypus-6891ea.netlify.app
@@ -984,7 +970,6 @@ td-donburi.com
 td-ease-web.com
 td-easywb-myprofile.com
 td-emn.com
-td-exec.limited
 td-fanfan.ru
 td-grantera.ru
 td-hcn.com
@@ -1011,12 +996,10 @@ td-signon-easy.com
 td-sin.com
 td-tec-de.com
 td-teplo.com
-td-todiesk.com.cn
 td-troitsa.com
 td-tubor.com
 td-udol.com
 td-update.info
-td-vortex.com
 td.1access-mobi.com
 td.1auth-web.com
 td.2easy-auth.com
@@ -1069,7 +1052,6 @@ tdbankingsecured.com
 tdcanada-authentication.biz
 tdcanada-authentication.link
 tdcanadatrust-scr.com
-tdsecure-portal.com
 telegram-grilss12.wb-td.com
 terms-bmo-online.com
 tge-meridian.xyz
@@ -1087,18 +1069,15 @@ vancity.info
 verf05-desj-actnow1.com
 verification-cra-interac-deposit.com.beccamartenson.com
 verify-user-rbc.web.app
-verify-wealthsimple.com
 verona-td.ru
 view-carr-logon-interac.com
 virement-lnterac-ca-bell.com
 wallet-wealthsimple.com
 wealthsimple-axlip.com
 wealthsimple-nqxip.com
-wealthsimple-rewards.xyz
 web-avance-para-personas-scotia-cl.cf
 web-avance-para-personas-scotia-cl.gq
 web-desjardins.com
-web.td-cabinet.com
 webcaisse.barbersiamvp.com
 webinterac-trustca-et101.com
 webinterac23-trustca.com
@@ -1113,6 +1092,5 @@ www1-royalbank-ol.com
 www1-royalbank.com-get-verify.info
 www1.bmo-online.tinycoconut.com
 xn--lnpengemeddetsamme-4tb.dk
-xn--vrdnadstvistjurist-4tb.se
 young-massive-tangerine.glitch.me
 z-hk-yl8-k-7o-8z-l-v-uhb-u-td-8i-oe-0gp-e2g-we6-ws-2vpd.info
