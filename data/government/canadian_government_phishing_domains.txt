@@ -1,5 +1,6 @@
 acct-cra.com
 agencerevenuecanada.xyz
+airc-on-arc.vercel.app
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
 antai-gouv.essipun-on-sea.com
@@ -79,6 +80,7 @@ cra-unclaimedfunds.info
 cra.business
 cra.canada-server.cc
 csshl-gouv-qc.pages.dev
+defi-on-arc.vercel.app
 delivery-update-postecanada-canadapost.com
 e-transfer-canada-info.cfd
 futurefundcanada.com
@@ -97,6 +99,7 @@ remboursementxquebec.com
 remboursementxquebec.net
 revenuegovcanadataxesrefund.com
 saaq-transfert.com
+servicecanada.tech
 servicecanadarefunds.net
 services.cra-arc-gov-ca.org
 servicetrust-cra.com
