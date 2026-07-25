@@ -102,7 +102,6 @@ export const utilities_domains = [
   "freedommobility-returnoverchage.com",
   "frommobile.000webhostapp.com",
   "gateway.cashback-freedommobi1737.com",
-  "greenmax.ee",
   "greenmax.farm",
   "greenmax.sa.com",
   "hbchydro.com",
