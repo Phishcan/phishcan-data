@@ -158,7 +158,6 @@ export const utilities_domains = [
   "notice-videotron.com",
   "notyetaeasteluserverifynow.weebly.com",
   "novusshineacademy.com",
-  "nspower-service.com",
   "php.cashback-freedommobi1737.com",
   "primus-service.mom",
   "pwebsasktelnetwebmail.weebly.com",

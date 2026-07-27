@@ -24,6 +24,7 @@ accesd-affaire.com
 accesd-caissepop-desjsupport.info
 accesd-de-desjardins.com
 accesd-desjardlns2.com
+accesd-login.com
 accesd-mobile.com
 accesd-mouvementdesj-info.xyz
 accesd-securlte.com
@@ -270,7 +271,7 @@ easyweb-mytd.com
 easyweb-onlinevalidation.com
 easyweb-secure.net
 easyweb-td-authlogin.com
-easyweb-tdonline.com
+easyweb.com.do
 easyweb.td-on.limited
 easyweb.td-verification.com
 easyweb.test.ariad.ca
@@ -635,7 +636,6 @@ meridian-forge.com
 meridian-fundale.click
 meridian-globalcapital.com
 meridian-groupe.com
-meridian-im.com
 meridian-impact.com
 meridian-meta.com
 meridian-mrkts.com
@@ -687,7 +687,6 @@ pemulihan-akun-dana.wb-td.com
 pg88-td.site
 portail-accesdesjardins.com
 prestationqc-interac.ca
-privatewealth-bmo.com
 prospera-group.co
 prospera.llc
 prospera.run
@@ -695,7 +694,7 @@ prospera.top
 prospera.works
 protection-cibc.com
 protectmyidentity-cibc.com
-quebec-login.click
+pw-rbc.com
 r0ger-lnterac.com
 r0yalbank-secure0nline12.info
 rbc-01.netlify.app
@@ -799,6 +798,7 @@ revcanada-direct-login-webca.com
 revenueqc-interac.ca
 rik.td
 royalbank-myapp.com
+royalbank-onlinealerts.com
 royalbank-rbc.com
 royalbank-unlock.link
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
@@ -988,7 +988,6 @@ td-client.info
 td-client.online
 td-corp.info
 td-dayou-play.com
-td-devicevalidate.help
 td-disclosure.info
 td-dominion-secure.com
 td-donburi.com
@@ -996,6 +995,7 @@ td-ease-web.com
 td-easywb-myprofile.com
 td-emn.com
 td-exec.limited
+td-express.ch
 td-fanfan.ru
 td-hcn.com
 td-hin.com
@@ -1008,6 +1008,8 @@ td-oin.com
 td-online-authorization.com
 td-paragon.ru
 td-pay.top
+td-razdolie.ru
+td-razdolye.ru
 td-reeb.org
 td-restore.info
 td-rin.com
@@ -1027,8 +1029,10 @@ td-todiesk.com.cn
 td-troitsa.com
 td-tubor.com
 td-udol.com
+td-uno.com
 td-update.info
 td-verif.help
+td-vorota.com
 td-vortex.com
 td.1access-mobi.com
 td.1auth-web.com
@@ -1055,7 +1059,6 @@ td.dauthuyduong.com
 td.foxtrot47.dev
 td.gametimeng.com
 td.gtja689.top
-td.hamburg
 td.ldxwpedf.cn
 td.rumpusroompodcast.com
 td.secure-web1.com
@@ -1112,7 +1115,6 @@ web.td-cabinet.com
 webcaisse.barbersiamvp.com
 webinterac-trustca-et101.com
 webinterac23-trustca.com
-whiskey-tangerine.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net

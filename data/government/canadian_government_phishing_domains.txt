@@ -72,7 +72,6 @@ cra-info.com
 cra-international.com.au
 cra-invoice.info
 cra-mittelstand.de
-cra-portal.com
 cra-receivenow.online
 cra-signin.ca
 cra-unclaimedfunds.info
@@ -85,6 +84,7 @@ e-transfer-canada-info.cfd
 futurefundcanada.com
 fwrd-canadapost.ca
 hst.cra.ac.th
+i-cra.com
 infocanadapost.com
 lib-defined-edmonton-afraid.trycloudflare.com
 mail.e-transfer-cra.com
@@ -107,5 +107,4 @@ sk-postes.top
 spx-cra.cz
 track-poste-canada-parcel.com
 transfer-saaq.com
-victoriataxproservices.com
 virementquebec-gouv.ca
