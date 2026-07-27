@@ -99,7 +99,6 @@ export const utilities_domains = [
   "freedommobility-returnoverchage.com",
   "frommobile.000webhostapp.com",
   "gateway.cashback-freedommobi1737.com",
-  "greenmax.ee",
   "greenmax.farm",
   "greenmax.sa.com",
   "hbchydro.com",
@@ -304,6 +303,7 @@ export const utilities_domains = [
   "shaw-webmail-108701.weeblysite.com",
   "shaw-webmail-109462.weeblysite.com",
   "shaw-webmail-109704.weeblysite.com",
+  "shaw-webmail-1482.netlify.app",
   "shaw-webmail-70-103760.weeblysite.com",
   "shaw-webmail-786c77.webflow.io",
   "shaw-webmail-customercareinfo.square.site",
@@ -339,6 +339,7 @@ export const utilities_domains = [
   "telusbill.store",
   "toupdateyoursasktel.weebly.com",
   "transpower.directsmailsolution.com",
+  "trustednovussecure.com",
   "vdocs.sasktel.mmspos.com",
   "vectornextgenmax.sbs",
   "verifymybells.webflow.io",
@@ -377,5 +378,6 @@ export const utilities_domains = [
   "xignovus-mfo.online",
   "xplornetemail.weebly.com",
   "xplornetvoice-webmail.pages.dev",
+  "yahoorogersverify.netlify.app",
   "yourreftelus.top"
 ];
