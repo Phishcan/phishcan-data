@@ -44,7 +44,6 @@ antais-gouv.com
 ants-gouv-amende.com
 apps3-ams-sga-arc-gc.18cra.com
 atena.gouv.ga
-bd-lotoquebec.com
 bellservicecanada.com
 booking.cra-earnings.cfd
 ca-ref-cra.info
@@ -91,7 +90,6 @@ canadarevenueagency.online
 canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
 canadasecurecheck.info
-canadaupdatedesk.com
 cbsa-asfc.directsmailsolution.com
 cbsa-lab.com
 cbsa.dyndns.dk
@@ -100,6 +98,7 @@ certificat-air-gouv.org
 certificat-air.gouv.tunnel-mobile.com
 certificat-gouv-critair.com
 cfsparts-imsp-gouv-jnr.net
+cgatlanta.gouv.ht
 citoyens.impots-france-gouv.com
 contraventions-antai-gouv.com
 cr4-sport.icu
@@ -180,7 +179,6 @@ gouv.media
 gouv1-0billd.com
 gst25cra.com
 hst.cra.ac.th
-httpstransport-gouv.pics
 i-cra.com
 i-cra8n.garden
 i3cra.com
@@ -215,7 +213,6 @@ paiement-antai-gouv.info
 paiement-contravention-gouv.com
 paiement-infraction-gouv.com
 paiements-antai-gouv.com
-pangea-immigration.com
 parcel-canadapostweb-date.com
 pay-serviceontario.com
 portail-amendes-gouv.com
