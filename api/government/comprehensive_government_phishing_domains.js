@@ -32,7 +32,6 @@ export const government_domains = [
   "canadapost-support-exception.com",
   "canadapost-update-postecanada-support.com",
   "canadapost-updates.com",
-  "canadapost.online",
   "canadapost.postcanadalju.top",
   "canadapost.postgoverment.com",
   "canadapostadjust.com",
