@@ -85,7 +85,6 @@ export const government_domains = [
   "fwrd-canadapost.ca",
   "hst.cra.ac.th",
   "i-cra.com",
-  "infocanadaimmigration.ca",
   "infocanadapost.com",
   "ircclogin.ca",
   "lib-defined-edmonton-afraid.trycloudflare.com",
