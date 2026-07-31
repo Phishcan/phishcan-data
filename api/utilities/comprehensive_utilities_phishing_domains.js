@@ -117,6 +117,7 @@ export const utilities_domains = [
   "bellwebmailupdate459.weebly.com",
   "bellwebmailupgraderegdex.weebly.com",
   "billpay2-freedommobile.com",
+  "billrogerson.ihsanfidyah.com",
   "bitly-fido.com",
   "bold-shaw.107-174-64-57.plesk.page",
   "caaxrogers.ca",

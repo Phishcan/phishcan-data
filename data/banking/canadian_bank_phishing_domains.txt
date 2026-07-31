@@ -274,6 +274,7 @@ cibcalertmobiles.com
 cibclogin-secure.top
 cibconline-mobile.top
 cibconline.accessclientcard6.com
+cibconlinebanking.net
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcsecure-access.com
@@ -285,6 +286,7 @@ cibcsecure04-001-site1.etempurl.com
 cibcsecureo1-001-site1.htempurl.com
 cibcsecureportal.com
 cibcservice.com
+cibcsupport.digital
 cibcupdate.desbi.com.my
 cibcverify-logon.top
 claim-dana-kaget.wb-td.com
@@ -319,6 +321,7 @@ desjaccess-d.xyz
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
+desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-auth.one
 desjardins-connexion.com
@@ -344,6 +347,7 @@ desjardinsval.info
 desjsupp.com
 dev-bnk-scotiabank-peru.pantheonsite.io
 dev-caisse.com
+digitalbusinessone-cibc.com
 dps-scotiabank.com
 e-interac.co
 e-interac.shop
