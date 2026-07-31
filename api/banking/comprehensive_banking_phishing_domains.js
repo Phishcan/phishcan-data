@@ -557,6 +557,7 @@ export const banking_domains = [
   "fbterms-7264995119.atb.ps",
   "flutter-td.com",
   "fondsdesjardins.com",
+  "fr-cle-digitale-mescomptes.com",
   "ftp.td4lsebi.com",
   "g2rbc.top",
   "gov-lnterac.info",
