@@ -13,6 +13,12 @@ canadapost-deliveryalert.com
 canadapost-deliveryreschedule.ca
 canadapost-parcels.com
 canadapost-postbdcanada.top
+canadapost-postbrcanada.life
+canadapost-postbtncanada.life
+canadapost-postbtqcanada.life
+canadapost-postbwcanada.life
+canadapost-postbxcanada.life
+canadapost-postbycanada.life
 canadapost-postecanadadeliverylivraison.com
 canadapost-postes-shipping.drwskinesia.com
 canadapost-postes.cc
@@ -57,7 +63,6 @@ cra-abt.icu
 cra-any.icu
 cra-aue.icu
 cra-avr.icu
-cra-ca.com
 cra-cg-ca-agency.com
 cra-ch.com
 cra-deposit.ca
@@ -69,7 +74,6 @@ cra-health.com
 cra-info.com
 cra-international.com.au
 cra-invoice.info
-cra-mittelstand.de
 cra-receivenow.online
 cra-signin.ca
 cra-unclaimedfunds.info
@@ -86,8 +90,8 @@ hst.cra.ac.th
 i-cra.com
 infocanadaimmigration.ca
 infocanadapost.com
-ircclogin.ca
 lib-defined-edmonton-afraid.trycloudflare.com
+lotoquebec-canada.com
 mail.e-transfer-cra.com
 mail.revquebec.com
 ontario.postsupport.net
