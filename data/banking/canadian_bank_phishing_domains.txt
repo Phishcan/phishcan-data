@@ -12,7 +12,6 @@
 1bmo-seconnecter.net
 1bmo-security-alert.com
 1cibc.mobi
-1desj-lcdverf.com
 1rbc-royalalert.com
 1rbcalertinfo.com
 1rbcalertinfos.com
@@ -31,7 +30,6 @@
 5-interac.com
 68dc3bc4d86cf100084e33ff--tangerine-baklava-b04631.netlify.app
 8houq33c3gsn5tr14d15eqao0xl6bmo0agyxaj.locusthallestate.com
-acccweb.mouv.desjardinsway.com
 accdweb01desjardins.com
 accept-ca-interac.com
 acces-desjardins.online
@@ -56,8 +54,6 @@ accesd.desjardins-securise.com
 accesd.verification-desj.com
 accesd01verif.com
 accesd1-authentification9.com
-accesd1uniock.com
-accesd2uniock.com
 accesdesj-portail.com
 accesdesjardins-authentification.online
 accesdsecurisation.help
@@ -85,14 +81,12 @@ accweb.mouv.desjmob.com
 accweb4.com
 accwebcloud.com
 accwebmouv-desjardin.com
-accwebmov-desjardins.com
 accwebs01mouvdesjardins.com
 accwebservice.com
 admin.myrbcsecure.com
 alberta-account.ca
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
-alert-easyweb-td.org
 alert-td-safety.sbs
 alerts-rbc.com
 amende-enligne-qc.com
