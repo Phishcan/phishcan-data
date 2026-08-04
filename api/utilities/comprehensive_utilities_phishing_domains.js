@@ -400,7 +400,6 @@ export const utilities_domains = [
   "session.hydroquebec.energy",
   "shaw-forests-yourself-load.trycloudflare.com",
   "shaw-gusting.click",
-  "shaw-is.com",
   "shaw-onlines1477.weebly.com",
   "shaw-support-101814.square.site",
   "shaw-support.com",
