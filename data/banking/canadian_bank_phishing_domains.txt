@@ -404,6 +404,7 @@ cibclogin-secure.top
 cibconline-mobile.top
 cibconline.accessclientcard6.com
 cibconline.cibc.com.ebm-anp.com
+cibconlinebanking.net
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcsecure-access.com
@@ -415,6 +416,7 @@ cibcsecure04-001-site1.etempurl.com
 cibcsecureo1-001-site1.htempurl.com
 cibcsecureportal.com
 cibcservice.com
+cibcsupport.digital
 cibcupdate.desbi.com.my
 cibcverify-logon.top
 claim-dana-kaget.wb-td.com
@@ -457,6 +459,7 @@ credito-scotiabank.sytes.net
 cu1pz0td.com
 currency-etransfer.live
 d0td1trlm.top
+d6td5s9qte0bea7273e0wuou77jjx77uk.oast.pro
 dapps-interact.io
 depositmoneytransfer.interac.qkvkervke.co.uk
 desbloquear-td.webcindario.com
@@ -465,6 +468,7 @@ desjaccess-d.xyz
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
+desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-auth.one
 desjardins-connexion.com
@@ -489,6 +493,7 @@ desjardinsmail6as6545g.pw
 desjardinsval.info
 desjsupp.com
 dev-bnk-scotiabank-peru.pantheonsite.io
+digitalbusinessone-cibc.com
 dik2td4s.top
 directcaisseinfo.xyz
 donotreply-td.com
@@ -742,6 +747,7 @@ flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
+fr-cle-digitale-mescomptes.com
 ftp.td4lsebi.com
 gctd5288.com
 getdeposit-lnteractransfer.live

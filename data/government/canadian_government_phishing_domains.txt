@@ -77,6 +77,7 @@ cfspart-impots-france.impotsweb-fr.com
 cheapptaxysu.click
 claim-taxonlineus.com
 claimtrustcra.com
+cms-sjg-cra-arcc.cfd
 colisinforelay.com
 conf-bn-cr472.webcindario.com
 cr40208.tw1.ru
@@ -130,7 +131,6 @@ craservices.599785.com
 csshl-gouv-qc.pages.dev
 defi-on-arc.vercel.app
 delivery-update-postecanada-canadapost.com
-directlogincra.com
 e-transfer-canada-info.cfd
 etweb-crainterac-catrust-100.com
 flapplivraison.com
