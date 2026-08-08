@@ -1015,7 +1015,6 @@ export const banking_domains = [
   "interactu-pc-crd.webcindario.com",
   "interactua-lab.com",
   "interactweb3apps.net",
-  "interacty.me",
   "interacupdate-id923.servehttp.com",
   "interacupdate-id923.servehttp.com.296413c29410513547.temporary.link",
   "interacweb100-catrust101.com",
