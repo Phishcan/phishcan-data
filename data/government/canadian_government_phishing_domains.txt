@@ -5,7 +5,6 @@
 2cra-arc.com
 50g.cr47.xyz
 5cra.cc
-9cr444.com
 acct-cra.com
 agencerevenuecanada.xyz
 airc-on-arc.vercel.app
@@ -61,10 +60,13 @@ canadapostes.eu.cc
 canadapostes.icu
 canadaposteso-ca.cfd
 canadapostesu-ca.cfd
+canadapostev.eu.cc
+canadapostex.eu.cc
 canadapostlnfo.com
 canadapostoffice.click
 canadapostpostescanadaca.buzz
 canadapostpostescanadaca.monster
+canadapostqaz.eu.cc
 canadapostqaz.icu
 canadapostt.shop
 canadarevenue.serveirc.com
@@ -133,7 +135,6 @@ crmultiservicetax.com
 csshl-gouv-qc.pages.dev
 defi-on-arc.vercel.app
 delivery-update-postecanada-canadapost.com
-directlogincra.com
 e-transfer-canada-info.cfd
 etweb-crainterac-catrust-100.com
 flapplivraison.com
