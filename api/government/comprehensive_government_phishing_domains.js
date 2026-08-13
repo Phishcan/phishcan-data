@@ -136,6 +136,7 @@ export const government_domains = [
   "csshl-gouv-qc.pages.dev",
   "defi-on-arc.vercel.app",
   "delivery-update-postecanada-canadapost.com",
+  "directlogincra.com",
   "e-transfer-canada-info.cfd",
   "etweb-crainterac-catrust-100.com",
   "flapplivraison.com",

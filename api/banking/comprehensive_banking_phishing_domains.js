@@ -683,6 +683,7 @@ export const banking_domains = [
   "etransfer.one",
   "etransfer.paymentsinterac.ca",
   "etransfer.refundpay.net",
+  "etransfer.se",
   "etransfer.shadir.com",
   "etransfer1-mobigateway5-refund1.com",
   "etransfer1-mobile-gateway01.com",

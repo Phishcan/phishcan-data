@@ -108,6 +108,7 @@ export const utilities_domains = [
   "bellservices.org",
   "bellupdate48ca.weebly.com",
   "bellverify-0d5803.webflow.io",
+  "bellverify-9cc4cd.webflow.io",
   "bellverify.xyz",
   "bellwaypayonlinebill.netlify.app",
   "bellwaysnewday.company.com",
