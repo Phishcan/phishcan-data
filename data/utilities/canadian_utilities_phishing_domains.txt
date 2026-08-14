@@ -153,6 +153,8 @@ bell-aliant-105540.weeblysite.com
 bell-aliant-106993.weeblysite.com
 bell-alliant-ca.vercel.app
 bell-alliant-mail-six.vercel.app
+bell-app.com
+bell-app.info
 bell-aroma.com
 bell-bara.com
 bell-bell.webflow.io
@@ -185,6 +187,7 @@ bell-mail-alpha.vercel.app
 bell-mail-ca.vercel.app
 bell-mail-ebon.vercel.app
 bell-mail.vercel.app
+bell-mart.ru
 bell-member.com
 bell-mobilesupport.com
 bell-mobility-ref.org
@@ -207,6 +210,7 @@ bell-webmail-net.weebly.com
 bell.bortogat.ru
 bell.ca.invoice017306.com
 bell.ca.invoice6001795.com
+bell.chat
 bell.dyndns-server.com
 bell.e-transferts.com
 bell.invoice.517-857.com
@@ -243,6 +247,7 @@ bellbankservicing.info
 bellbusinesss.vercel.app
 bellbusinessux.com
 bellca-107282.weeblysite.com
+bellcan1.com
 bellcanada-mu.vercel.app
 bellcanada-support.com
 bellcand.com
@@ -291,6 +296,7 @@ bitly-fido.com
 blissful-shaw-d5bb40.netlify.app
 bold-shaw.107-174-64-57.plesk.page
 caaxrogers.ca
+caleb30rogers.network
 carrier-telus.info
 chris-shaw15.courses
 chrome-spangled-bell.glitch.me
@@ -304,12 +310,14 @@ connect-bell-web.weebly.com
 connectrogers.weebly.com
 connexion.hydroquebec.energy
 cora-shaw1688.surf
+corpstart.ca
 courielvideotron.weebly.com
 courrielweb-connexion-9789478-html-videotron-ca.framer.website
 courrielweb-videotron-login-68463863-videotronn.framer.website
 courrielweb-videotron-login-layout-iwc-static-fr-html.weebly.com
 courrielwebvide0tron.weebly.com
 currently-att-sbc-bell.weebly.com
+dappbellowing.xyz
 dc.cashback-freedommobi1737.com
 deposit-mytelus.online
 dev-bellbusiness.pantheonsite.io
@@ -381,6 +389,7 @@ inspiring-bell-40c1d9.netlify.app
 inv-telus.xyz
 invoice-telus.com
 invoicefido001.com
+isrogerscentreroofopen.ca
 iwin-bell.vercel.app
 james.rogers.falconshar.com
 jira.cashback-freedommobi1737.com
@@ -388,6 +397,7 @@ jolly-bell-91e0db.netlify.app
 jovial-shaw.66-29-142-70.plesk.page
 keen-bell.66-29-142-70.plesk.page
 koodomobilecx.com
+lana-shaw.courses
 ldver1fy0bell-bank.com
 linda-shaw.icu
 lms.cashback-freedommobi1737.com
@@ -402,9 +412,11 @@ m0bile75fido.com
 mail.m0b1le-b3ll-s3cur3.info
 mail2.cashback-freedommobi1737.com
 merciful-bow-bell-lkjhbvgfh.glitch.me
+mia-shaw26.courses
 motionadd.reconfig.rogerscapitalmu.com
 musing-bell-6c6dae.netlify.app
 musing-bell.107-174-68-77.plesk.page
+my-bell.net
 my-pacbellsecure.square.site
 myab-shaw.com
 mybell-08.godaddysites.com
@@ -461,6 +473,7 @@ priceless-shaw.45-88-108-231.plesk.page
 priyanka680shaw.github.io
 profile-shawupdate.weebly.com
 qbvzxv7cnf70r4levtny9x2lc6l066lh7thucf91kuvy9vc09c1q3j7863m7fwt.cashback-freedommobi1737.com
+quinn-shaw.courses
 quizzical-bell-cb2ecd.netlify.app
 quizzical-shaw-81ff17.netlify.app
 r0gers-wirelessrefunds.com
@@ -600,6 +613,7 @@ rogers.claims
 rogers.com-myaccount.cc
 rogers.com.invoice76851199.com
 rogers.help-bc.com
+rogers.locker
 rogers.request-chat.us
 rogers0.godaddysites.com
 rogers01.bitbucket.io
@@ -611,6 +625,7 @@ rogers22.vercel.app
 rogers2member2centre9com.weebly.com
 rogers33.godaddysites.com
 rogers89member.weebly.com
+rogersbank1.net
 rogerscable-support.com
 rogerscable.myftp.org
 rogerscable.serveftp.com
@@ -635,8 +650,11 @@ rogersmembershipsecureteam.weebly.com
 rogersmemberssignin.github.io
 rogersmobile-rewards.com
 rogersmobilecardetails.com
+rogersmobilityfraudteam.com
+rogerspromo.online
 rogersprovider.com
 rogersrefundnow.com
+rogerssignup.online
 rogerssupport.ca
 rogerssupportteam.com
 rogersverification.com
@@ -932,6 +950,7 @@ shaw-communications-103982.square.site
 shaw-forests-yourself-load.trycloudflare.com
 shaw-gusting.click
 shaw-onlines1477.weebly.com
+shaw-performance.com
 shaw-support-101814.square.site
 shaw-support.com
 shaw-tracker.pages.dev
@@ -1057,6 +1076,7 @@ webshawmail-104611.square.site
 webshawmail.weebly.com
 webvideotron12.weebly.com
 wildcard.cashback-freedommobi1737.com
+withersrogers.online
 wm-shawlogin76.framer.website
 wm-webmail-shaw31.framer.website
 xplornetemail.weebly.com
