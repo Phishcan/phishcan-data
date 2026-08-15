@@ -133,7 +133,6 @@ cra-international.com.au
 cra-invoice.info
 cra-proto.github.io
 cra-receivenow.online
-cra-roofing.com
 cra-signin.ca
 cra-unclaimedfunds.info
 cra.business
@@ -200,9 +199,7 @@ mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
 mycraportal.com
-newbrunswicktaxsales.ca
 nid-user.taxalert.dynv6.net
-novascotiataxsales.ca
 ns.cra2demo.trip2health.com
 nvapptax39s.dynv6.net
 nvapptax43s.dynv6.net
@@ -218,7 +215,6 @@ postescanada.art
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
-quebectaxsales.ca
 ramirez-taxservices.com
 ref-cra.xyz
 refundtax-edd.com
@@ -228,7 +224,6 @@ relay-infocolis.com
 relayinfocolis.com
 remboursementxquebec.com
 remboursementxquebec.net
-reschedule-canadapost.com
 revcanada-direct-login-webca.com
 revcanada-directdeposit-webca.com
 revcanada-directfunds-website.com
@@ -252,6 +247,7 @@ supportservicesontario.ca
 taxaccount.club
 taxaccountanttoronto.com
 taxalert.dynv6.net
+taxelogin.com
 taxinformationcuy.com
 taxinfoserv1ices.org
 taxinfoservices.org
@@ -271,6 +267,7 @@ ukgov-taxservice.com
 updatetaxtermquickaccesssite09874321.fortunaseriquezas.com.br
 virementquebec-gouv.ca
 www--wellsfargo--com--cr49329d48d6c.wsipv6.com
+x57y8cra.top
 xn--craway-cva.com
 xn--craway-cva.net
 xn--im-1z5cr40w.com
