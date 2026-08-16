@@ -1521,6 +1521,7 @@ export const banking_domains = [
   "scotiabank.dudullc.com",
   "scotiabank.hyperedge-resolver.pro",
   "scotiabank.mx-xcom.xyz",
+  "scotiabank.net.pe",
   "scotiabank.security.zya.me",
   "scotiabank.whereisacopwhenyouneedone.com",
   "scotiabank1.com",

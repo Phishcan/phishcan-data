@@ -1074,6 +1074,7 @@ export const utilities_domains = [
   "webmail-eastlink-cai.weebly.com",
   "webmail-login-shawcal.com",
   "webmail-sasktel-net.webflow.io",
+  "webmail-shaw-ca-source-webmail-poiu9ehuhe.weebly.com",
   "webmail-shawlogins-zimbra.framer.website",
   "webshawmail-104611.square.site",
   "webshawmail.weebly.com",
