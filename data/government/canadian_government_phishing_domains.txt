@@ -97,11 +97,11 @@ cheapptaxysu.click
 claim-arc.xyz
 claim-taxonlineus.com
 claimtrustcra.com
+cms-cra-sgj.cfd
 colisinforelay.com
 conf-bn-cr472.webcindario.com
 cr40208.tw1.ru
 cr41621.tw1.ru
-cr41bc774w.cc
 cr43428.tw1.ru
 cr4349893984ncs.pages.dev
 cr43821.tmweb.ru
@@ -137,7 +137,6 @@ cra-signin.ca
 cra-unclaimedfunds.info
 cra.business
 cra.canada-server.cc
-cra0f54dbw.cc
 cra123.xyz
 cra18-taxreturn.info
 cra2.toservers.com
@@ -166,7 +165,6 @@ defi-on-arc.vercel.app
 delivery-update-postecanada-canadapost.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
-directlogincra.com
 e-transfer-canada-info.cfd
 etweb-crainterac-catrust-100.com
 flapplivraison.com
@@ -204,9 +202,9 @@ ns.cra2demo.trip2health.com
 nvapptax39s.dynv6.net
 nvapptax43s.dynv6.net
 nvapptax92s.dynv6.net
+on-arc.net
 online.claim-taxonlinegovernment.com
 onlines.claim-taxonline-govusa.com
-onlinetax24.de
 onlinetaxdept.com
 ontario.postsupport.net
 parcel-canadapostweb-date.com
@@ -255,13 +253,11 @@ taxpayments-rebate.com
 taxportal.link
 taxservice.pe.kr
 taxservice.site
-taxservices.com.au
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
 track-poste-canada-parcel.com
 transfer-saaq.com
-transports-gouv-qc.ca
 tvqweb.shop
 ukgov-taxservice.com
 updatetaxtermquickaccesssite09874321.fortunaseriquezas.com.br
@@ -272,4 +268,5 @@ xn--craway-cva.com
 xn--craway-cva.net
 xn--im-1z5cr40w.com
 xn--im-1z5cr40w.top
+xn--tp-1z5cr40w.co
 xzc.cra.mybluehost.me
