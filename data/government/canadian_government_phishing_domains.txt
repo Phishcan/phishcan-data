@@ -46,7 +46,6 @@ canadapost-postescanada-postca.cc
 canadapost-postescanada.duia.us
 canadapost-postescanada.work
 canadapost-postescanadabest.vip
-canadapost-postescanadai.xyz
 canadapost-postescanadake.xyz
 canadapost-postescanadako.xyz
 canadapost-postescanadaks.xyz
@@ -133,6 +132,7 @@ cra-international.com.au
 cra-invoice.info
 cra-proto.github.io
 cra-receivenow.online
+cra-risk.eu
 cra-signin.ca
 cra-unclaimedfunds.info
 cra.business
@@ -181,11 +181,11 @@ govuk-taxservice.com
 gst25cra.com
 hst.cra.ac.th
 i3cra.com
-infocanadaimmigration.ca
 infocanadapost.com
 infocolis-relay.com
 inter-canada-deposit.ga
 invoicetaxmanager.com
+ircc-canda.ca
 lib-defined-edmonton-afraid.trycloudflare.com
 livraisonservice.info
 logintaxsupport.top
@@ -196,7 +196,6 @@ meta-support-arc.pages.dev
 mise-a-jour.cr42160.tw1.ru
 mrelais-infocolis.com
 mrelay-colisinfo.com
-my-ams-sga-cra-arc-gc-ca.glitch.me
 mycraportal.com
 nid-user.taxalert.dynv6.net
 ns.cra2demo.trip2health.com
@@ -209,12 +208,10 @@ onlines.claim-taxonline-govusa.com
 onlinetaxdept.com
 ontario.postsupport.net
 parcel-canadapostweb-date.com
-paymenttaxes.xyz
 postescanada.art
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
-ramirez-taxservices.com
 ref-cra.xyz
 refundtax-edd.com
 refundtax-hm.servehttp.com
@@ -238,7 +235,6 @@ servicecanadarefunds.net
 servicecolismondial.com
 services.cra-arc-gov-ca.org
 servicetrust-cra.com
-sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
 support-colissecure.com
