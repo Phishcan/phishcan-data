@@ -165,6 +165,7 @@ defi-on-arc.vercel.app
 delivery-update-postecanada-canadapost.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
+directlogincra.com
 e-transfer-canada-info.cfd
 etweb-crainterac-catrust-100.com
 flapplivraison.com
