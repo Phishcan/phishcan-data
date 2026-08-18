@@ -181,6 +181,7 @@ govuk-taxservice.com
 gst25cra.com
 hst.cra.ac.th
 i3cra.com
+infocanadaimmigration.ca
 infocanadapost.com
 infocolis-relay.com
 inter-canada-deposit.ga
@@ -196,6 +197,7 @@ meta-support-arc.pages.dev
 mise-a-jour.cr42160.tw1.ru
 mrelais-infocolis.com
 mrelay-colisinfo.com
+my-ams-sga-cra-arc-gc-ca.glitch.me
 mycraportal.com
 nid-user.taxalert.dynv6.net
 ns.cra2demo.trip2health.com
@@ -235,6 +237,7 @@ servicecanadarefunds.net
 servicecolismondial.com
 services.cra-arc-gov-ca.org
 servicetrust-cra.com
+sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
 support-colissecure.com
