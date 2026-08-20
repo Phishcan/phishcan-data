@@ -3015,7 +3015,6 @@ export const banking_domains = [
   "td4mjfzc8wvs9o0qwrghycv.liusanjie.cc",
   "td4oevxcld.shop",
   "td528.com",
-  "td5323u3.primordialsoupevolution.digital",
   "td53771365.circle504.shop",
   "td553.com",
   "td555.bet",
