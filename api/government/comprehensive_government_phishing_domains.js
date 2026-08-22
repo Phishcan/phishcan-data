@@ -434,6 +434,7 @@ export const government_domains = [
   "servicecolismondial.com",
   "services.cra-arc-gov-ca.org",
   "servicetrust-cra.com",
+  "signingstudio.se",
   "sk-postes.top",
   "spx-cra.cz",
   "studentsupportontario.net",
