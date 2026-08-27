@@ -2740,7 +2740,6 @@ export const banking_domains = [
   "start-my-krake-com.wstd.io",
   "statement-scotiabank.com",
   "stlaccessoriesltd.com",
-  "store.ww17.jorgazsb.scotiabank-secure.info",
   "stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion",
   "stratamodernservicesltd.click",
   "stratastrategicservicesltd.digital",

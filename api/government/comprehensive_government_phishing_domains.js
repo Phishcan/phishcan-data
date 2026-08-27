@@ -317,7 +317,6 @@ export const government_domains = [
   "desktop.cravinfoodies.com",
   "directdepositmoneytransfer.cra.bahiabonitaflat.com.br",
   "directdepositmoneytransfer.cra.tahrin.com.tr",
-  "directlogincra.com",
   "e-transfer-canada-info.cfd",
   "epos-cradgmail.servebeer.com",
   "flapplivraison.com",
