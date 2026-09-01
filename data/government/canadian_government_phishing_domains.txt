@@ -39,6 +39,7 @@ ca-mobilerefund.canada.gouv.on.qc.ca.mihimandalalk.org
 ca-ref-cra.info
 ca-revenuquebec.enligne.gouv.rq.qc.ca.g3mgmt.com
 ca.revenuquebec.gouv.dep-rq.qc.ca.asesoriaenimagen.cl
+canada-ca-cra.cfd
 canada-deposit-gst.com
 canada-revenue-agency.co
 canadacrarefund.com
@@ -320,6 +321,7 @@ directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
 epos-cradgmail.servebeer.com
+fff.secureparcelservice.org
 figgerssecuredtax.com
 flapplivraison.com
 ftp.craigmoreaccountancy.com
@@ -341,6 +343,7 @@ i3cra.com
 immigrationclientcentre.ca
 immigrationservicestoronto24.ca
 in.crasverify.cfd
+infocanadaimmigration.ca
 infocanadapost.com
 infocolis-relay.com
 infotaxialicante.com
