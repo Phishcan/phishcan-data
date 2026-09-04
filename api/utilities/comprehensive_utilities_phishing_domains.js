@@ -1283,6 +1283,7 @@ export const utilities_domains = [
   "wbmeastlink65dfhgh6565yuyueastlink.weebly.com",
   "web-sasktelonline.weebly.com",
   "webbell.ru",
+  "webbell.vercel.app",
   "webmaiilshaw.weebly.com",
   "webmail-bell-login.congkhanhluat.vn",
   "webmail-bell-login.inspiraclin.com.br",
