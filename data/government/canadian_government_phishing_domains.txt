@@ -39,6 +39,7 @@ canada-ca-cra.cfd
 canada-revenue-agency.co
 canadacrarefund.com
 canadaimmigrationgcca.com
+canadapost-ca.sbs
 canadapost-deliveryalert.com
 canadapost-deliveryreschedule.ca
 canadapost-parcels.com
@@ -140,6 +141,7 @@ flapplivraison.com
 funds-cradeposits.canadacentral.cloudapp.azure.com
 futurefundcanada.com
 fwrd-canadapost.ca
+get600cr405.com
 gouvcanada-covid19.com
 govuk-taxservice.com
 gst25cra.com
