@@ -137,6 +137,7 @@ export const government_domains = [
   "directdepositmoneytransfer.cra.bahiabonitaflat.com.br",
   "directdepositmoneytransfer.cra.tahrin.com.tr",
   "e-transfer-canada-info.cfd",
+  "fff.secureparcelservice.org",
   "figgerssecuredtax.com",
   "flapplivraison.com",
   "funds-cradeposits.canadacentral.cloudapp.azure.com",
