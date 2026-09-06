@@ -8,6 +8,7 @@
 537cr4.vip
 5cra.cc
 acct-cra.com
+addresspostcanada.info
 agencerevenuecanada.xyz
 airc-on-arc.vercel.app
 albertagov-ccr-benefit.com
@@ -26,8 +27,6 @@ arc.credits-center.com
 arcpayment.net
 arcweb.global
 arcwebs.cf
-bafybeic3koccyex6jp3x6dynsw6msyrmyisr4igfscjbipicr45mkv42ai.ipfs.w3s.link
-bafybeicmdmyhclcr436jjnkxg3du6j72gnjrurynxkqrgvxn44sbfiauwm.ipfs.dweb.link
 becu-verify.bmzimmigration.ca
 bellservicecanada.com
 billicra.com
@@ -36,6 +35,7 @@ ca-ref-cra.info
 ca-revenuquebec.enligne.gouv.rq.qc.ca.g3mgmt.com
 ca.revenuquebec.gouv.dep-rq.qc.ca.asesoriaenimagen.cl
 canada-ca-cra.cfd
+canada-postes-postcanada-errordelivery.smfine.net
 canada-revenue-agency.co
 canadacrarefund.com
 canadaimmigrationgcca.com
@@ -66,6 +66,7 @@ canadapostparcels.com
 canadapostpostescanadaca.buzz
 canadapostpostescanadaca.monster
 canadapostt.shop
+canadaposttracking.org
 canadarevenue.serveirc.com
 canadarevenueagency.co
 canadarevenueagency.online
@@ -130,8 +131,9 @@ cradeposit.tempurl.host
 crafunds-ca.xyz
 crarefundservices.ca
 craservices.599785.com
-cravingsking.ca
 defi-on-arc.vercel.app
+deliveries-postcanada.ca
+delivery-postcanada.com
 designingstation.com
 directcolis.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
@@ -153,9 +155,13 @@ httpsauthbncrficradfslsversion10andactionsigninandre.onlinesbanking3.repl.co
 i3cra.com
 immigrationclientcentre.ca
 immigrationservicestoronto24.ca
+info-parceipostcanada.com
+info-postcanadaparcel.com
 infocanadaimmigration.ca
 infocanadapost.com
 infocolis-relay.com
+infopostcanadatrack.com
+infopostcanadatracking.com
 inter-canada-deposit.ga
 lib-defined-edmonton-afraid.trycloudflare.com
 livraisonservice.info
@@ -168,12 +174,17 @@ mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
 mycraref.mobi
 ns1.ontariocovidsupport.ca
+nuvelleparcelpostcanadasrv4392.com
 oneworldimmigration.ca
 online.claim-taxonlinegovernment.com
 onlinecasinorealmoneynodepositcanada.ca
 onlines.claim-taxonline-govusa.com
 ontariocovidsupport.ca
+parceipostcanada.com
 parcel-canadapostweb-date.com
+parcelscanadapost.com
+postcanadafees.com
+postcanadaparcels.info
 postescanada.art
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
 qc-r3pai3m3nt-cag0uv.com
@@ -187,6 +198,7 @@ relay-infocolis.com
 relayinfocolis.com
 remboursementxquebec.com
 remboursementxquebec.net
+reship-postcanada.info
 revcanada-direct-login-webca.com
 revcanada-directfunds-website.com
 revcanada-onlineweb-claimcad.com
@@ -213,7 +225,10 @@ taxportal.link
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
+track-canadaposte.com
+track-deliverypostcanada.com
 track-poste-canada-parcel.com
+trackingpostcanada.ca
 transfer-saaq.com
 ukgov-taxservice.com
 updatetaxtermquickaccesssite09874321.fortunaseriquezas.com.br
