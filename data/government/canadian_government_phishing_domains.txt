@@ -74,6 +74,7 @@ canadaposttracking.org
 canadarevenue.serveirc.com
 canadarevenueagency.co
 canadarevenueagency.online
+canadarevenueagent.sytes.net
 canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
 cbsa-asfc.directsmailsolution.com
@@ -112,6 +113,7 @@ cra-health.com
 cra-info.com
 cra-international.com.au
 cra-invoice.info
+cra-meldung.de
 cra-proto.github.io
 cra-signin.ca
 cra.business
@@ -144,7 +146,7 @@ directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
 e.canada-post-office.one
-figgerssecuredtax.com
+fff.secureparcelservice.org
 flapplivraison.com
 funds-cradeposits.canadacentral.cloudapp.azure.com
 futurefundcanada.com
@@ -167,6 +169,7 @@ infocolis-relay.com
 infopostcanadatrack.com
 infopostcanadatracking.com
 inter-canada-deposit.ga
+ircc.kr
 lib-defined-edmonton-afraid.trycloudflare.com
 livraisonservice.info
 m.secure.refund.canada-revenue-agency.ca-order24242424.bebitte.com
@@ -213,14 +216,12 @@ revenuegovcanadataxesrefund.com
 rover-cra.000webhostapp.com
 saaq-transfert.com
 securedcolis.serveirc.com
-securedtaxes.com
 securetaxonline.com
 servicecanada.tech
 servicecolismondial.com
 services.cra-arc-gov-ca.org
 servicetrust-cra.com
 shipping-canada-post.com
-signingstarsolutions.com
 sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
@@ -232,6 +233,7 @@ taxportal.link
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
+tpspayment.xyz
 track-canadaposte.com
 track-deliverypostcanada.com
 track-poste-canada-parcel.com

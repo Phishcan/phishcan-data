@@ -59,7 +59,6 @@
 365nbc.com
 377381-interac.com
 38912-interac.com
-3td8rv2.xyz
 3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app
 4031-interac-23.com
 4733-interac.com
@@ -118,6 +117,7 @@ acceuil-client-bmo.com
 accmouvdesj01ardins.com
 account-check.co.jp.zhtatd.ga
 account.ftdropsnetworks.live
+accountholderverification-tangerine.com
 accweb-desjardins-enligne-securite.com
 accweb-mouv-desjardins.com
 accweb-mouv3.info
@@ -159,7 +159,6 @@ appltdswebs.com
 apptd-easywb.com
 as85485-interac.gogss.com
 assistance-caisse.servehttp.com
-atb-client.info
 atb-online-ban-king.com
 atb-online.org
 atb.support
@@ -311,7 +310,6 @@ caisse8-popu22desj.info
 caisseacces1-001-site1.anytempurl.com
 caisseagrisecuripassdsp2-bd0a6d.ingress-comporellon.ewp.live
 caisseauthenti.wpengine.com
-caissecongebatiment.org
 caissedallocationsfamiliales.com
 caissedesjardinsaccesd.com
 caissemomo.com
@@ -329,7 +327,9 @@ canada.rbcbank.cc
 canadapostdele.ca
 canadasecureinterac.serveo.net
 canadatrust-interacwebsave.com
+cancellationrequest-rbcoverview.help
 caroyalrbcinfos.com
+casinos-that-accept-interac.com
 cciama-td.org
 ch3-tdh5-hepmy.xyz
 chatbot-cibc-sbx.azurewebsites.net
@@ -380,12 +380,18 @@ cibcaccess-portal.com
 cibcbankalert.com
 cibcc.ca
 cibcfcibalerts.tk
+cibcficb.com
+cibcgg.com
 cibclogin-secure.top
 cibcmobi-online.com
+cibcmtg.com
+cibcoft.pl
+cibcon.gq
 cibconline-mobile.top
 cibconline.accessclientcard6.com
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
+cibcplus.com
 cibcportalaccess.com
 cibcsecure-access.com
 cibcsecure-https.top
@@ -903,6 +909,7 @@ credibility-check.agku4lor2td7681vwjkd57rl.com
 credito-scotiabank.sytes.net
 currency-etransfer.live
 d0td1trlm.top
+d6td5s9qte0bea7273e0wuou77jjx77uk.oast.pro
 dapps-interact.io
 decomosnfri29ntd.tk
 depositmoneytransfer.interac.qkvkervke.co.uk
@@ -913,6 +920,7 @@ desjar-verification.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
+desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-connexion.com
 desjardins-info24.com
@@ -930,12 +938,14 @@ desjardinsaccesdmobile.com
 desjardinsaccesmobile.com
 desjardinscadillac.ai
 desjardinsetf.ca
+desjardinsgdae.securebankinggroup.com
 desjardinsval.info
 desjardns.creditunion-authority.com
 desjcan.com
 desjsupp.com
 desjval.info
 dev-bnk-scotiabank-peru.pantheonsite.io
+digitalbusinessone-cibc.com
 directcaisseinfo.xyz
 divine-interactive.info
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
@@ -1000,6 +1010,7 @@ emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
 emv1.qhp5td.cn
 encrypted-secure-lnterac.com
+ep-ch-mr2dgu4tdm89t-g8f8f0d0crdydsbs.z03.azurefd.net
 epp359td.top
 equihome-finance.com.prospera-bridge.com
 et-100-lnteracwebca.com
@@ -1219,7 +1230,6 @@ gstpaymentdate.ca
 happynoticefromstdbnkficaupdates.syd1.cdn.digitaloceanspaces.com
 hdthtjdthrgzegcghthtgfe4dtd.s3.eu-de.cloud-object-storage.appdomain.cloud
 help-snnbc.monster
-help-wealthsimple.com
 helpdesktd.com
 hl-1td.com
 homepersonalonline-rbc.com
@@ -1378,6 +1388,8 @@ interacc--etransfer.xyz
 interacca-verifications.firebaseapp.com
 interacca-verifications.web.app
 interaccorporation.com
+interacdirect.ddns.net
+interacdirect.duckdns.org
 interace-transfer.xyz
 interace9838.ecodownunder.com
 interacemtllc.com
@@ -1421,7 +1433,6 @@ interactinfoo1.ca
 interactinganomalies.com
 interactinspired.com
 interaction.solutions
-interactionid.com
 interactionutile.com
 interactive-checklist-656460.framer.app
 interactive-circumstances-056399.framer.app
@@ -1440,6 +1451,7 @@ interactivebrokeis.xyz
 interactivebrokershk.xyz
 interactivechamber.com
 interactivecollege.info
+interactivedemo.click
 interactiveface.com
 interactivejutnav.com
 interactivemarketspro.com.financecreditbase.com
@@ -1470,6 +1482,7 @@ interacupdate-id923.servehttp.com.296413c29410513547.temporary.link
 interacweb100-catrust101.com
 isn1-scotiabank.azurewebsites.net
 it-secure.ca
+j3td9.study
 jmytd.blogspot.is
 jmytd.blogspot.sn
 join-chat-whatsapp.nhtd.cf
@@ -1591,8 +1604,8 @@ myportalscotiabank.com
 myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
+nationalbankofcreators.com
 nbc-eg.com
-nbc-suite.com
 nbc.uatb.org
 nbc188.org
 nbcol.acaekmonopoli.com
@@ -1606,6 +1619,8 @@ nextpayments-authverif-lnterac-ca.precisiongroup.org
 nja-accounting.ca
 notify.paymentsinterac.ca
 notifyfb-ggadc0td1q.tv1space.az
+nova-td.com
+nova-td3.com
 nw-secure-setdevice-icancel.com
 nwsecurity-setdevice-icancel.com
 office365dumc0med5cibcugnc7dkvci2qbmrzo72wkguova62vqkkcib.softmail1.workers.dev
@@ -1646,6 +1661,7 @@ ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru
 prest-scotiabnk.royalwebhosting.net
 prestationqc-interac.ca
 profitpathb2bmomentum.info
+prospera-prime.com
 prosperacapitals.org
 prosperacapitaltrading.info
 prosperadamente.com.br
@@ -1654,14 +1670,13 @@ prosperagenius.com
 prosperahead.ru
 prosperahealthcentre.com
 prosperaio.com
+prosperamosjuntos.com
 prosperamundi.info
 prosperando.org
 prosperaranchland.com
 prosperati.net
-prosperaurora.lat
 prosperawealth.org
 protection-cibc.com
-protectiond-desj.com
 protectmyidentity-cibc.com
 q1f2.tap22360td.cc
 r0ger-lnterac.com
@@ -1742,9 +1757,9 @@ rbchelpme.com
 rbchidraulica.com.br
 rbchomonlline.com
 rbcidentifyandverify.com
-rbcjfk.info
 rbclogin-line.web.app
 rbclogin.dd-dns.de
+rbcmobile.support
 rbcmontgomery.com
 rbcnakaocanada.crabdance.com
 rbconlinesecurity.ca
@@ -1797,6 +1812,7 @@ rbctrustroyalcanada.com
 rbcu2.my03.com
 rbcverification.com
 rbcverify.com
+rbcverifymyaccount.com
 rbcwealthmanagement.charitypro.ca
 rbcweb-alert.com
 rbcwebsecured.com
@@ -1966,7 +1982,6 @@ scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
 scotiabankpr.eshost.com.ar
-scotiabankprivateconnection.com
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1980,6 +1995,7 @@ scotiabauk-cr.top
 scotiabcnkid.com
 scotiabconectasemlineas.atwebpages.com
 scotiabdomi23.000webhostapp.com
+scotiabluemarketing.com
 scotiabnconexionenlinea.atwebpages.com
 scotiabnk-online.eu5.net
 scotiabnkpersona.vastserve.com
@@ -2033,6 +2049,7 @@ scotiavalidaciones.mx
 scotiavbzz.com
 scotiaverificationregistry.com
 scotiawealthmanagement.com.cobblestonesw.com
+scotiawebaccess.com
 scotiawebscotlabank.mx13.com.mx
 scotla-comect.cc
 scotla-online.com
@@ -2055,7 +2072,6 @@ secure-aibmobileonlinebanking.com
 secure-authrbcroyal.com
 secure-bmo-page1.com
 secure-desj-updt.com
-secure-hawaiinationalbank.com
 secure-rbc.duckdns.org
 secure-rbconline.com
 secure-rbcroyalalert.com
@@ -2114,7 +2130,6 @@ service223accountdisable-42115462verify.start.page
 servicio-cliente-santdr-b8ca53.ingress-comporellon.ewp.live
 servus-dibatanservicerss.xyz
 servusgermaninstitute.com
-servushaus.com
 servusholdings.com
 servustv.live
 sign-in-tdcatrustweb.com
@@ -2130,7 +2145,6 @@ summary-etransfer.live
 suntrustnationalbank.com
 support.zoom.us.group-nbc.my.id
 support1-accesd.com
-supportatbunk1.com
 supportdepositinterac.com
 sv-rbcroyalbank.com
 sz8x64xvgmlsb-z137td1.com
@@ -2195,6 +2209,7 @@ td-ik.site
 td-ip.contact
 td-jin.com
 td-kuk.si
+td-market.com
 td-min.com
 td-mywebaccess.com
 td-oin.com
@@ -2221,7 +2236,6 @@ td-udol.com
 td-update.info
 td-vortex.com
 td-y.fun
-td-yakovlev.ru
 td-zim.ru
 td.1access-mobi.com
 td.1auth-web.com
@@ -2258,6 +2272,7 @@ td.sspc.one
 td.web2-auth.com
 td.webacc-ca2.com
 td0597.com
+td07669.top
 td0qvmnavg0rjcse3x9nof6ouexe.qwo231sdx.club
 td0rnl.wephemonsanto.com
 td0ue8ha.cfd
@@ -2265,10 +2280,8 @@ td1-acc-login.com
 td1-case120879.pages.dev
 td1-login-acc1.com
 td1.367450.com
-td168-88.com
 td168.ws
 td169.best
-td178.com
 td18h.com
 td19343-spec.github.io
 td1ghkfxvtkghsu.qwo231sdx.club
@@ -2289,17 +2302,11 @@ td6.367450.com
 td666.com.pk
 td6ll7.vip
 td6rf.gugop.biz.id
-td77.life
 td777.fyi
 td7772.win
 td7777.biz
 td777apks.com.pk
-td777game.onl
 td777game.ws
-td777oi.com
-td777vip.app
-td81yun.com
-td868.com
 td888.bar
 td888.com.pk
 td89.pro
@@ -2309,7 +2316,6 @@ td90u8.duckdns.org
 tdatax.sbs
 tdavis.bravusmentores.com
 tdavisa.com
-tdavispix.com
 tdaymondqofr.com
 tdbank-onlinebanking1.com
 tdbank.afe.wiki
@@ -2348,7 +2354,7 @@ tdroneservices.com
 tds-ca-dpm-prod-live-frontend.tdse.now.hclsoftware.cloud
 tdsdhfdhdfhfdhf.oncartx.io
 tdsecure-portal.com
-tdservicerep.com
+tdsref.com
 tdt9t8ms6zz.aidirhowwemadeitinafrica.com
 tdtmyurx.guru
 tdtmyurx.shop
