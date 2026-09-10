@@ -1,6 +1,5 @@
 21venturecapital.com
 5.mapdz.ru
-:
 acc.accgn.com
 account.auto-bluearrow.com
 activ-traides.com
@@ -20,7 +19,7 @@ apccontractors.com
 apx-ca.com
 apx-ca.io
 arcticsummitcapital.com
-area.prodiviagrouop.org/auth/registration
+area.prodiviagrouop.org
 assetholdingsltd.com
 assuranceqc.ca
 astrax-exchange.com
@@ -55,7 +54,7 @@ boostyflow.com
 boostyflow.net
 bramridge-trust.ca
 bramridge-trust.com
-brightrooms.world/7mhhgrjg?
+brightrooms.world
 btcc.com
 btcex.online
 bullwaypro.com
@@ -115,7 +114,6 @@ enterprise2u.net
 eobroker.ae
 eolabs.net
 eq-xe.com
-et
 ethdma.com
 ethera-monetix.com
 evolutionglblltd.com
@@ -249,7 +247,7 @@ moomentumventures.com
 moonbitx.com
 myauros-ai.com
 nadexactivetrade.com
-neonwindow.digital/?_lp=1&_token=uuid_1ohuks8akgeh_1ohuks8akgeh68f1469d32d972.52406902
+neonwindow.digital
 newapexway.com
 nexperts.io
 nexperts.org
@@ -269,7 +267,6 @@ onefxclub.info
 onefxclub.net
 onegrowthrise.com
 onewaytex.com
-onewaytex.com/index7.html
 ontarex.com
 openaccessfinance.net
 opulatrix.com
