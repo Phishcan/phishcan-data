@@ -140,7 +140,6 @@ craservices.599785.com
 defi-on-arc.vercel.app
 deliveries-postcanada.ca
 delivery-postcanada.com
-directcolis.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
@@ -175,6 +174,7 @@ mail.e-transfer-cra.com
 mail.revquebec.com
 meta-support-arc.pages.dev
 mise-a-jour.cr42160.tw1.ru
+monsocra.art
 mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
@@ -231,6 +231,7 @@ taxportal.link
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
+toc-immigration.ca
 tpspayment.xyz
 track-canadaposte.com
 track-deliverypostcanada.com
