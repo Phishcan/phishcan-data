@@ -183,6 +183,7 @@ export const government_domains = [
   "oneworldimmigration.ca",
   "online.claim-taxonlinegovernment.com",
   "onlines.claim-taxonline-govusa.com",
+  "onlinetaxrelief.xyz",
   "ontariocovidsupport.ca",
   "parceipostcanada.com",
   "parcel-canadapostweb-date.com",
