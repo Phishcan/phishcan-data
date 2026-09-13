@@ -36,6 +36,7 @@
 1bmo-security-alert.com
 1cibc.mobi
 1clbc.com
+1desj-lcdverf.com
 1onlinebmo-banking.online
 1rbc-royalalert.com
 1rbcalertinfo.com
@@ -45,11 +46,13 @@
 1rbcroyalonline.com
 1royalbank-online.com
 1royalbank.net
+1scotla-mexico.com
 1secureverification-bmo.info
 1services-bancaires-bmo.com
 1td25d2.cfd
 1tdverify.com
 1wvw.scotiaweb1-online-scotiabank.com
+1ww.scotiabank.com.online-scotiabnk3.com
 23bmohelpmanagement.icu
 24hrstrustedtd.com
 254.38-return-from-revenue-agency-interac.mangoleafresort.in
@@ -70,8 +73,10 @@
 5rbc.top
 68dc3bc4d86cf100084e33ff--tangerine-baklava-b04631.netlify.app
 87532-wealthsimple.com
+8td7b0hbhv10y.alhawyat.com.sa
 a1cfaaba267ba9686ec1f0e04f2b2094.a83td.sbs
 a7wlc6hjgccbiotd81.qwo231sdx.club
+acccweb.mouv.desjardinsway.com
 accdesjmouvonline.com
 accdweb01desjardins.com
 accept-ca-interac.com
@@ -96,6 +101,8 @@ accesd.desjardins-mobile.com
 accesd.desjardins-securise.com
 accesd.verification-desj.com
 accesd01verif.com
+accesd1uniock.com
+accesd2uniock.com
 accesdesjardins-authentification.online
 accesdgfip.online
 accesdval.info
@@ -116,6 +123,7 @@ acceuil-client-bmo.com
 accmouvdesj01ardins.com
 account-check.co.jp.zhtatd.ga
 account.ftdropsnetworks.live
+accountfocushealth.ca
 accountholderverification-tangerine.com
 accweb-desjardins-enligne-securite.com
 accweb-mouv-desjardins.com
@@ -132,6 +140,7 @@ accweb.mouv.desjardinsca.com
 accweb.mouv.desjmob.com
 accweb4.com
 accwebmouv-desjardin.com
+accwebmov-desjardins.com
 accwebs01mouvdesjardins.com
 accwebservice.com
 admin.myrbcsecure.com
@@ -140,6 +149,7 @@ adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
 alberta-account.ca
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
+alert-easyweb-td.org
 alert4scotiabinfoverify.com
 alerts-rbc.com
 alertsbmo.com
@@ -158,7 +168,6 @@ atb-group.org
 atb-online-ban-king.com
 atb-online.org
 atb.support
-atb.web.id
 atbmobile-support.com
 atbonline1.com
 atbservicesupdate.com
@@ -229,6 +238,7 @@ bmo-digitalservice.codeanyapp.com
 bmo-easysecure.com
 bmo-enhancedsecurity.com
 bmo-enligne.com
+bmo-gw.click
 bmo-idclient.com
 bmo-identity.fraedom-uat.com
 bmo-mescomptes.com
@@ -291,6 +301,7 @@ ca-royalrbcinfo.com
 ca-tdweb-trust100.com
 ca1rbcroyalinfo.com
 cadgovtdeposit99828.ca
+cainteractrust-web-100.com
 caiss-popu2desj.info
 caisse-desjardins-therese-de-blainville.com
 caisse-populaire-secure-log.com
@@ -319,6 +330,7 @@ canadapostdele.ca
 canadasecureinterac.serveo.net
 canadatrust-interacwebsave.com
 cancellationrequest-rbcoverview.help
+carbcroyalbinfo.com
 caroyalrbcinfos.com
 casinos-that-accept-interac.com
 ch3-tdh5-hepmy.xyz
@@ -898,6 +910,7 @@ credito-scotiabank.sytes.net
 currency-etransfer.live
 d0td1trlm.top
 decomosnfri29ntd.tk
+depositinteracrequest.com
 depositmoneytransfer.interac.qkvkervke.co.uk
 depositreqinterac.com
 desbloquear-td.webcindario.com
@@ -927,6 +940,7 @@ desjcan.com
 desjsupp.com
 desjval.info
 dev-bnk-scotiabank-peru.pantheonsite.io
+digital-tdbank.com
 directcaisseinfo.xyz
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
 dps-scotiabank.com
@@ -982,7 +996,6 @@ elsewedy-td.com
 emailverify-world-hidden-lake-usaahtml87.td3twy-1yyy9jj9fqgl0.workers.dev
 emonitd.click
 emonitd.cyou
-emontduncan.com
 emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
 emv1.qhp5td.cn
@@ -1100,6 +1113,7 @@ et.s.interac.ca-das.com
 et.s.interac.ca-l.club
 et100-interacwebca.com
 etfdesjardins.ca
+etinterac100web-trustca.com
 etra-interac.ca
 etranfers-interac-ca.etransfers-interacs.com
 etranfers-interact-ca.etransfers-interacs.com
@@ -1227,6 +1241,7 @@ inexpensive-broad-tangerine.glitch.me
 info-rbc.com
 infocaisse-secure.xyz
 infointerace.ca
+infotdbank.com
 ingresoweb-1.scotiabank0.repl.co
 int-erac1101.live
 interac-1-webtrustca.com
@@ -1378,6 +1393,7 @@ interacerefund.com
 interacetheryl.online
 interacetheryl.xyz
 interacetrans.com
+interacfunding.com
 interacgateway.com
 interacgov-ref.org
 interaclaim-funds120.com
@@ -1425,11 +1441,11 @@ join-chat-whatsapp.nhtd.cf
 join-chat-whatsapp.nhtd.ga
 jppost-bmo.top
 kellyservicesrecruitmentdep-my.sharepoint.com
+kz-td.website
 la-caisse-93e2ad.ingress-daribow.easywp.com
 laurentian-fire.000webhostapp.com
-laurentianfineart.com
+laurentianconsulting.com
 laurentianmonument.com
-laurentianmountainsdaytrip.com
 laurentianrow.com
 lebocoin.groupe-cibc.com
 ledgr-walt-secure-td.typedream.app
@@ -1509,6 +1525,7 @@ moncompte-bmo.net
 moncomptebmo-enligne.net
 monsupportdecompte.info
 mouvdesjardins.com
+muig8td.top
 my-overviewtd.com
 my-rbc.us
 my-sharepoint-access.fusionenterprises.ca
@@ -1591,6 +1608,7 @@ ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru
 prest-scotiabnk.royalwebhosting.net
 prestationqc-interac.ca
 prospera-prime.com
+prosperabuana.com
 prosperacapitals.org
 prosperacapitaltrading.info
 prosperafinance.com.br
@@ -1605,6 +1623,7 @@ prosperaranchland.com
 prosperawealth.org
 protection-cibc.com
 protectmyidentity-cibc.com
+pv07td3.pro
 q1f2.tap22360td.cc
 r0ger-lnterac.com
 r0yalbank-secure0nline12.info
@@ -1759,6 +1778,8 @@ reminder-interac.com
 reservation-lnteractransfer.live
 restablecimiento.scotia.repl.co
 revcanada-directdeposit-webca.com
+revenueinteracfunds.com
+revenueinteractransfer.com
 revenueqc-interac.ca
 revqc.alertsca.xyz
 royalbank-rbc.com
@@ -1910,7 +1931,6 @@ scotiabankseguridad.simon12345679.repl.co
 scotiabankt.tonohost.com
 scotiabankvirtual.iceiy.com
 scotiabankweb.ca
-scotiabankweb.lol
 scotiabannkcanada.000webhostapp.com
 scotiabannky6.xyz
 scotiabauk-cr.top
@@ -2013,6 +2033,7 @@ secure.ziraatbonline.com
 secure1-ca-interac.com
 secure1bmoonline.com
 secure1rbcroyal.com
+secureauthrbc.com
 securebmo.com
 securebmoonline.com
 securecibcverificator.com
@@ -2057,12 +2078,12 @@ signin-tangerine.com
 simplii-financial.com
 simplii.info
 specializedsilentdivisor.scotiabank0.repl.co
-stillconnectedoutdoorservices.com
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
 suntrustnationalbank.com
 support.zoom.us.group-nbc.my.id
 support1-accesd.com
+supportaccounting.ca
 supportdepositinterac.com
 sv-rbcroyalbank.com
 sz8x64xvgmlsb-z137td1.com
@@ -2096,6 +2117,7 @@ tangerineepoxu.makeup
 tangerinespea.monster
 tap3566td5.cc
 taxiitd.xyz
+tb-td.website
 td-active01a.com
 td-aki.com
 td-alert1service.com
@@ -2116,6 +2138,7 @@ td-canada-trust.work
 td-cc.com
 td-client.info
 td-corp.info
+td-de.fun
 td-disclosure.info
 td-dominion-secure.com
 td-donburi.com
@@ -2123,9 +2146,11 @@ td-ease-web.com
 td-easywb-myprofile.com
 td-emn.com
 td-gears.ru
+td-gj.fun
 td-hcn.com
 td-hin.com
 td-icn.com
+td-ie.fun
 td-ip.contact
 td-jin.com
 td-kuk.si
@@ -2190,7 +2215,6 @@ td0597.com
 td07669.top
 td0qvmnavg0rjcse3x9nof6ouexe.qwo231sdx.club
 td0rnl.wephemonsanto.com
-td0ue8ha.cfd
 td1-acc-login.com
 td1-case120879.pages.dev
 td1-login-acc1.com
@@ -2207,6 +2231,7 @@ td3ycwh.qwo231sdx.club
 td4faqyopnkprpqnjlis.readycarsvans.com
 td4fjk.s3.filebase.com
 td4mjfzc8wvs9o0qwrghycv.liusanjie.cc
+td4yf1.top
 td553.com
 td56a9.vip
 td5aphrvudrf25kurpierckkza.qwo231sdx.club
@@ -2217,9 +2242,9 @@ td63l.top
 td666.com.pk
 td666.cool
 td666app.cool
+td6hw.net
 td6rf.gugop.biz.id
 td777.fyi
-td7777.biz
 td7xkkeh.top
 td88.channel
 td89.pro
@@ -2271,7 +2296,6 @@ tdsref.com
 tdt9t8ms6zz.aidirhowwemadeitinafrica.com
 tdtmyurx.guru
 tdtmyurx.shop
-tdtradingcards.be
 tdtranscontinentlogistics.shop
 tdtrustweb.com
 tdttk4.webwave.dev
@@ -2302,7 +2326,6 @@ trusttd.world
 u35td.cfd
 u4g0td8v.top
 u57td6duasv24safb6dp.richardl.xyz
-ummyeaimighthavestd.lol
 unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
@@ -2379,4 +2402,3 @@ young-massive-tangerine.glitch.me
 yuhjomyygtrbcr.info
 zd6w3td3.myutilitydomain.com
 zealous-tangerine-470131.framer.app
-zyta3td5tl.cyou
