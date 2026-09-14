@@ -333,6 +333,7 @@ export const investor_alerts = [
   "raliplen.com",
   "rcfinvestments.net",
   "redleafassettrust.com",
+  "reinefondange.com",
   "relutor.com",
   "renovae.app",
   "rimining.com",
