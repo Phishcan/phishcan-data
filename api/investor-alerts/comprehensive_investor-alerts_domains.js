@@ -411,6 +411,7 @@ export const investor_alerts_domains = [
   "valtrixg.com",
   "vantagemarketsfx.com",
   "vault-bit.com",
+  "velionmarkets.org",
   "veritionfundmanagementllc.com",
   "versamind.io",
   "vexatrade.capital",
