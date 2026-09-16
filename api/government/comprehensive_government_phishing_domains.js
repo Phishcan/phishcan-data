@@ -144,7 +144,6 @@ export const government_domains = [
   "directdepositmoneytransfer.cra.tahrin.com.tr",
   "e-transfer-canada-info.cfd",
   "e.canada-post-office.one",
-  "fff.secureparcelservice.org",
   "flapplivraison.com",
   "funds-cradeposits.canadacentral.cloudapp.azure.com",
   "futurefundcanada.com",
