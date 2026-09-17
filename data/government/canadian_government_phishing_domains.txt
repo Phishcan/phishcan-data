@@ -25,6 +25,7 @@ arc-portal-lime.vercel.app
 arc-premium-portal.vercel.app
 arc.credits-center.com
 arcpayment.net
+arcweb-system.com
 arcwebs.cf
 becu-verify.bmzimmigration.ca
 bellservicecanada.com
@@ -112,7 +113,6 @@ cra-health.com
 cra-info.com
 cra-international.com.au
 cra-invoice.info
-cra-meldung.de
 cra-org.live
 cra-proto.github.io
 cra-signin.ca
@@ -166,7 +166,7 @@ infocolis-relay.com
 infopostcanadatrack.com
 infopostcanadatracking.com
 inter-canada-deposit.ga
-ircc.kr
+invoicetaxlens.xyz
 lib-defined-edmonton-afraid.trycloudflare.com
 livraisonservice.info
 m.secure.refund.canada-revenue-agency.ca-order24242424.bebitte.com
@@ -191,7 +191,9 @@ ontariotaxi.xyz
 parceipostcanada.com
 parcel-canadapostweb-date.com
 parcelscanadapost.com
+paymenttaxbase.xyz
 paymenttaxhub.xyz
+paymenttaxlab.xyz
 peiandajob.com
 post.canada-post-offices.help
 postcanadafees.com
@@ -237,7 +239,6 @@ taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
 toc-immigration.ca
-tpspayment.xyz
 track-canadaposte.com
 track-deliverypostcanada.com
 track-poste-canada-parcel.com
