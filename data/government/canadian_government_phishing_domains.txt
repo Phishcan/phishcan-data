@@ -138,6 +138,7 @@ cradeposit.tempurl.host
 crafunds-ca.xyz
 crarefundservices.ca
 craservices.599785.com
+crazytower-ca.ca
 defi-on-arc.vercel.app
 deliveries-postcanada.ca
 delivery-postcanada.com
@@ -218,6 +219,7 @@ revcanada-onlineweb-claimcad.com
 revenuegovcanadataxesrefund.com
 rover-cra.000webhostapp.com
 saaq-transfert.com
+santiagodecompostelatoribeirasacra.com
 securedcolis.serveirc.com
 securetaxonline.com
 servicecanada.tech
@@ -254,7 +256,6 @@ web-postcanadadelivery-data.com
 www1.sndc-crad-nem-inedx.sdzt4x.cn
 xn--80aidazedj4cra6f0a.xn--p1ai
 xn--cg-1z5cr40w.pw
-xn--cg-1z5cr40w.xyz
 xn--eg-1z5cr40w.cc
 xn--im-1z5cr40w.com
 xn--im-1z5cr40w.top
