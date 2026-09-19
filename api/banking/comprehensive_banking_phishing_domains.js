@@ -1855,6 +1855,7 @@ export const banking_domains = [
   "scotia.inononline.com",
   "scotia.te.protege.zya.me",
   "scotia1developer.world",
+  "scotia2026sercuritty.com",
   "scotia23.confirmar32.repl.co",
   "scotia34x-wq22.com",
   "scotiaabankk.com",
