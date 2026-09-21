@@ -82,7 +82,6 @@ cfspart-impots-france.impotsweb-fr.com
 claim-arc.xyz
 claim-taxonlineus.com
 claimtrustcra.com
-cleaningservicecanadabc.com
 colisinforelay.com
 conf-bn-cr472.webcindario.com
 cr40208.tw1.ru
@@ -92,6 +91,7 @@ cr43428.tw1.ru
 cr4349893984ncs.pages.dev
 cr43821.tmweb.ru
 cr44145.tw1.ru
+cr444.cam
 cr45867.tmweb.ru
 cr46562.tmweb.ru
 cr465768rcrxw.pages.dev
@@ -137,7 +137,6 @@ cradeposit.tempurl.host
 crafunds-ca.xyz
 crarefundservices.ca
 craservices.599785.com
-crazytower-ca.ca
 defi-on-arc.vercel.app
 deliveries-postcanada.ca
 delivery-postcanada.com
@@ -218,7 +217,6 @@ revcanada-onlineweb-claimcad.com
 revenuegovcanadataxesrefund.com
 rover-cra.000webhostapp.com
 saaq-transfert.com
-santiagodecompostelatoribeirasacra.com
 securedcolis.serveirc.com
 securetaxonline.com
 servicecanada.tech
@@ -238,7 +236,6 @@ taxportal.xyz
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
-toc-immigration.ca
 track-canadaposte.com
 track-deliverypostcanada.com
 track-poste-canada-parcel.com

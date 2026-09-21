@@ -21,7 +21,6 @@ account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 accountbell.club
 adminrogerssecuriity.weebly.com
 admiring-bell.46-101-219-40.plesk.page
-airfizztechnicalservices.com
 ameritech-swbell-mailbox-verification-039383jdvchdsgddcd.weeblysite.com
 anthony_shaw.atozgroup.ir
 armsmead-bell.xyz
@@ -225,6 +224,8 @@ bellalert3.com
 bellaliant-support.com
 bellaliant.men
 bellaliantservice365.weebly.com
+bellaluzsempre.online
+bellatrix-network.ro
 bellbusinesss.vercel.app
 bellbusinessux.com
 bellca-107282.weeblysite.com
@@ -233,6 +234,7 @@ bellcanada-support.com
 bellcand.com
 bellcapitaloptions.com
 bellcards.rs
+bellcomchemicals.com
 bellcommunicationsalert.weebly.com
 belldirect.online
 bellforsupervisor.com
@@ -279,7 +281,6 @@ bellselective-billing.surge.sh
 bellservice8778767.weebly.com
 bellservices.org
 bellsite-d3c796.webflow.io
-bellsonbloor.ca
 bellstechfashionshow.000webhostapp.com
 bellstore.000webhostapp.com
 bellsttattnetverify.weebly.com
@@ -303,7 +304,6 @@ bellveri10010-nnet.webflow.io
 bellverify-0d5803.webflow.io
 bellverify-9cc4cd.webflow.io
 bellverify.xyz
-bellway.cn
 bellwaypayonlinebill.netlify.app
 bellwaysnewday.company.com
 bellwebmail.vercel.app
@@ -464,7 +464,6 @@ fidoref.com
 fidorefunds.com
 fidoservice.website
 fidoservices.com
-fidosfairblog.com
 fidosolutiionpay.com
 fidoupdatemobili.com
 fidowirelesspay.com
@@ -492,6 +491,7 @@ invoice-telus.com
 invoicefido001.com
 invoicesbellmobiles.com
 james.rogers.falconshar.com
+jeremy-bell.dev
 jira.cashback-freedommobi1737.com
 jovial-shaw.66-29-142-70.plesk.page
 keen-bell.66-29-142-70.plesk.page
@@ -1090,7 +1090,6 @@ shaw-webmail-support.weeblysite.com
 shaw-webmail.vercel.app
 shaw-windowsltd.co.uk
 shaw.melbourne
-shaw.rest
 shaw.scot
 shaw160.framer.website
 shaw2021login.weebly.com
