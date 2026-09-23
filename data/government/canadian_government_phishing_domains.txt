@@ -9,6 +9,7 @@
 acct-cra.com
 addresspostcanada.info
 agencerevenuecanada.xyz
+agencerevenuequebec.com
 airc-on-arc.vercel.app
 albertagov-ccr-benefit.com
 allocation-arc.xyz
@@ -24,11 +25,13 @@ arc-portal-lime.vercel.app
 arc-premium-portal.vercel.app
 arc.credits-center.com
 arcpayment.net
+arcportal.net
 arcweb-system.com
 arcwebs.cf
 becu-verify.bmzimmigration.ca
 bellservicecanada.com
 billingtaxhub.xyz
+billingtaxops.xyz
 ca-mobilerefund.canada.gouv.on.qc.ca.mihimandalalk.org
 ca-nada-post.cleverapps.io
 ca-ref-cra.info
@@ -40,6 +43,7 @@ canada-postes-postcanada-errordelivery.smfine.net
 canada-revenue-agency.co
 canadacrarefund.com
 canadaimmigrationgcca.com
+canadap0st-post3scanada-ca-v3eservicescom458109.codeanyapp.com
 canadapost-deliveryalert.com
 canadapost-deliveryreschedule.ca
 canadapost-parcels.com
@@ -182,6 +186,7 @@ mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
 mycraref.mobi
+notifications-canadapost-postescanada-kiing667106309.codeanyapp.com
 ns1.ontariocovidsupport.ca
 nuvelleparcelpostcanadasrv4392.com
 oneworldimmigration.ca
@@ -189,7 +194,6 @@ online.claim-taxonlinegovernment.com
 onlines.claim-taxonline-govusa.com
 ontariocovidsupport.ca
 ontariojobswatcher.com
-ontariotaxi.xyz
 parceipostcanada.com
 parcel-canadapostweb-date.com
 parcelscanadapost.com
@@ -197,6 +201,7 @@ paymenttaxbase.xyz
 paymenttaxlab.xyz
 peiandajob.com
 post.canada-post-offices.help
+postcanada.cat
 postcanadafees.com
 postcanadaparcels.info
 postescanada.art
@@ -238,6 +243,7 @@ taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
 taxportal.xyz
+taxservicesonline.live
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
@@ -249,8 +255,6 @@ transfer-saaq.com
 ukgov-taxservice.com
 updatepost-canada.com
 updatetaxtermquickaccesssite09874321.fortunaseriquezas.com.br
-usavisaottawa.ca
-verifycra-mygov.xyz
 virementquebec-gouv.ca
 web-postcanadadelivery-data.com
 www1.sndc-crad-nem-inedx.sdzt4x.cn
