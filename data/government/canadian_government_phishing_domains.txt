@@ -79,7 +79,6 @@ canadarevenueagency.online
 canadarevenueagent.sytes.net
 canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
-carbonfundcanada.com
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
 cc.canada-post-office.one
@@ -91,7 +90,6 @@ colisinforelay.com
 conf-bn-cr472.webcindario.com
 cr40208.tw1.ru
 cr41621.tw1.ru
-cr426.com
 cr43428.tw1.ru
 cr4349893984ncs.pages.dev
 cr43821.tmweb.ru
@@ -181,7 +179,6 @@ mail.e-transfer-cra.com
 mail.revquebec.com
 meta-support-arc.pages.dev
 mise-a-jour.cr42160.tw1.ru
-montrealtaxi.xyz
 mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
@@ -223,6 +220,7 @@ revcanada-direct-login-webca.com
 revcanada-directfunds-website.com
 revcanada-onlineweb-claimcad.com
 revenuegovcanadataxesrefund.com
+robotaxiquebec.xyz
 rover-cra.000webhostapp.com
 saaq-transfert.com
 securedcolis.serveirc.com
@@ -239,6 +237,7 @@ suivi-servicecolis.com
 support-colissecure.com
 taxaccountanttoronto.com
 taxconnect.co
+taxesincomecanada.com
 taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
