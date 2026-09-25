@@ -111,6 +111,7 @@ cra-deposit.ca
 cra-fr.top
 cra-gc-reference.com
 cra-gouv-cov19.org
+cra-gvcassessment.com
 cra-health.com
 cra-info.com
 cra-international.com.au
@@ -196,7 +197,6 @@ parcel-canadapostweb-date.com
 parcelscanadapost.com
 paymenttaxbase.xyz
 paymenttaxlab.xyz
-peiandajob.com
 post.canada-post-offices.help
 postcanada.cat
 postcanadafees.com
@@ -204,6 +204,7 @@ postcanadaparcels.info
 postescanada.art
 precisionaccounttax.com
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
+pvservicetax.com
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
 redelivermy-parcelinfo.com
@@ -237,6 +238,7 @@ suivi-servicecolis.com
 support-colissecure.com
 taxaccountanttoronto.com
 taxconnect.co
+taxesconnector.xyz
 taxesincomecanada.com
 taxinformationcuy.com
 taxpayments-rebate.com
@@ -246,6 +248,7 @@ taxservicesonline.live
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
+tpswebplayer.online
 track-canadaposte.com
 track-deliverypostcanada.com
 track-poste-canada-parcel.com
