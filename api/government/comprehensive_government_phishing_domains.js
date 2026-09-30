@@ -242,6 +242,7 @@ export const government_domains = [
   "suivi-servicecolis.com",
   "support-colissecure.com",
   "taxaccountanttoronto.com",
+  "taxaccountingcfo.com",
   "taxconnect.co",
   "taxesconnector.xyz",
   "taxesincomecanada.com",
