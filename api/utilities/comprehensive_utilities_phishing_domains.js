@@ -21,6 +21,7 @@ export const utilities_domains = [
   "account-verification.haroldebell.com",
   "account.fido.validation.information.ssl-truechannel.radyotom.com.tr",
   "accountbell.club",
+  "acctpageupgrdshawcableweb.netlify.app",
   "adminrogerssecuriity.weebly.com",
   "admiring-bell.46-101-219-40.plesk.page",
   "ameritech-swbell-mailbox-verification-039383jdvchdsgddcd.weeblysite.com",
