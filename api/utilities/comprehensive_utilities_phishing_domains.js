@@ -1123,7 +1123,6 @@ export const utilities_domains = [
   "shawdateservice3.weebly.com",
   "shawdonotreply.weebly.com",
   "shawebalert.weebly.com",
-  "shawebbbmail.weebly.com",
   "shawebmail-105691.weeblysite.com",
   "shawerbmailappslogin.weebly.com",
   "shawlogin8180.framer.website",

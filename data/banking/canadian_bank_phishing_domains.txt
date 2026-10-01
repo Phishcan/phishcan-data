@@ -1020,7 +1020,6 @@ emt-interac-ca.github.io
 emttranfer-interac-etransfer-dept.dotcolaw.co
 emv1.qhp5td.cn
 encrypted-secure-lnterac.com
-ep-ch-mr2dgu4tdm89t-g8f8f0d0crdydsbs.z03.azurefd.net
 equihome-finance.com.prospera-bridge.com
 et-100-lnteracwebca.com
 et-10001auth-easywebca.com
@@ -2079,6 +2078,7 @@ signin-cibc.com
 signin-tangerine.com
 signinattcomdynamicilriaplogin50wxpxaa5y.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
+signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 sl12td.shop
 specializedsilentdivisor.scotiabank0.repl.co
