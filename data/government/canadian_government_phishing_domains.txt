@@ -99,7 +99,6 @@ cr43428.tw1.ru
 cr4349893984ncs.pages.dev
 cr43821.tmweb.ru
 cr44145.tw1.ru
-cr444.cam
 cr45867.tmweb.ru
 cr46562.tmweb.ru
 cr465768rcrxw.pages.dev
@@ -195,6 +194,7 @@ oneworldimmigration.ca
 online.claim-taxonlinegovernment.com
 onlines.claim-taxonline-govusa.com
 ontariocovidsupport.ca
+ontariohstrebates.ca
 parceipostcanada.com
 parcel-canadapostweb-date.com
 parcelscanadapost.com
@@ -242,6 +242,7 @@ suivi-servicecolis.com
 support-colissecure.com
 taxaccountanttoronto.com
 taxaccountingcfo.com
+taxalertindia.com
 taxconnect.co
 taxesconnector.xyz
 taxesincomecanada.com

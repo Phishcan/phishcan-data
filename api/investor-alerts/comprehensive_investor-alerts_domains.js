@@ -315,6 +315,7 @@ export const investor_alerts_domains = [
   "ptop-online.com",
   "pulsar-dexlink.com",
   "pulse-trade.io",
+  "pump.fun",
   "purevision-trader.net",
   "purevisiontrader.net",
   "pythim.com",
