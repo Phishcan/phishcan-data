@@ -34,6 +34,7 @@ bellservicecanada.com
 ca-mobilerefund.canada.gouv.on.qc.ca.mihimandalalk.org
 ca-nada-post.cleverapps.io
 ca-ref-cra.info
+ca-revenueagency.org
 ca-revenuquebec.enligne.gouv.rq.qc.ca.g3mgmt.com
 ca.revenuquebec.gouv.dep-rq.qc.ca.asesoriaenimagen.cl
 canada-ca-cra.cfd
@@ -81,6 +82,7 @@ canadarevenueagent.sytes.net
 canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
 canadianrevenueagency-refund.verifiermmauth.com
+carevenueagencyservice.com
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
 cc.canada-post-office.one
@@ -181,6 +183,7 @@ mise-a-jour.cr42160.tw1.ru
 mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
+mycra1.cfd
 mycraref.mobi
 notifications-canadapost-postescanada-kiing667106309.codeanyapp.com
 ns1.ontariocovidsupport.ca
@@ -219,8 +222,8 @@ reship-postcanada.info
 revcanada-direct-login-webca.com
 revcanada-directfunds-website.com
 revcanada-onlineweb-claimcad.com
+revenueagency0101ca.com
 revenuegovcanadataxesrefund.com
-robotaxiquebec.xyz
 rover-cra.000webhostapp.com
 saaq-transfert.com
 saskatchewanaijobs.ca
@@ -242,7 +245,6 @@ taxaccountanttoronto.com
 taxaccountingcfo.com
 taxalertindia.com
 taxesconnector.xyz
-taxesincomecanada.com
 taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
