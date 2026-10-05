@@ -6,6 +6,7 @@
 2cra-arc.com
 50g.cr47.xyz
 5cra.cc
+accountarc.com
 acct-cra.com
 addresspostcanada.info
 agencerevenuecanada.xyz
@@ -95,6 +96,7 @@ colisinforelay.com
 conf-bn-cr472.webcindario.com
 cr40208.tw1.ru
 cr41621.tw1.ru
+cr427fad1w.cc
 cr43428.tw1.ru
 cr4349893984ncs.pages.dev
 cr43821.tmweb.ru
@@ -115,7 +117,6 @@ cra-deposit.ca
 cra-fr.top
 cra-gc-reference.com
 cra-gouv-cov19.org
-cra-gvcassessment.com
 cra-health.com
 cra-info.com
 cra-international.com.au
@@ -153,7 +154,6 @@ directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
 e.canada-post-office.one
-fff.secureparcelservice.org
 flapplivraison.com
 funds-cradeposits.canadacentral.cloudapp.azure.com
 futurefundcanada.com
@@ -205,7 +205,6 @@ postcanadafees.com
 postcanadaparcels.info
 postescanada.art
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
-pvservicetax.com
 pvservicetax.net
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
@@ -245,14 +244,13 @@ tapptax.com
 taxaccountanttoronto.com
 taxaccountingcfo.com
 taxalertindia.com
-taxesconnector.xyz
 taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
 taxserviceuk.com
 taxtransferpricing.info
 taxtransferpricing.org
-tpswebplayer.online
+tpsweb.xyz
 track-canadaposte.com
 track-deliverypostcanada.com
 track-poste-canada-parcel.com
@@ -268,5 +266,6 @@ wordpress-green-jackal-canadapostpay190776.codeanyapp.com
 www1.sndc-crad-nem-inedx.sdzt4x.cn
 xn--299amk17hn6a50niurf2f8mcmv9cra.shop
 xn--im-1z5cr40w.com
+xn--im-1z5cr40w.org
 xn--im-1z5cr40w.top
 xzc.cra.mybluehost.me
