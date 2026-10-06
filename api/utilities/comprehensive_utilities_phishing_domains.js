@@ -1113,7 +1113,6 @@ export const utilities_domains = [
   "shawccommunication.weebly.com",
   "shawchoosemail.weebly.com",
   "shawconnection1.weebly.com",
-  "shawdateservice3.weebly.com",
   "shawdonotreply.weebly.com",
   "shawebalert.weebly.com",
   "shawebmail-105691.weeblysite.com",
