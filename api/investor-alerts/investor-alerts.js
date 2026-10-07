@@ -271,6 +271,7 @@ export const investor_alerts = [
   "northmarkets.io",
   "northstarmarketsint.com",
   "nova-finance.net",
+  "novapeakbloom.com",
   "novixgrade.capital",
   "onchaincodeini.com",
   "onefxclub.info",
