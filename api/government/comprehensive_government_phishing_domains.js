@@ -129,6 +129,7 @@ export const government_domains = [
   "cra-info.com",
   "cra-international.com.au",
   "cra-invoice.info",
+  "cra-point.sk",
   "cra-proto.github.io",
   "cra-q4-retauth.com",
   "cra-signin.ca",
