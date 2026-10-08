@@ -13,7 +13,6 @@ albertagov-ccr-benefit.com
 antai-gouv.essipun-on-sea.com
 anti-drop-onlinetax.com
 apps3-ams-sga-arc-gc.18cra.com
-ar-taxportal.com
 arc.credits-center.com
 arconlines.com
 arcservices.org.uk
@@ -130,6 +129,7 @@ cradeposit.net
 cradeposit.tempurl.host
 crafunds-ca.xyz
 crarefundservices.ca
+crawfordcottage.ca
 deliveries-postcanada.ca
 delivery-postcanada.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
@@ -220,7 +220,6 @@ services.cra-arc-gov-ca.org
 servicetrust-cra.com
 shipping-canada-post.com
 signingstake.xyz
-signingstudio.xyz
 sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
