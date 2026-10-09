@@ -1180,7 +1180,6 @@ export const utilities_domains = [
   "verifymybells.webflow.io",
   "verifyshawcauser.netlify.app",
   "videotron-remboursementqc.com",
-  "videotron65.weebly.com",
   "videotron819.weebly.com",
   "videotron87.weebly.com",
   "videotronaddmi1.weebly.com",
