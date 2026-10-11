@@ -63,7 +63,6 @@ export const banking_domains = [
   "3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app",
   "4031-interac-23.com",
   "4733-interac.com",
-  "4wge6td.lat",
   "5-interac.com",
   "52td.baollll1.cc",
   "63bmo.vip",
