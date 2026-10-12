@@ -1199,7 +1199,6 @@ export const banking_domains = [
   "flutter-td.com",
   "fondsdesjardins.com",
   "fondsrecuvirementetransfer055.com",
-  "fr-cle-digitale-mescomptes.com",
   "ftp.td4lsebi.com",
   "gatewayinterac.com",
   "getdeposit-lnteractransfer.live",

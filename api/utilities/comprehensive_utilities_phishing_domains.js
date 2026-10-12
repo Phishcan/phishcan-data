@@ -1119,7 +1119,6 @@ export const utilities_domains = [
   "shawmail80.weebly.com",
   "shawmailaa.weebly.com",
   "shawmailboxservice4.wixsite.com",
-  "shawmailboxupdate.weebly.com",
   "shawmailer090.weebly.com",
   "shawmaillerr.weebly.com",
   "shawmailupdated.weebly.com",
