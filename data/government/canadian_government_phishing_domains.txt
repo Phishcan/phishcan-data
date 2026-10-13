@@ -201,12 +201,10 @@ onlines.claim-taxonline-govusa.com
 ontario-covid19-worker-income-protection-benefit.ca
 ontariocovidsupport.ca
 ontariohunttracker.ca
-ontariotaxiassociation.com
 parceipostcanada.com
 parcel-canada-postecanada.codeanyapp.com
 parcel-canadapostweb-date.com
 parcelscanadapost.com
-portailcolis-fr.com
 post.canada-post-offices.help
 postcanada.cat
 postcanadafees.com
@@ -245,7 +243,6 @@ servicecolismondial.com
 services.cra-arc-gov-ca.org
 servicetrust-cra.com
 shipping-canada-post.com
-signingstake.xyz
 sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
@@ -260,6 +257,7 @@ taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
 taxserviceuk.com
+taxsupport.shop
 taxtransferpricing.info
 taxtransferpricing.org
 tpsweb.xyz
