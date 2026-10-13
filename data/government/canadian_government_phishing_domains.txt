@@ -11,7 +11,6 @@ acct-cra.com
 addresspostcanada.info
 agencerevenuecanada.xyz
 agencerevenuequebec.com
-airc-on-arc.vercel.app
 albertagov-ccr-benefit.com
 allocation-arc.xyz
 antai-gouv.essipun-on-sea.com
@@ -52,7 +51,6 @@ canadaimmigrationgcca.com
 canadap0st-post3scanada-ca-v3eservicescom458109.codeanyapp.com
 canadapost-deliveryalert.com
 canadapost-deliveryreschedule.ca
-canadapost-package.com
 canadapost-parcels.com
 canadapost-postecanadadeliverylivraison.com
 canadapost-postes-shipping.drwskinesia.com
@@ -80,6 +78,7 @@ canadapostpostescanadaca.buzz
 canadapostpostescanadaca.monster
 canadapostt.shop
 canadaposttracking.org
+canadarefundcra.000webhostapp.com
 canadarevenue.serveirc.com
 canadarevenueagency.co
 canadarevenueagency.online
@@ -128,7 +127,6 @@ cra-international.com.au
 cra-invoice.info
 cra-point.sk
 cra-proto.github.io
-cra-q4-retauth.com
 cra-signin.ca
 cra.business
 cra.canada-server.cc
@@ -151,14 +149,15 @@ cradeposit.tempurl.host
 crafunds-ca.xyz
 crarefundservices.ca
 craservices.599785.com
+cratonai.ca
 crawfordcottage.ca
-defi-on-arc.vercel.app
 deliveries-postcanada.ca
 delivery-postcanada.com
 directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
 e.canada-post-office.one
+fff.secureparcelservice.org
 flapplivraison.com
 funds-cradeposits.canadacentral.cloudapp.azure.com
 futurefundcanada.com
@@ -192,6 +191,7 @@ mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
 mycra1.cfd
 mycraref.mobi
+mycrarevenue.xyz
 notifications-canadapost-postescanada-kiing667106309.codeanyapp.com
 ns1.ontariocovidsupport.ca
 nuvelleparcelpostcanadasrv4392.com
@@ -216,6 +216,7 @@ postescanada.art
 preventdeactivationrfyie84-pike-f5cr469jeyfhrfuj.netlify.app
 qc-r3pai3m3nt-cag0uv.com
 quebecdepotenligne.com
+ramq.online
 redelivermy-parcelinfo.com
 ref-cra.xyz
 refundinteraccanadarevenueagencyonline.com
@@ -231,6 +232,7 @@ revcanada-direct-login-webca.com
 revcanada-directfunds-website.com
 revcanada-onlineweb-claimcad.com
 revenueagency0101ca.com
+revenuecra-auth02.gleeze.com
 revenuegovcanadataxesrefund.com
 revenuquebec-rq.remb-qc.ca.usbdriverpro.com
 revenuquebec-rq.remb.qc.ca.yasirmalik.info
@@ -247,7 +249,6 @@ sk-postes.top
 spx-cra.cz
 suivi-servicecolis.com
 support-colissecure.com
-tapptax.com
 taxaccountant.si
 taxaccountantsnearme.com.au
 taxaccountanttoronto.com
@@ -274,6 +275,8 @@ virementquebec-gouv.ca
 web-postcanadadelivery-data.com
 wordpress-green-jackal-canadapostpay190776.codeanyapp.com
 www1.sndc-crad-nem-inedx.sdzt4x.cn
+xn--0cr456iwng.ink
+xn--com-cra-gya.com
 xn--im-1z5cr40w.com
 xn--im-1z5cr40w.org
 xn--im-1z5cr40w.top
