@@ -85,6 +85,7 @@ canadarevenueagency.online
 canadarevenueagent.sytes.net
 canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
+canadataxcra.com
 canadianrevenueagency-refund.verifiermmauth.com
 carevenueagencyservice.com
 cbsa-asfc.directsmailsolution.com
@@ -155,6 +156,7 @@ directdepositmoneytransfer.cra.bahiabonitaflat.com.br
 directdepositmoneytransfer.cra.tahrin.com.tr
 e-transfer-canada-info.cfd
 e.canada-post-office.one
+eu-cra-compliance.com
 flapplivraison.com
 funds-cradeposits.canadacentral.cloudapp.azure.com
 futurefundcanada.com
@@ -186,7 +188,6 @@ mise-a-jour.cr42160.tw1.ru
 mrelais-infocolis.com
 mrelay-colisinfo.com
 my-ams-sga-cra-arc-gc-ca.glitch.me
-mycra1.cfd
 mycraref.mobi
 mycrarevenue.xyz
 notifications-canadapost-postescanada-kiing667106309.codeanyapp.com
@@ -253,10 +254,13 @@ taxesweb.xyz
 taxinformationcuy.com
 taxpayments-rebate.com
 taxportal.link
+taxportalnoot.com
 taxserviceuk.com
 taxsupport.shop
 taxtransferpricing.info
 taxtransferpricing.org
+thingstodo.quebec
+tpsportal.xyz
 tpsweb.xyz
 track-canadaposte.com
 track-deliverypostcanada.com
