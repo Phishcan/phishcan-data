@@ -25,6 +25,7 @@ export const government_domains = [
   "arc-premium-portal.vercel.app",
   "arc.credits-center.com",
   "arcpayment.net",
+  "arcportal.icu",
   "arcservices.org.uk",
   "arcwebs.cf",
   "becu-verify.bmzimmigration.ca",
