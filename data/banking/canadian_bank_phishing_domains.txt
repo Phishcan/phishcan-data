@@ -1551,7 +1551,6 @@ newdocumentdocusigns.z13.web.core.windows.net
 newfieldnationalbank-secure.com
 newspointd.top
 nextpayments-authverif-lnterac-ca.precisiongroup.org
-nexus.cibcbank.com
 noreplymailbox-scotiabank.com
 notify.paymentsinterac.ca
 notifyfb-ggadc0td1q.tv1space.az
@@ -2082,6 +2081,7 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 simpliimanagement.com
+sindi-scotiabank-exbdd.es
 sohu-sport-td.com.cn
 specializedsilentdivisor.scotiabank0.repl.co
 subm-8td7b0hbhv10y.alhawyat.com.sa
