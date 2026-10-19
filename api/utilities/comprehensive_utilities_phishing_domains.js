@@ -1061,6 +1061,7 @@ export const utilities_domains = [
   "shaw-108964.weeblysite.com",
   "shaw-109730.weeblysite.com",
   "shaw-109735.weeblysite.com",
+  "shaw-brothers-reloaded-com.pages.dev",
   "shaw-ca.github.io",
   "shaw-ca.pages.dev",
   "shaw-cable-customercarememberinfo.square.site",
