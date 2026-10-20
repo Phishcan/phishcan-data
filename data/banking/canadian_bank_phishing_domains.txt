@@ -140,6 +140,7 @@ admin.myrbcsecure.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
 aeasyweb.lji.dlj.mybluehost.me
+airnewzealanda-scotiabank.com.ph
 alberta-account.ca
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
@@ -927,7 +928,6 @@ desjar-verification.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
-desjardins-account.com
 desjardins-accweb-enligne-secure.com
 desjardins-connexion.com
 desjardins-info24.com
@@ -944,14 +944,12 @@ desjardins17.com
 desjardinsappareil.com
 desjardinsappareilsenligne.com
 desjardinsetf.ca
-desjardinsgdae.securebankinggroup.com
 desjardinsval.info
 desjardns.creditunion-authority.com
 desjcan.com
 desjsupp.com
 desjval.info
 dev-bnk-scotiabank-peru.pantheonsite.io
-digitalbusinessone-cibc.com
 directcaisseinfo.xyz
 directmeridian.top
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
@@ -1223,11 +1221,8 @@ flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
-fr-cle-digitale-mescomptes.com
 ftp.td4lsebi.com
-gatewayinterac.com
 getdeposit-lnteractransfer.live
-globalscotiabankonline.com
 gov-lnterac.info
 gov-revenue-interac.com
 granada1td.com
@@ -1889,7 +1884,10 @@ scotiabank-glft.cc
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
+scotiabank-mobile-banking.feli.games
+scotiabank-seguranca-myntra.com.ph
 scotiabank-sign-in.com
+scotiabank-ubereats-goindigo.com.ph
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
 scotiabank.beonm.org
@@ -1915,7 +1913,6 @@ scotiabanka.cc
 scotiabankalert-trinidad.com
 scotiabankalerts-trinidad.com
 scotiabankbt.tonohost.com
-scotiabankchinpicnic.com
 scotiabankcl.cc
 scotiabankco.lpatria.win
 scotiabankcolpa1.tonohost.com
@@ -1926,6 +1923,7 @@ scotiabankdelperu.com
 scotiabankga.tonohost.com
 scotiabankgift.com
 scotiabankhelpdesk.com
+scotiabanklbcexpress.com.ph
 scotiabankle.tonohost.com
 scotiabanklivehelpsupport.com
 scotiabankpee.eshost.com.ar
