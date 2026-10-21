@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-21T06:39:04Z",
+  "last_updated": "2026-10-21T18:38:40Z",
   "feeds": {
     "banking": {
-      "domains": 2420,
-      "new_domains": 5,
+      "domains": 2418,
+      "new_domains": 19,
       "source_file": "canadian_phish_banking_2026-10-21.txt"
     },
     "government": {
-      "domains": 275,
-      "new_domains": 0,
+      "domains": 277,
+      "new_domains": 4,
       "source_file": "canadian_phish_government_2026-10-21.txt"
     },
     "utilities": {
-      "domains": 1240,
-      "new_domains": 0,
+      "domains": 1225,
+      "new_domains": 3,
       "source_file": "canadian_phish_utilities_2026-10-21.txt"
     },
     "investor-alerts": {
