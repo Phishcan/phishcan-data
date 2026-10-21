@@ -104,7 +104,6 @@ accesdval.info
 accesdvalidation.info
 accesdver.info
 accesdverification.info
-access-cibconline1-upadeting.ph
 access-interac-funds-cad-transf.com
 access-lnteractransfer.live
 access.tdbank.online.netspar.net
@@ -254,6 +253,7 @@ bmo-monprofile.com
 bmo-online-signon.com
 bmo-online-terms.com
 bmo-secure-login.s1gn-account.1290rikpmc902323r.moversdoes-online.com
+bmo-whatsapp.com
 bmo.2web-account.com
 bmo.best
 bmo.connexion-portail.com
@@ -384,8 +384,6 @@ cibc.clientcardreset.com
 cibc.mobi.ebm-mobile-anp.cilbc.ws
 cibc.online-mobi1.com
 cibc.site
-cibc.soumettrereclamation.client.insure
-cibc.submitclaims.client.insure
 cibc.web-2app.com
 cibc.web-mobi2.com
 cibc0nline.com
@@ -1461,7 +1459,6 @@ laurentian-fire.000webhostapp.com
 laurentianmonument.com
 lebocoin.groupe-cibc.com
 ledgr-walt-secure-td.typedream.app
-lnktrcker-scotiabank.ph
 lnt3raclaimfnds.pro
 lnterac-deposit.co
 lnterac-id1849128.cfd
@@ -1820,6 +1817,7 @@ royalbankca-001-site1.gtempurl.com
 royalbankcanada.live
 royalbankinternational.com
 royalbanklivechat.com
+royalbankofcomoros.com
 royalbankpacific.com
 royalbankpacificsupport.com
 royalbankrbc.org
@@ -1891,10 +1889,12 @@ scotiabank-alert.net
 scotiabank-canalesvirtuales.com
 scotiabank-chat.web.app
 scotiabank-cl.com
+scotiabank-deutschepost.ph
 scotiabank-gift.com
 scotiabank-glft.cc
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
+scotiabank-jal.com.ph
 scotiabank-jm.com
 scotiabank-sign-in.com
 scotiabank-yieldmorefinancing.ca
@@ -2097,6 +2097,7 @@ servus.bot
 servusca.gr.com
 servuscollection.com
 servusholdings.com
+servushost.sk
 shanmao-live-td.com
 shuoqiudi-td.com
 sign-in-tdcatrustweb.com
@@ -2219,7 +2220,6 @@ td.rumpusroompodcast.com
 td.secure-web1.com
 td.secureuser.info
 td.sohedistore.top
-td.sspc.one
 td.web2-auth.com
 td.webacc-ca2.com
 td09yxlq5awmbpq6nyg.vercel.app
