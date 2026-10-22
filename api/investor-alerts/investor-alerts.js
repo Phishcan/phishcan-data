@@ -310,7 +310,6 @@ export const investor_alerts = [
   "primaxtradeoption.com",
   "primeascendway.com",
   "primefidelity-fx.com",
-  "primeluno.com",
   "primewealthltd.com",
   "primfx.fund",
   "pro-tw.com",

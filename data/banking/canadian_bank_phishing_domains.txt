@@ -5,7 +5,6 @@
 005verf-desjcontrole01.com
 009verf-desj.com
 0101010scotia-rst.agency
-0532desj.com
 05verf-desjaction1.com
 05verification-desjconnection.com
 05xo6dbd9zp3fgcuqtvhutd.qwo231sdx.club
@@ -57,6 +56,7 @@
 24hrstrustedtd.com
 254.38-return-from-revenue-agency-interac.mangoleafresort.in
 2clbc.com
+2kz8td.cyou
 346r9ghmuv47fb7tdcz4mxpvwk0g4si6.ocalam.com
 365td.xyz
 377381-interac.com
@@ -162,6 +162,7 @@ api.scotiaconnect-businessdigital.co.com
 api.servus.gr.com
 app-bmo-enligne.net
 app-online-rbc.com
+app-scotiaverification.com
 app-tdweb.com
 appfb-8b84f4kvtd8q5.cali.de
 appltdswebs.com
@@ -306,6 +307,7 @@ ca1rbcroyalinfo.com
 cadgovtdeposit99828.ca
 cainteractrust-web-100.com
 caiss-popu2desj.info
+caisse-bbb.com
 caisse-desjardins-therese-de-blainville.com
 caisse-populaire-secure-log.com
 caisse-regionale.193-70-30-98.plesk.page
@@ -317,7 +319,6 @@ caisseagrisecuripassdsp2-bd0a6d.ingress-comporellon.ewp.live
 caisseauthenti.wpengine.com
 caissedallocationsfamiliales.com
 caissedesjardinsaccesd.com
-caissedirect.com
 caissemutuel.com
 caissenationaleregionale.com
 caisser.caiyoubrao.com
@@ -442,6 +443,7 @@ com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675797
 com-td9z.xin
 com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.info
 conexusapp.tech
+conexusgives.com
 contentfb-td4vbv8i.playvisual.co
 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
 cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j57546757100309469.kylelierman.com
@@ -1394,7 +1396,6 @@ interacc--etransfer.xyz
 interacca-verifications.firebaseapp.com
 interacca-verifications.web.app
 interaccorporation.com
-interaccred-preview.pages.dev
 interacdirect.ddns.net
 interacdirect.duckdns.org
 interace-transfer.xyz
@@ -1440,6 +1441,7 @@ interactrustweb.com
 interacupdate-id923.servehttp.com
 interacupdate-id923.servehttp.com.296413c29410513547.temporary.link
 interacweb100-catrust101.com
+interacwebdeposit.online
 isn1-scotiabank.azurewebsites.net
 it-secure.ca
 jiuqiuzhibo-td.com
@@ -1550,6 +1552,7 @@ myapp-easyweb.com
 myappweb-td.com
 myblog-awtdj0ki7v.live-website.com
 myblog-z22n9e0tde.live-website.com
+myheartdonbbcannuamedidone.info
 mymotd.kr
 myonline-clbcportal.com
 myonlinebankingscotia.info
@@ -1609,8 +1612,8 @@ postsfb-mu82td0ta9.novitium.ca
 ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru
 prest-scotiabnk.royalwebhosting.net
 prestationqc-interac.ca
-prospera.health
 prosperabit-ai.digital
+prosperabitai.net
 prosperacapitals.org
 prosperacapitaltrading.info
 prosperactualacacia.space
@@ -1621,7 +1624,6 @@ prosperahead.ru
 prosperai.pro
 prosperams.com.br
 prosperamundi.info
-prosperamuziek.nl
 prosperando.org
 prosperarestoration.com
 prosperatrading.in
@@ -1740,7 +1742,6 @@ rbcroyalbank.top
 rbcroyalbank.web-online1.com
 rbcroyalbank1.com
 rbcroyalbank1.netlify.app
-rbcroyalbankca.com
 rbcroyalbankcom.testdebit.co
 rbcroyalbankofcanadasecuresignin.roadstarmusicstudio.com
 rbcroyalbankreset.ca
@@ -1787,7 +1788,6 @@ revenueqc-interac.ca
 revqc.alertsca.xyz
 royalbank-rbc.com
 royalbank-unlock.link
-royalbank-unrecognizedtxn.help
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1963,7 +1963,6 @@ scotiaconnectlogin.co.com
 scotiaconnectlogin.gr.com
 scotiadebank.world
 scotiadevicesecurelogin.com
-scotiadogam.com
 scotiaenlima.xyz
 scotiagam.com.cobblestonesw.com
 scotiagateway.xyz
@@ -2040,7 +2039,6 @@ secure-rbcroyalalerts.com
 secure-rbcroyalinfo.com
 secure-rbcroyalinfos.com
 secure-rbcupdate.com
-secure-royalbankca.com
 secure-royalcanadarbc.com
 secure-royalrbc.com
 secure-scotiabank.net
@@ -2123,8 +2121,10 @@ tangerine-upd.top
 tangerine-zone.com
 tangerine.online-auth.org
 tangerineaccessrestore.com
+tangerineapp.online
 tangerinedrea.interportcorporateacademy.com
 tangerinehost.com
+tangerineprofile.com
 tangerinespea.monster
 tap3566td5.cc
 taxmatemtd.co.uk
@@ -2180,6 +2180,7 @@ td-sin.com
 td-tec-de.com
 td-teplo.com
 td-todiesk.com.cn
+td-tools.study
 td-troitsa.com
 td-udol.com
 td-update.info
@@ -2230,11 +2231,11 @@ td1.367450.com
 td169.lat
 td18h.com
 td19343-spec.github.io
-td1947.asia
 td1ghkfxvtkghsu.qwo231sdx.club
 td1nr0usnas0cv.study
+td1y9.top
 td21vek.ru
-td2y3.homes
+td36g.hair
 td3ycwh.qwo231sdx.club
 td4faqyopnkprpqnjlis.readycarsvans.com
 td4fjk.s3.filebase.com
@@ -2247,6 +2248,7 @@ td5f8jadzysn.xyz
 td5i4zba0r.ieneeengsub.com
 td5o6q.qpon
 td6.367450.com
+td611.com
 td6611.com
 td6616.com
 td6rf.gugop.biz.id
@@ -2283,6 +2285,7 @@ tdcj5-baaaa-aaaad-qdspq-cai.raw.ic0.app
 tde3414ba.emailsys2a.net
 tdeasyweb-1alert.com
 tdeasyweb.help
+tdeecalculator.vip
 tdfff.z13.web.core.windows.net
 tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com
 tdftechnologies.com
@@ -2290,7 +2293,6 @@ tdgzin36bqr86m89u4ks.mbservicesyorkshire.co.uk
 tdkojsyt.oncartx.io
 tdkperformance.eu
 tdonline-ca.cyou
-tdpaygate-auth.com
 tdreset-business.com
 tdroneservices.com
 tds-ca-dpm-prod-live-frontend.tdse.now.hclsoftware.cloud
