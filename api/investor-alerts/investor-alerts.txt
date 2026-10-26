@@ -909,7 +909,9 @@ protraderai.org
 protypeviews.com
 provexgrowth.com
 provexgrowth.net
+prymex-trade.com
 prymexenergy.com
+prymexxhorizon.com
 ptop-online.com
 pulsar-dexlink.com
 pulse-trade.io
@@ -1236,6 +1238,7 @@ webtrader.cinaleris-explyx.com
 webtrader.dividenda.app
 webtrader.dominionplatform.online
 webtrader.geneveinvestingmarkets.com
+webtrader.prymex-trade.com
 webtrader.quantiumax.net
 webtrader.quantoria-markets.app
 webtrader.summitedgeplatform.com
