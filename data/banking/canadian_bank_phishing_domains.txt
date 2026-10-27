@@ -148,7 +148,7 @@ alert4scotiabinfoverify.com
 alertmyscotia-ca.com
 alerts-rbc.com
 alertsbmo.com
-alrajhibank-cibc-americanas.com.ph
+alppeak-bankofamericam-cibc.ph
 alu0td4.pro
 amende-enligne-qc.com
 anixter-rbc.tk
@@ -156,6 +156,7 @@ api.cibc-digital-business.me
 api.cibc-digital-business.net
 api.cibc-digitalbusiness.co.com
 api.cibc.at
+api.cuenta-digital.scotiabank.com.mx
 api.rbc.design
 api.scotia-connect-business.com
 api.scotiabusiness.gr.com
@@ -228,13 +229,14 @@ autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
 avisoscotia.x10.bz
 azuresecurefiletransfer.com
-bancaslnternetempresas-scotiabank.online
+bankhapoalim-cibc.com.ph
 bankofmontreal.cc
 bdcd-interac.com
 beta.duca.it
 billing-interactransfer.com
 billingetransfer.org
 billingupdatenetfix.ca
+bitrefill.com-gift-esim-bm04.com
 bm0-recovery.com
 bm0-verf12acti0n.com
 bm00.xyz
@@ -307,7 +309,6 @@ ca-rbc.com
 ca-rbcroyalb.com
 ca-rbcroyalbalerts.com
 ca-royalrbcinfo.com
-ca-scotiabank.online
 ca-tdweb-trust100.com
 ca1rbcroyalinfo.com
 cadgovtdeposit99828.ca
@@ -918,7 +919,6 @@ cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j575467
 cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675798582332.kylelierman.com
 cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675799613314.kylelierman.com
 cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675799731113.kylelierman.com
-cpanel.bancaslnternetempresas-scotiabank.online
 cponeka-bmoo.my.id
 cra-interac-mobil.com
 cra-interac.com
@@ -932,7 +932,6 @@ decomosnfri29ntd.tk
 depositinteracrequest.com
 depositmoneytransfer.interac.qkvkervke.co.uk
 depositreqinterac.com
-desbloquear-td.webcindario.com
 desjaccess-d.xyz
 desjadins-username-confirmdetails-67574.weebly.com
 desjar-verification.com
@@ -997,7 +996,6 @@ easy.ca-tdauth1.com
 easy.canauth-td1.com
 easywb-td1auth.com
 easyweb-accesss.link
-easyweb-app-german.1wp.site
 easyweb-be.firebaseapp.com
 easyweb-ca-auth.cloud
 easyweb-mytd.com
@@ -1230,12 +1228,14 @@ fg64tdgsfhg6ryfgv-cos-static-web-hosting-f9l.s3.eu-gb.cloud-object-storage.appdo
 fgb.tdaccess.net
 firstonlineroyalbank.xyz
 firstonlineroyalbanks.xyz
+fiverr-scotiabank.com.ph
 fld0-lnt3r4c.com
 flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
 ftp.td4lsebi.com
+generous-moccasin-qfmhi8td-dp54ui0t3t81.edgeone.dev
 getdeposit-lnteractransfer.live
 gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
@@ -1825,6 +1825,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f71f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
+royalbank.eu.com
 royalbank.gcplibrary.com
 royalbank.securityauditssl.com
 royalbank2fa.com
@@ -1847,6 +1848,7 @@ rsascotiaverification.com
 rx3299-td632.wm.r.appspot.com
 s.team-td.com
 s31td2tkkpmz.mawaqaademo18.com
+saaqclic-royalbank.com
 sc0tia-blckd19.com
 sc0tiabaank.zya.me
 scotia-4287.netlify.app
@@ -1908,8 +1910,9 @@ scotiabank-glft.cc
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
-scotiabank-mx-login.cc
+scotiabank-ph24.ph
 scotiabank-sign-in.com
+scotiabank-signin.ph
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
 scotiabank.beonm.org
@@ -1925,8 +1928,10 @@ scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
+scotiabank.international
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
+scotiabank.ninja
 scotiabank.security.zya.me
 scotiabank.whereisacopwhenyouneedone.com
 scotiabank1.com
@@ -1936,10 +1941,12 @@ scotiabankalert-trinidad.com
 scotiabankalerts-trinidad.com
 scotiabankbt.tonohost.com
 scotiabankcl.cc
+scotiabankclientsupport.com
 scotiabankco.lpatria.win
 scotiabankcolpa1.tonohost.com
 scotiabankcolpa2.tonohost.com
 scotiabankcolpatriasecuri.ibx.lat
+scotiabankdazn.ph
 scotiabankdc.tonohost.com
 scotiabankdelperu.com
 scotiabankga.tonohost.com
@@ -2046,6 +2053,7 @@ secure-account.marcomariani.ca
 secure-aibmobileonlinebanking.com
 secure-authrbcroyal.com
 secure-bmo-page1.com
+secure-cibc.ph
 secure-desj-updt.com
 secure-rbc.duckdns.org
 secure-rbconline.com
@@ -2115,12 +2123,11 @@ signin-tangerine.com
 signinattcomdynamicilriaplogin50wxpxaa5y.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
-simlepaydompetdigitalmyid-dp5k0tybon07.edgeone.dev
 simplii-financial.com
 simpliimanagement.com
 sohu-sport-td.com.cn
+sparkasse-scotiabank.ph
 specializedsilentdivisor.scotiabank0.repl.co
-srs2dfdi9un0n1m2.royalbank.de
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
 suntrustnationalbank.com
@@ -2396,6 +2403,7 @@ whiterosetaxaccounting.ca
 wileyaccountingupdates.ca
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
+wp.scotiabank-secure.infoer.h2862589.stratoserver.net
 ww4td-dh8o4-sonuiq.cyou
 www-1auth-td.com
 www-bmo-servicesenligne.com
@@ -2422,6 +2430,7 @@ www6.rbc.com.webapp.ukv0.signin.logon.xhtml.ruta-altiplano.com
 x3td5.com
 xijia-live-td.com
 y6td53l9p.pro
+yr314mkl2td38.dilocs.shop
 yuhjomyygtrbcr.info
 yuyan-live-td.com
 zd6w3td3.myutilitydomain.com
