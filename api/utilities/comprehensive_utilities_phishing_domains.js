@@ -146,6 +146,7 @@ export const utilities_domains = [
   "bell-aliant-105108.weeblysite.com",
   "bell-aliant-105540.weeblysite.com",
   "bell-aliant-106993.weeblysite.com",
+  "bell-aliant-108088.square.site",
   "bell-alliant-ca.vercel.app",
   "bell-alliant-mail-six.vercel.app",
   "bell-aroma.com",
