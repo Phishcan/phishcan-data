@@ -136,7 +136,6 @@ accweb4.com
 accwebmouv-desjardin.com
 accwebs01mouvdesjardins.com
 accwebservice.com
-acdn.wp.scotiabank-secure.infoer.h2862589.stratoserver.net
 admin.myrbcsecure.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
@@ -357,7 +356,6 @@ cibc-bank-support.com
 cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
-cibc-deviceregister.com
 cibc-digital-business-verify.com
 cibc-digital-business.me
 cibc-digital-business.net
@@ -398,6 +396,7 @@ cibcdigitalbusiness.co.com
 cibcfcibalerts.tk
 cibcficb.com
 cibcgg.com
+cibcleboncoinauths.ph
 cibclogin-secure.top
 cibcmobi-online.com
 cibcmtg.com
@@ -1237,6 +1236,7 @@ gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
 gov-revenue-interac.com
 granada1td.com
+haeryunworks3-dpotpbyyi6td.edgeone.dev
 happynoticefromstdbnkficaupdates.syd1.cdn.digitaloceanspaces.com
 harmoni-mtd.se
 hdthtjdthrgzegcghthtgfe4dtd.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -1921,7 +1921,6 @@ scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
-scotiabank.ifsc.ca
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
 scotiabank.security.zya.me
@@ -2341,7 +2340,6 @@ unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
 update-scotia-secure.com
-update.scotiabank-secure.infoer.h2862589.stratoserver.net
 updateinfosclbc.com
 updatestdficaattnnotice.syd1.cdn.digitaloceanspaces.com
 updatewithoutdelay.safejpamzonsecure.shop
