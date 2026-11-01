@@ -107,7 +107,6 @@ access-interac-funds-cad-transf.com
 access-lnteractransfer.live
 access.tdbank.online.netspar.net
 accessalliance.ca
-accessbankplcs-scotiabank.com.ph
 accessdesjj.com
 accessfoods.ca
 accessmfg.ca
@@ -137,6 +136,7 @@ accweb4.com
 accwebmouv-desjardin.com
 accwebs01mouvdesjardins.com
 accwebservice.com
+acdn.wp.scotiabank-secure.infoer.h2862589.stratoserver.net
 admin.myrbcsecure.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
@@ -226,7 +226,6 @@ autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
 avisoscotia.x10.bz
 azuresecurefiletransfer.com
-bankhapoalim-cibc.ph
 bankofmontreal.cc
 bdcd-interac.com
 beta.duca.it
@@ -358,6 +357,7 @@ cibc-bank-support.com
 cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
+cibc-deviceregister.com
 cibc-digital-business-verify.com
 cibc-digital-business.me
 cibc-digital-business.net
@@ -925,7 +925,6 @@ credibility-check.agku4lor2td7681vwjkd57rl.com
 credito-scotiabank.sytes.net
 currency-etransfer.live
 d0td1trlm.top
-davivienda-scotiabank.ph
 decomosnfri29ntd.tk
 depositinteracrequest.com
 depositmoneytransfer.interac.qkvkervke.co.uk
@@ -961,7 +960,6 @@ dev-bnk-scotiabank-peru.pantheonsite.io
 dev-www1-royalbank-com.pantheonsite.io
 directcaisseinfo.xyz
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
-domains-scotiabank.ph
 donotreply-fcibcibc.gq
 dps-scotiabank.com
 drtyukjwgefdu1td7rtuyk-tryxuklgryuykuj1vgyuyjkj.teemill.com
@@ -1246,7 +1244,6 @@ helpdeskscotiaonline.com
 helpdesktd.com
 helpsecurerbc-portal.com
 hetunzhibo-td.com
-hkbea-scotiabank.ph
 hl-1td.com
 homepersonalonline-rbc.com
 hotnoticestdbnkficaupdates.blr1.cdn.digitaloceanspaces.com
@@ -1475,7 +1472,6 @@ laurentianatlantic.com
 laurentianmonument.com
 lebocoin.groupe-cibc.com
 ledgr-walt-secure-td.typedream.app
-legislative-coral-tdk1qq8h-dp4c4702cf96.edgeone.dev
 lnt3raclaimfnds.pro
 lnterac-deposit.co
 lnterac-id1849128.cfd
@@ -1530,7 +1526,6 @@ malay4-viral.my-ttd.com
 manage-wealthsimple.com
 md1td.arach4n.biz.id
 md85td95.top
-meesho-royalbank.com.ph
 menusoia-td9g.vercel.app
 meridian-transfer.online
 meridian-zorg.nl
@@ -1552,7 +1547,6 @@ mobilityinterac.com
 mon-espace-securise-interac.com
 moncompte-bmo.net
 moncomptebmo-enligne.net
-monobank-cibc.com.ph
 monsupportdecompte.info
 montrealalert.xyz
 my-overviewtd.com
@@ -1902,23 +1896,16 @@ scotiaban.mnsas.com
 scotiabancl.cc
 scotiabank-1.scotiabankverif.repl.co
 scotiabank-1.scotiaverify.repl.co
-scotiabank-aib.com.ph
 scotiabank-alert.net
-scotiabank-bing.ph
 scotiabank-canalesvirtuales.com
 scotiabank-chat.web.app
-scotiabank-ciaro.ph
 scotiabank-cl.com
 scotiabank-gift.com
 scotiabank-glft.cc
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
-scotiabank-mastercard-domaindirect.ph
-scotiabank-seloger-hugedomains.ph
 scotiabank-sign-in.com
-scotiabank-steamcommunity.ph
-scotiabank-telcel.ph
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
 scotiabank.beonm.org
@@ -1934,6 +1921,7 @@ scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
+scotiabank.ifsc.ca
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
 scotiabank.security.zya.me
@@ -1951,7 +1939,6 @@ scotiabankcolpa2.tonohost.com
 scotiabankcolpatriasecuri.ibx.lat
 scotiabankdc.tonohost.com
 scotiabankdelperu.com
-scotiabankeoon.ph
 scotiabankga.tonohost.com
 scotiabankgift.com
 scotiabankhelpdesk.com
@@ -2051,7 +2038,6 @@ scotlabnk.com
 scotlacommect.hmtl.it.com
 scotlacomp.cc
 scotlanted.lol
-seb-scotiabank.ph
 secure-1rbcroyal.com
 secure-account.marcomariani.ca
 secure-aibmobileonlinebanking.com
@@ -2355,6 +2341,7 @@ unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
 update-scotia-secure.com
+update.scotiabank-secure.infoer.h2862589.stratoserver.net
 updateinfosclbc.com
 updatestdficaattnnotice.syd1.cdn.digitaloceanspaces.com
 updatewithoutdelay.safejpamzonsecure.shop
