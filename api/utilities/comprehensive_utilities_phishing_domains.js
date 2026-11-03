@@ -1157,7 +1157,6 @@ export const utilities_domains = [
   "telusretour.com",
   "tolls.eastlinkl.click",
   "tomyshaw.com",
-  "topshawmail.weebly.com",
   "toupdateyoursasktel.weebly.com",
   "transact-eastlink.sbs",
   "trustednovussecure.com",

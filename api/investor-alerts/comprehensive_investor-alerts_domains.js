@@ -1256,6 +1256,7 @@ export const investor_alerts_domains = [
   "trading.windelagence.com",
   "tradingplateform.trade.auto-bluearrow.com",
   "tradock.io",
+  "tradock.vip",
   "tradopex.com",
   "trainforex.com",
   "traydai.org",
