@@ -147,6 +147,7 @@ alert4scotiabinfoverify.com
 alertmyscotia-ca.com
 alerts-rbc.com
 alertsbmo.com
+aliahfolio-dpngup4079td.edgeone.dev
 alu0td4.pro
 amende-enligne-qc.com
 anixter-rbc.tk
@@ -154,14 +155,12 @@ api.cibc-digital-business.me
 api.cibc-digital-business.net
 api.cibc-digitalbusiness.co.com
 api.cibc.at
-api.prod.scotiabank.private.novisto.net
 api.rbc.design
 api.scotia-connect-business.com
 api.scotiabusiness.gr.com
 api.scotiaconnect-business.cc
 api.scotiaconnect-businessdigital.co.com
 api.servus.gr.com
-api.staging.scotiabank.private.novisto.net
 app-bmo-enligne.net
 app-online-rbc.com
 app-scotiaverification.com
@@ -288,7 +287,6 @@ bmoservice-alert.com
 bmosign-inonline.com
 bmoverify.com
 bmoverify.nl
-braze-webhook.qa.royalbank.rwrd058.rewardcloud.net
 buc7tdf.webcindario.com
 business-advertising-support-issue-id-829740.d3sjb7fkej4dsb.amplifyapp.com
 businessbanking-td.com
@@ -447,9 +445,7 @@ com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675786
 com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675797593384.kylelierman.com
 com-td9z.xin
 com.cgi-bin-rbaccess-rbcgi3m01f61f-f22ibrequest.info
-compulsory-salmon-sbxa0ihv-dp2tp5ol3rbc.edgeone.dev
 conexusapp.tech
-constanciasfiscales.scotiabank.com.mx
 contentfb-td4vbv8i.playvisual.co
 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
 cox.com-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j57546757100309469.kylelierman.com
@@ -961,6 +957,7 @@ desjsupp.com
 desjval.info
 dev-bnk-scotiabank-peru.pantheonsite.io
 dev-www1-royalbank-com.pantheonsite.io
+developed-chocolate-xnhw0e3a-dp9td9212ib3.edgeone.dev
 directcaisseinfo.xyz
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
 donotreply-fcibcibc.gq
@@ -1216,7 +1213,6 @@ etweb-crainterac-catrust-100.com
 evo0v5td.top
 ezdrive.com-td9z.xin
 f2a9td.cyou
-facturaelectronica.scotiabank.com.mx
 fb-accountverify.ca
 fb.us-cibc.com
 fbterms-2279143472.atb.ps
@@ -1553,7 +1549,6 @@ moncompte-bmo.net
 moncomptebmo-enligne.net
 monsupportdecompte.info
 montrealalert.xyz
-mx-scotiabankempresas.net
 my-overviewtd.com
 my-rbc.us
 my-sharepoint-access.fusionenterprises.ca
@@ -1781,7 +1776,6 @@ rbcwebsecured.com
 re.activate-td1.com
 re.set-authtd2.com
 reactivation-caisse-regional.com
-real-clouds-dp7y7td6bjfd.edgeone.dev
 referral-link-2nie9td5mld20.org
 reflnterac.xyz
 refund-financial-interac.replit.app
@@ -1828,7 +1822,6 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
-royalbank.group
 royalbank.securityauditssl.com
 royalbank2fa.com
 royalbankatlas.com
@@ -1836,6 +1829,7 @@ royalbankca-001-site1.gtempurl.com
 royalbankcanada.live
 royalbankinternational.com
 royalbanklivechat.com
+royalbankofturtleisland.com
 royalbankpacific.com
 royalbankpacificsupport.com
 royalbankrbc.org
@@ -1850,7 +1844,6 @@ rsascotiaverification.com
 rx3299-td632.wm.r.appspot.com
 s.team-td.com
 s31td2tkkpmz.mawaqaademo18.com
-saf.scotiabank.com.mx
 sc0tia-blckd19.com
 sc0tiabaank.zya.me
 scotia-4287.netlify.app
@@ -2045,7 +2038,6 @@ scotlabnk.com
 scotlacommect.hmtl.it.com
 scotlacomp.cc
 scotlanted.lol
-sea.agencias.scotiabank.com.mx
 secure-1rbcroyal.com
 secure-account.marcomariani.ca
 secure-aibmobileonlinebanking.com
@@ -2121,10 +2113,9 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 simpliimanagement.com
-sites.scotiabank.com.mx
 sohu-sport-td.com.cn
-solicitudes.scotiabank.com.mx
 specializedsilentdivisor.scotiabank0.repl.co
+student-dp1bqzh88rbc.edgeone.dev
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
 suntrustnationalbank.com
@@ -2347,6 +2338,7 @@ trusttd.world
 u35td.cfd
 u57td6duasv24safb6dp.richardl.xyz
 uas2-cams-scotiabank.com
+united-lavender-grskusoc-dpghdt8td780.edgeone.dev
 unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
