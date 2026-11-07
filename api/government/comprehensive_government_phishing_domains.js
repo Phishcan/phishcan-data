@@ -150,7 +150,6 @@ export const government_domains = [
   "delivery-postcanada.com",
   "directdepositmoneytransfer.cra.bahiabonitaflat.com.br",
   "directdepositmoneytransfer.cra.tahrin.com.tr",
-  "e-transfer-canada-info.cfd",
   "e.canada-post-office.one",
   "eu-cra-compliance.com",
   "eu-cra-compliance.eu",

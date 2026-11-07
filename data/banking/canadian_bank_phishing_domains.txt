@@ -139,6 +139,7 @@ accwebservice.com
 admin.myrbcsecure.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
+adyen-bancatransilva-cibc.com.ph
 aeasyweb.lji.dlj.mybluehost.me
 alberta-account.ca
 albertahealthservicesinteraconlinetransfer.hostclone.com
@@ -147,7 +148,7 @@ alert4scotiabinfoverify.com
 alertmyscotia-ca.com
 alerts-rbc.com
 alertsbmo.com
-alpha.cibcinsuranceservice.com
+alrajhibank-cibc.ph
 alu0td4.pro
 amende-enligne-qc.com
 anixter-rbc.tk
@@ -345,6 +346,7 @@ cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
 cibc-digital-business-verify.com
+cibc-help-login.com.ph
 cibc-infoapp.com
 cibc-log2.com
 cibc-mobi.me
@@ -355,7 +357,6 @@ cibc-online.work
 cibc-onlinebanking.website
 cibc-register.com
 cibc-security.com
-cibc-signal.com.ph
 cibc-sms-supports.com
 cibc-update-online.net
 cibc-webmobile.simcoecountywastesurvey.ca
@@ -736,13 +737,13 @@ fondsdesjardins.com
 fondsrecuvirementetransfer055.com
 ftp.td4lsebi.com
 gatewayinterac.com
-gccyfsecure.antiguascotiabank.com
 getdeposit-lnteractransfer.live
 gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
 gov-revenue-interac.com
 granada1td.com
 happynoticefromstdbnkficaupdates.syd1.cdn.digitaloceanspaces.com
+hdfcbank-cibc-iberdrola.com.ph
 hdthtjdthrgzegcghthtgfe4dtd.s3.eu-de.cloud-object-storage.appdomain.cloud
 helpdeskscotiaonline.com
 helpdesktd.com
@@ -1047,6 +1048,7 @@ mobile-scotia4.app.link
 mobile.scotiabank.ca.qc.ssl-v5-f-5h-6d.com
 mobile.updatescotia.crystalls.com
 mobilityinterac.com
+momentmakers.authcibc.com
 mon-espace-securise-interac.com
 moncompte-bmo.net
 moncomptebmo-enligne.net
@@ -1067,6 +1069,7 @@ myapp-easyweb.com
 myappweb-td.com
 myblog-awtdj0ki7v.live-website.com
 myblog-z22n9e0tde.live-website.com
+myhermes-cibc-ziraatbank.com.ph
 mymotd.kr
 myonline-clbcportal.com
 myonlinebankingscotia.info
@@ -1333,7 +1336,7 @@ royalbankinternational.com
 royalbanklivechat.com
 royalbankpacific.com
 royalbankpacificsupport.com
-royalbankpst.com
+royalbankquet.party
 royalbankrbc.org
 royalbanks.me
 royalbankverifycompleteid.com
@@ -1423,6 +1426,7 @@ scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
+scotiabank.luminatesec.com
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
 scotiabank.security.zya.me
@@ -1555,6 +1559,7 @@ secure-scotiabank.sytes.net
 secure-site-builder--currentd.replit.app
 secure-supportdeskportal.live
 secure-truth-06ce.b8ktd1ll.workers.dev
+secure.antiguascotiabank.com
 secure.rbcbankroyale.com
 secure.royalbank.erafde.com
 secure.royalbank.irercc.com
@@ -1882,7 +1887,9 @@ whiterosetaxaccounting.ca
 wileyaccountingupdates.ca
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
+ww16.supersets.scotiabankrewards.com
 ww4td-dh8o4-sonuiq.cyou
+ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
