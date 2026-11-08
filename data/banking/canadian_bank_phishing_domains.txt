@@ -150,6 +150,7 @@ alertsbmo.com
 alu0td4.pro
 amende-enligne-qc.com
 anixter-rbc.tk
+api.access.cibcmelon.com
 api.rbc.design
 api.scotiaconnect-business.cc
 app-bmo-enligne.net
@@ -341,6 +342,7 @@ cibc-a.com
 cibc-a.net
 cibc-bank-support.com
 cibc-banking.base-acess.com
+cibc-bankofamerican.ph
 cibc-check212.com
 cibc-clients.com
 cibc-digital-business-verify.com
@@ -753,6 +755,7 @@ https.mail.office.cgtvgldh1ta62dvbx09k116b3hjhc.td2yjdtk98ruih1v79ov6.tygzz406pp
 httpswww1scotiabankcomuyscotiaenlinea.htmloutl.repl.co
 huyazhibo-td.com
 hw01-tdb-payoff0091292664-listedout.s3.eu-de.cloud-object-storage.appdomain.cloud
+hyundai-scotiabank.com.ph
 i-nterac-a-2418.live
 i.e.t.interac.ca-fw.club
 i.e.t.interac.ca-ise.net
@@ -766,6 +769,7 @@ in-terac-confirme.com
 infocaisse-secure.xyz
 infointerace.ca
 infosdesj-confirm.com
+ingreso1scotiabank.com.mx
 ingresoweb-1.scotiabank0.repl.co
 int-erac1101.live
 interac-1-webtrustca.com
@@ -1247,7 +1251,6 @@ rbcroyalbank.com.kerjapandai.com
 rbcroyalbank.com.tacosdonmanolito.com
 rbcroyalbank.mallmannconsultoria.com.br
 rbcroyalbank.netlify.app
-rbcroyalbank.odyssey-search.info
 rbcroyalbank.saudabile.com.br
 rbcroyalbank.top
 rbcroyalbank.web-online1.com
@@ -1331,6 +1334,7 @@ royalbankinternational.com
 royalbanklivechat.com
 royalbankpacific.com
 royalbankpacificsupport.com
+royalbankplazaretail.com
 royalbankrbc.org
 royalbanks.me
 royalbankverifycompleteid.com
@@ -1418,6 +1422,7 @@ scotiabank.ca.ssl9-cds-secure.com
 scotiabank.ca.w3-f5-d43-q0.com
 scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
+scotiabank.de
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
@@ -1879,6 +1884,8 @@ whiterosetaxaccounting.ca
 wileyaccountingupdates.ca
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
+ww17.console.scotiabankrewards.com
+ww38.dashboard.scotiabankrewards.com
 ww4td-dh8o4-sonuiq.cyou
 www-1auth-td.com
 www-bmo-servicesenligne.com
