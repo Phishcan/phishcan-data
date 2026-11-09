@@ -133,6 +133,7 @@ accwebmouv-desjardin.com
 accwebs01mouvdesjardins.com
 accwebservice.com
 admin.myrbcsecure.com
+admin.scotiabankmarathon.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
 advicedirect-bmo-login.com
@@ -148,15 +149,12 @@ alertsbmo.com
 amende-enligne-qc.com
 angelsamongstdemons.com
 anixter-rbc.tk
-api.m.scotiabank-secure.info
 api.rbc.design
 api.scotiaconnect-business.cc
 app-bmo-enligne.net
 app-online-rbc.com
 app-tdweb.com
-app.scotiabank-secure.info
 appfb-8b84f4kvtd8q5.cali.de
-applinks.sterbcroyalbank.com
 appltdswebs.com
 apptd-easywb.com
 as85485-interac.gogss.com
@@ -218,7 +216,7 @@ autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
 avisoscotia.x10.bz
 azuresecurefiletransfer.com
-bankingconnectscotiabank.com
+backoffice.ensecurescotiaonline.com
 bankofmontreal.cc
 barefootdesertcamp.in
 bdcd-interac.com
@@ -368,7 +366,6 @@ cibc.web-2app.com
 cibc.web-mobi2.com
 cibc0nline.com
 cibcaccess-portal.com
-cibcaccessonline.com
 cibcbankalert.com
 cibcc.ca
 cibcfcibalerts.tk
@@ -382,8 +379,6 @@ cibcoft.pl
 cibcon.gq
 cibconline-mobile.top
 cibconline.accessclientcard6.com
-cibconline.itsasoftware.com
-cibconlineassistance.com
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcplus.com
@@ -427,10 +422,10 @@ cra100-interacwebtrust-ca.com
 crapayments-interac.support
 credibility-check.agku4lor2td7681vwjkd57rl.com
 credito-scotiabank.sytes.net
-crkpazbm.scotiabank-secure.info
 cto-td.com
 currency-etransfer.live
 d0td1trlm.top
+dashboard.scotiabankmarathon.com
 decomosnfri29ntd.tk
 depositinteracrequest.com
 depositmoneytransfer.interac.qkvkervke.co.uk
@@ -463,8 +458,8 @@ desjsupp.com
 desjval.info
 dev-bnk-scotiabank-peru.pantheonsite.io
 dev-www1-royalbank-com.pantheonsite.io
+dev.scotiabankmarathon.com
 dghoic3vdi.spyrking-ingdirect.scotiabank-secure.info
-digital-business-verification-cibc.com
 directcaisseinfo.xyz
 docusign-jn7.relbilling-reltdz-com-s-account.workers.dev
 donotreply-fcibcibc.gq
@@ -493,7 +488,6 @@ e.t.interac.ca-acessd.club
 e.t.s.interac.ca-accesc.club
 e.t.s.interac.ca-app.club
 e.transfers.interac.ca-jc.org
-e5cfahthietoobaethie.www.ing-ingdirect.scotiabank-secure.info
 e6gta3td6ii6nab.qwo231sdx.club
 ea-sywebcrx.cfd
 ea-sywebvh.cfd
@@ -743,6 +737,7 @@ fondsrecuvirementetransfer055.com
 ftp.td4lsebi.com
 gatewayinterac.com
 getdeposit-lnteractransfer.live
+gip-ftlv-franche-comte.cibc.elap.io
 gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
 gov-revenue-interac.com
@@ -995,7 +990,6 @@ loginmicrsofthomelink.closetexpress.ca
 loginsecuretd.com
 m-1authwebtd.com
 m-authtd1.com
-m.scotiabank-secure.info
 mail-glp-com-protection_ref_key_nbqglbmo2d.msoft-sg.org
 mail.aootd.app
 mail.billingetransfer.org
@@ -1025,7 +1019,6 @@ main.d1rqan5j5td705.amplifyapp.com
 malay4-viral.my-ttd.com
 manage-wealthsimple.com
 md1td.arach4n.biz.id
-members.scotiabank-secure.info
 menusoia-td9g.vercel.app
 meridianconnector.org
 meridianonline.co
@@ -1036,7 +1029,6 @@ midnight-td.com
 minterac.ca
 miscotia.plataformawebdigital.com
 mmeer.shd-dhd0o.sdsd.mywealthsimple-logi.com
-mmu72-stg-f3qq-td0r1-10-09-2026-aa.pages.dev
 mobile-alert-scotia.com
 mobile-scotia1.app.link
 mobile-scotia4.app.link
@@ -1065,6 +1057,7 @@ myonline-clbcportal.com
 myonlinebankingscotia.info
 myootd.shop
 myscotiadevice.live
+myvi-enel-desjardins.ph
 myweb-app-td.com
 naa.rbc.mybluehost.me
 nationalbank.webcindario.com
@@ -1254,6 +1247,7 @@ rbcroyalbank.netlify.app
 rbcroyalbank.saudabile.com.br
 rbcroyalbank.top
 rbcroyalbank.web-online1.com
+rbcroyalbank.wpenginepowered.com
 rbcroyalbank1.com
 rbcroyalbank1.netlify.app
 rbcroyalbankcom.testdebit.co
@@ -1307,7 +1301,6 @@ royalbank-account-security.cfd
 royalbank-rbc.com
 royalbank-reset.com
 royalbank-unlock.link
-royalbank-verifyauth2fa.com
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1331,6 +1324,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
 royalbank.securityauditssl.com
+royalbank28.ph
 royalbank2fa.com
 royalbankatlas.com
 royalbankca-001-site1.gtempurl.com
@@ -1407,7 +1401,7 @@ scotiabank-help.com
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-jm.com
-scotiabank-secure.info
+scotiabank-jumia-bancogalicia.com.ph
 scotiabank-sign-in.com
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
@@ -1447,11 +1441,11 @@ scotiabankgift.com
 scotiabankhelpdesk.com
 scotiabankle.tonohost.com
 scotiabanklivehelpsupport.com
+scotiabankmarathon.com
 scotiabankpee.eshost.com.ar
 scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
-scotiabankphotoaward.com.cvrassociates.com
 scotiabankpr.eshost.com.ar
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
@@ -1472,7 +1466,6 @@ scotiabnkpersona.vastserve.com
 scotiabnvefiquecodig.c1.biz
 scotiacoenctabancapr.atwebpages.com
 scotiacolayuda.com
-scotiaconnect-business.cc
 scotiaconnect-reference3883.com
 scotiaconnect2fasecure.com
 scotiaconnectlogin.co.com
@@ -1558,7 +1551,6 @@ secure.rbcbankroyale.com
 secure.royalbank.erafde.com
 secure.royalbank.irercc.com
 secure1-ca-interac.com
-secure12-royalbank.ph
 secure1bmoonline.com
 secure1rbcroyal.com
 securebmo.com
@@ -1566,7 +1558,6 @@ securebmoonline.com
 securecibcverificator.com
 secureclbc.cc
 secureclbcaccountss.com
-securedscotiabankaccess.com
 securedscotiabanking.com
 secureinterac-id247.com
 secureinterac-id247.com.296413c29410513547.temporary.link
@@ -1608,9 +1599,8 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 specializedsilentdivisor.scotiabank0.repl.co
-spyrkwww.ing-ingdirect.scotiabank-secure.info
+staging.scotiabankmarathon.com
 sto-td.com
-store.ww17.jorgazsb.scotiabank-secure.info
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
 suntrustnationalbank.com
@@ -1816,13 +1806,11 @@ tdverificationplatform.com
 tdxpherefx.one
 terefuxetd.shop
 terms-bmo-online.com
-test.ww17.jorgazsb.scotiabank-secure.info
 the-accountantd-lordfilm.ru
 thrift.ww17.jorgazsb.scotiabank-secure.info
 tkmyctd.top
 toronto-accounting.ca
 tps-etransfer.org
-traefik.ww17.jorgazsb.scotiabank-secure.info
 transfer-interac.com
 transfer-lnterac.ca
 transfer-secured.ca
@@ -1840,7 +1828,6 @@ trustonsecurity.ca
 trusttd.world
 u35td.cfd
 u57td6duasv24safb6dp.richardl.xyz
-university.ww17.jorgazsb.scotiabank-secure.info
 unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
@@ -1849,7 +1836,6 @@ updateinfosclbc.com
 updatestdficaattnnotice.syd1.cdn.digitaloceanspaces.com
 updatewithoutdelay.safejpamzonsecure.shop
 upgarde.rbcroyalbankrbc.net
-uploads.ww17.jorgazsb.scotiabank-secure.info
 upwardsaverbc.com
 urchin-app-x2itd.ondigitalocean.app
 us-tdbank.com
@@ -1867,14 +1853,12 @@ verification-cra-interac-deposit.com.beccamartenson.com
 verificationscotiaregistry.com
 verify-rbclogin4.web.app
 verify-user-rbc.web.app
-verifywithscotiabankportal.com
 view-carr-logon-interac.com
 virement-lnterac-ca-bell.com
 virementinteracrecu0445.com
 virgin-atb.online
 w1bmo.org
 w1bmo.xyz
-warehouse.ww17.jorgazsb.scotiabank-secure.info
 was5td1.pro
 we.activate-tdauth1.com
 wealthsimple-axlip.com
@@ -1893,24 +1877,13 @@ webstartd-trezio.wixstudio.com
 webstd-itd-tokyo-ctie.dev
 wellwornbeautifulspyware.scotiabank02.repl.co
 whatsappl0td77w.onlaine.my.id
-wildcard.cibcbank.com
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
 ws.ww17.jorgazsb.scotiabank-secure.info
 wvz3td1.pro
-ww1.scotiabank-secure.info
-ww17.947a8257-0e3f-4bc1-8766-30249ed7bf1f.scotiabank-secure.info
-ww17.api.scotiabank-secure.info
-ww17.dikbsblog.scotiabank-secure.info
-ww17.tdwmxdikbsblog.scotiabank-secure.info
-ww3.ww17.jorgazsb.scotiabank-secure.info
-ww38.225b6b3b-e35a-4844-9e95-2a7afa746605.royalbank-interac.net
-ww38.7db107b9-0087-4bdb-9d9a-bc2ab00d2b80.royalbank-interac.net
-ww38.adc37a2e-abe6-46f4-a3b8-1a1cdd9ed3f3.royalbank-interac.net
-ww38.cpanel.royalbank-interac.net
-ww38.login.royalbank-interac.net
-ww38.test.royalbank-interac.net
-ww38.webmail.royalbank-interac.net
+ww25.scotiabankmarathon.com
+ww38.scotiabankmarathon.com
+ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
