@@ -53,7 +53,6 @@
 1td-gj.icu
 1tdverify.com
 1wvw.scotiaweb1-online-scotiabank.com
-22td.my
 23bmohelpmanagement.icu
 24hrstrustedtd.com
 254.38-return-from-revenue-agency-interac.mangoleafresort.in
@@ -145,7 +144,6 @@ accwebmouv-desjardin.com
 accwebs01mouvdesjardins.com
 accwebservice.com
 admin.myrbcsecure.com
-admin.scotiabankrewards.com
 admin.scotiaverificationregistry.com
 adobes.com.onlineaccountdownloadandviewaccountsskanemfcjxwh.intll1.com
 advicedirect-bmo-login.com
@@ -348,7 +346,6 @@ cibc-bank-support.com
 cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
-cibc-deutschebank-namepros.com.ph
 cibc-digital-business-verify.com
 cibc-infoapp.com
 cibc-log2.com
@@ -390,7 +387,6 @@ cibcoft.pl
 cibcon.gq
 cibconline-mobile.top
 cibconline.accessclientcard6.com
-cibconline.london8.net
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcplus.com
@@ -418,7 +414,6 @@ clbcsupport.com
 clbcverifysecurity.com
 clientportal-atb.ca
 cnd-tangerine.top
-cnl7td3.pro
 cobranza-scotiabank.memphis.mx
 colpatria12.scotiabank12.repl.co
 colpatria2.scotiabank22.repl.co
@@ -450,6 +445,7 @@ desjaccess-d.xyz
 desjadins-username-confirmdetails-67574.weebly.com
 desjar-verification.com
 desjardin-secu1672imp.com
+desjardinesassurancevie.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
 desjardins-accesportailsd.com
@@ -466,7 +462,10 @@ desjardins.creditunion-authority.com
 desjardins.pret-mutuel.com
 desjardins.versement.ca
 desjardins17.com
+desjardinsassuancevie.com
+desjardinsassuranceve.com
 desjardinsetf.ca
+desjardinsurancevie.com
 desjardinsval.info
 desjardns.creditunion-authority.com
 desjcan.com
@@ -483,8 +482,6 @@ dsj-accessd.desjardinsmaintenance.com
 dts2td04.pro
 e-interac.co
 e-interac.shop
-e-interac10.my
-e-interac2.my
 e-interac22.my
 e-interaca.org
 e-interacref.org
@@ -716,7 +713,6 @@ etransfers-interacs-ca-activater.tk
 etransfers-interacs-ca.ga
 etransfers-interacs.com
 etransfers-payment-ca.cf
-etransfers.co.uk
 etransfers.interac.ca-accesd8.com
 etransfers.interac.ca-accweb.best
 etransfers.interac.ca-agc.info
@@ -749,11 +745,12 @@ flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
-fs.royalbank.com
 ftp.td4lsebi.com
 fyi4td23.pro
 g1x9td12.pro
+g68td.top
 gatewayinterac.com
+gb2n0td58bj.xyz
 getdeposit-lnteractransfer.live
 getfleetdecaldepot.com
 gif1td30.pro
@@ -1023,6 +1020,7 @@ loginsecuretd.com
 lst7td03.pro
 m-1authwebtd.com
 m-authtd1.com
+m.scotiabankinverlat.com
 m747td11.pro
 mail-glp-com-protection_ref_key_nbqglbmo2d.msoft-sg.org
 mail.aootd.app
@@ -1074,7 +1072,6 @@ mon-espace-securise-interac.com
 moncompte-bmo.net
 moncomptebmo-enligne.net
 monsupportdecompte.info
-mta-sts.scotiabankrewards.com
 my-overviewtd.com
 my-rbc.us
 my-sharepoint-access.fusionenterprises.ca
@@ -1341,7 +1338,6 @@ revenueinteractransfer.com
 revenueqc-interac.ca
 revqc.alertsca.xyz
 royalalertbank.com
-royalbank-account-security.cfd
 royalbank-rbc.com
 royalbank-reset.com
 royalbank-unlock.link
@@ -1367,6 +1363,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
+royalbank.global
 royalbank.securityauditssl.com
 royalbank2fa.com
 royalbankatlas.com
@@ -1475,16 +1472,14 @@ scotiabankco.lpatria.win
 scotiabankcolpa1.tonohost.com
 scotiabankcolpa2.tonohost.com
 scotiabankcolpatriasecuri.ibx.lat
+scotiabankcontacto.com
 scotiabankdc.tonohost.com
 scotiabankdelperu.com
-scotiabankfiles.starbucs.com
 scotiabankga.tonohost.com
 scotiabankgift.com
 scotiabankhelpdesk.com
-scotiabankjamaica.com
 scotiabankle.tonohost.com
 scotiabanklivehelpsupport.com
-scotiabankmx.com
 scotiabankpee.eshost.com.ar
 scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
@@ -1643,6 +1638,7 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 specializedsilentdivisor.scotiabank0.repl.co
+staging.scotiabankmarathon.com
 sto-td.com
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
@@ -1668,7 +1664,6 @@ tangerineaccessrestore.com
 tangerinecellar.com
 tangerinecellar.org
 tangerinecellar.store
-tangerineclientbanking.com
 tangerinedrea.interportcorporateacademy.com
 tangerineindex.com
 tangerinespea.monster
@@ -1703,7 +1698,6 @@ td-icn.com
 td-ivanchev.ru
 td-jin.com
 td-kuk.si
-td-logln.com
 td-min.com
 td-mywebaccess.com
 td-oin.com
@@ -1765,7 +1759,6 @@ td1-acc-login.com
 td1-case120879.pages.dev
 td1-login-acc1.com
 td1.367450.com
-td169game.com
 td18h.com
 td19343-spec.github.io
 td1ghkfxvtkghsu.qwo231sdx.club
@@ -1781,11 +1774,10 @@ td53.com
 td553.com
 td5aphrvudrf25kurpierckkza.qwo231sdx.club
 td5i4zba0r.ieneeengsub.com
-td5ri8ykuwj.pro
 td6.367450.com
 td666.click
 td6rf.gugop.biz.id
-td777.mobi
+td7hptvn.top
 td7pt-4r5lt-nxuein.work
 td88m.vip
 td903.inspectionprocedure.shop
@@ -1901,7 +1893,6 @@ virementinteracrecu0445.com
 virgin-atb.online
 w1bmo.org
 w1bmo.xyz
-was5td1.pro
 we.activate-tdauth1.com
 wealthsimple-axlip.com
 wealthsimple-nqxip.com
@@ -1922,9 +1913,6 @@ whatsappl0td77w.onlaine.my.id
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
 wvz3td1.pro
-ww1.royalbankrbc.com
-ww17.app.rrbcroyalbank.com
-ww38.scotiabankrewards.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
@@ -1947,7 +1935,14 @@ www6.rbc.com.webapp.ukv0.signin.logon.xhtml.coffeeteanews.com
 www6.rbc.com.webapp.ukv0.signin.logon.xhtml.makuc.com
 www6.rbc.com.webapp.ukv0.signin.logon.xhtml.mbkleinco.com
 www6.rbc.com.webapp.ukv0.signin.logon.xhtml.ruta-altiplano.com
+x6g9td.lol
+xbfq35td.lol
+y54qa2td.lol
+yf7um6td.lol
 yr314mkl2td38.dilocs.shop
+ys8td.lol
 yuhjomyygtrbcr.info
 yzf7td4.pro
+z16td8d9.lol
+z6b6td66.lol
 zd6w3td3.myutilitydomain.com

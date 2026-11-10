@@ -247,7 +247,6 @@ export const government_domains = [
   "taxinformationcuy.com",
   "taxpayments-rebate.com",
   "taxportal.link",
-  "taxservices.berlin",
   "taxserviceuk.com",
   "taxtransferpricing.info",
   "taxtransferpricing.org",
