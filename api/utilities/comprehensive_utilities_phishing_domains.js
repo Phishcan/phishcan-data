@@ -719,6 +719,7 @@ export const utilities_domains = [
   "rogerscommunicationsvbnm.weebly.com",
   "rogersemailverification011.square.site",
   "rogersgardenssupplies.com",
+  "rogershawwebmail.weebly.com",
   "rogersinvoice.com",
   "rogersinvoice.wpengine.com",
   "rogerslogin.vercel.app",

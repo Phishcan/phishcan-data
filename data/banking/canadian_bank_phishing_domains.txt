@@ -1020,7 +1020,6 @@ loginsecuretd.com
 lst7td03.pro
 m-1authwebtd.com
 m-authtd1.com
-m.scotiabankinverlat.com
 m747td11.pro
 mail-glp-com-protection_ref_key_nbqglbmo2d.msoft-sg.org
 mail.aootd.app
@@ -1341,6 +1340,7 @@ royalalertbank.com
 royalbank-rbc.com
 royalbank-reset.com
 royalbank-unlock.link
+royalbank-verifyonline.com
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1363,7 +1363,6 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
-royalbank.global
 royalbank.securityauditssl.com
 royalbank2fa.com
 royalbankatlas.com
@@ -1397,6 +1396,7 @@ scotia-ca.com
 scotia-ca956.web.app
 scotia-clientvalidation.one
 scotia-connect.co.com
+scotia-csausa-uat.castineapps.com
 scotia-d6547.firebaseapp.com
 scotia-e6048.vercel.app
 scotia-infos-alerts.com
@@ -1472,7 +1472,6 @@ scotiabankco.lpatria.win
 scotiabankcolpa1.tonohost.com
 scotiabankcolpa2.tonohost.com
 scotiabankcolpatriasecuri.ibx.lat
-scotiabankcontacto.com
 scotiabankdc.tonohost.com
 scotiabankdelperu.com
 scotiabankga.tonohost.com
@@ -1638,7 +1637,6 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 specializedsilentdivisor.scotiabank0.repl.co
-staging.scotiabankmarathon.com
 sto-td.com
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
@@ -1913,6 +1911,7 @@ whatsappl0td77w.onlaine.my.id
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
 wvz3td1.pro
+ww38.onlinescotiabank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
