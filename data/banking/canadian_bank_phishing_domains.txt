@@ -368,7 +368,6 @@ cibc-report.com
 cibc-security.com
 cibc-sms-supports.com
 cibc-update-online.net
-cibc-verification.com
 cibc-webmobile.simcoecountywastesurvey.ca
 cibc.2app-access.com
 cibc.accessclientcard01.com
@@ -401,7 +400,6 @@ cibcoft.pl
 cibcon.gq
 cibconline-mobile.top
 cibconline.accessclientcard6.com
-cibconline.cibc.com.olbtxn.mercopelrecycling.com.ar
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcplus.com
@@ -1445,7 +1443,6 @@ scotiabank-1.scotiabankverif.repl.co
 scotiabank-1.scotiaverify.repl.co
 scotiabank-alert.net
 scotiabank-canalesvirtuales.com
-scotiabank-car-loans-top.pages.dev
 scotiabank-chat.web.app
 scotiabank-cl.com
 scotiabank-gift.com
@@ -1491,6 +1488,8 @@ scotiabankdelperu.com
 scotiabankga.tonohost.com
 scotiabankgift.com
 scotiabankhelpdesk.com
+scotiabankhilton2019.photoboxco.com
+scotiabankjamaica.officespacesoftware.com
 scotiabankle.tonohost.com
 scotiabanklivehelpsupport.com
 scotiabankpee.eshost.com.ar
@@ -1839,7 +1838,6 @@ tdroneservices.com
 tdrs-service.ru
 tds-ca-dpm-prod-live-frontend.tdse.now.hclsoftware.cloud
 tdsdhfdhdfhfdhf.oncartx.io
-tdsecure-portal.com
 tdt9t8ms6zz.aidirhowwemadeitinafrica.com
 tdtmyurx.guru
 tdtmyurx.shop
@@ -1849,7 +1847,6 @@ tdupgradesecure.com
 tduser.loginauthentication.drhatemnouman.com
 tduserverificationalert.radiofeyesperanzadeguatemala.com
 tdverificationplatform.com
-tdxpherefx.one
 terefuxetd.shop
 terms-bmo-online.com
 thrift.ww17.jorgazsb.scotiabank-secure.info
@@ -1876,7 +1873,6 @@ unlockmyscotiaonline.one
 unovasaverbc.com
 update-online.innerfitnesstd.com
 update-scotia-secure.com
-update.propiedadesusadas-scotiabank.yumearth.cz
 updateinfosclbc.com
 updatestdficaattnnotice.syd1.cdn.digitaloceanspaces.com
 updatewithoutdelay.safejpamzonsecure.shop

@@ -189,6 +189,7 @@ export const government_domains = [
   "online.claim-taxonlinegovernment.com",
   "onlines.claim-taxonline-govusa.com",
   "ontariocovidsupport.ca",
+  "optus.myonlineservicecanada.com",
   "parceipostcanada.com",
   "parcel-canada-postecanada.codeanyapp.com",
   "parcel-canadapostweb-date.com",
