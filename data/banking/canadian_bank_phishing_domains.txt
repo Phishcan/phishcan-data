@@ -62,6 +62,7 @@
 346r9ghmuv47fb7tdcz4mxpvwk0g4si6.ocalam.com
 377381-interac.com
 38912-interac.com
+3s2h1td.cn
 3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app
 4031-interac-23.com
 4733-interac.com
@@ -178,6 +179,7 @@ assistance-caisse.servehttp.com
 atb-businessslogin.com
 atb-online-ban-king.com
 atb-online.org
+atb.bet
 atb.support
 atbmobile-support.com
 atbonline1.com
@@ -325,6 +327,7 @@ canada-interac.ca
 canada-interac.com
 canada-interactrust-web-1.com
 canada.rbcbank.cc
+canadahousingmarketdata.ca
 canadapostdele.ca
 canadasecureinterac.serveo.net
 canadatrust-interacwebsave.com
@@ -348,6 +351,7 @@ cibc-bank-support.com
 cibc-banking.base-acess.com
 cibc-check212.com
 cibc-clients.com
+cibc-digital-auth.com
 cibc-digital-business-verify.com
 cibc-digital-business.me
 cibc-digital-business.net
@@ -361,10 +365,10 @@ cibc-online.com
 cibc-online.net
 cibc-online.work
 cibc-onlinebanking.website
-cibc-portailsupport.com
 cibc-register.com
 cibc-report.com
 cibc-security.com
+cibc-services.support
 cibc-sms-supports.com
 cibc-update-online.net
 cibc-webmobile.simcoecountywastesurvey.ca
@@ -455,7 +459,6 @@ depositreqinterac.com
 desjaccess-d.xyz
 desjadins-username-confirmdetails-67574.weebly.com
 desjar-verification.com
-desjardin-secu1672imp.com
 desjardinesassurancevie.com
 desjardins-accesd-web.online
 desjardins-accesportails.com
@@ -528,7 +531,6 @@ easyweb-be.firebaseapp.com
 easyweb-ca-auth.cloud
 easyweb-mytd.com
 easyweb-td-authlogin.com
-easyweb-tdauth.com
 easyweb.td-on.limited
 easyweb.td-verification.com
 easywebbnpnortisbe.com
@@ -1073,6 +1075,7 @@ midasbuy-update-rewatd.xuanbao.icu
 midnight-td.com
 minterac.ca
 miscotia.plataformawebdigital.com
+mkwsl9ahmnb-48td.top
 mmeer.shd-dhd0o.sdsd.mywealthsimple-logi.com
 mobile-alert-scotia.com
 mobile-scotia1.app.link
@@ -1167,16 +1170,12 @@ postsfb-mu82td0ta9.novitium.ca
 ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru
 prest-scotiabnk.royalwebhosting.net
 prestationqc-interac.ca
-prospera.website
 prosperabit-ai.digital
 prosperacapitals.org
 prosperacapitaltrading.info
-prosperacompany.com
-prosperadsphere.online
 prosperagenius.com
 prosperahead.ru
 prosperaimports.com
-prosperamkt.cloud
 prosperamundi.info
 prosperando.org
 prosperaouro-dinamica.com
@@ -1215,7 +1214,6 @@ rbc-royalalerts.com
 rbc-royalbcanada.com
 rbc-royalbk.com
 rbc-royalbnk.netlify.app
-rbc-secu-user62863.com
 rbc-secure-verification.com
 rbc-service.cf
 rbc-syst-correction.com
@@ -1266,7 +1264,6 @@ rbchidraulica.com.br
 rbchomonlline.com
 rbclogin-line.web.app
 rbclogin.dd-dns.de
-rbclubronbearingsystems.com
 rbcmontgomery.com
 rbcnakaocanada.crabdance.com
 rbconlinesecurity.ca
@@ -1446,9 +1443,9 @@ scotiabank-alert.net
 scotiabank-canalesvirtuales.com
 scotiabank-chat.web.app
 scotiabank-cl.com
+scotiabank-connect.com
 scotiabank-gift.com
 scotiabank-glft.cc
-scotiabank-help.com
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
 scotiabank-info.com
@@ -1496,6 +1493,7 @@ scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
 scotiabankpr.eshost.com.ar
+scotiabankpreprod.retailse.com
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1550,7 +1548,6 @@ scotiaperuu.iceiy.com
 scotiapluscolon.in
 scotiapush.world
 scotiaqwmaw1lw.c1.biz
-scotiasecuredaccount.com
 scotiasecuritycenter.com
 scotiatrinidad.com
 scotiatrust-01-websecure.com
@@ -1564,7 +1561,6 @@ scotiavbzz.com
 scotiaverificationregistry.com
 scotiawealthmanagement.com.cobblestonesw.com
 scotiawebscotlabank.mx13.com.mx
-scotiawindscreens.com
 scotla-comect.cc
 scotla-online.com
 scotlabakmsd.buzz
@@ -1597,7 +1593,6 @@ secure-royalcanadarbc.com
 secure-royalrbc.com
 secure-scotiabank.net
 secure-scotiabank.sytes.net
-secure-scotiaconnect.com
 secure-site-builder--currentd.replit.app
 secure-supportdeskportal.live
 secure-truth-06ce.b8ktd1ll.workers.dev
@@ -1643,6 +1638,7 @@ servicio-cliente-santdr-b8ca53.ingress-comporellon.ewp.live
 servus-dibatanservicerss.xyz
 servusandstay.de
 servusholdings.com
+servuskipraxis.at
 sign-in-tdcatrustweb.com
 sign-intrust-scotiaonline.com
 signin-cibc.com
@@ -1652,7 +1648,6 @@ signinattcomdynamicilriaploginm1z6lg6juw.hxiattdomainupdatevcs.workers.dev
 signinattcomdynamicilriaploginvpbtucenuf.attdomainserverauth.workers.dev
 simplii-financial.com
 specializedsilentdivisor.scotiabank0.repl.co
-staging.bills-royalbank.resheba.top
 subm-8td7b0hbhv10y.alhawyat.com.sa
 summary-etransfer.live
 suntrustnationalbank.com
@@ -1682,7 +1677,6 @@ td-auto.com
 td-bank-secure.com
 td-bankcanada.com
 td-biopreparat.com
-td-businessbanking.com
 td-ca-trust.club
 td-ca-trust.cyou
 td-ca-unverified-payees.com
@@ -1788,6 +1782,7 @@ td66.org
 td6rf.gugop.biz.id
 td777game.cam
 td7hptvn.top
+td88.wang
 td8jn5c.com
 td903.inspectionprocedure.shop
 td90u8.duckdns.org
@@ -1825,13 +1820,13 @@ tdfff.z13.web.core.windows.net
 tdftechnologies.com
 tdgzin36bqr86m89u4ks.mbservicesyorkshire.co.uk
 tdhconsultingservices.com
+tdiamondeone.com
 tdkojsyt.oncartx.io
 tdm-logistic.eu
 tdm-logstic.de
 tdmlogistic.de
 tdnt4x0c.top
 tdonline-ca.cyou
-tdpropertyservices.us
 tdreset-business.com
 tdroneservices.com
 tdrs-service.ru
@@ -1901,7 +1896,6 @@ w1bmo.xyz
 we.activate-tdauth1.com
 wealthsimple-axlip.com
 wealthsimple-nqxip.com
-wealthsimplefunds.com
 wealthsimpleinfos.com
 web.td-cabinet.com
 webapp-getdocumentodwnload-pacapp.malik-jaani786.workers.dev
@@ -1913,7 +1907,6 @@ webs.iiitd.edu.in
 webscotiavbaonline.com
 webserverhostdomain.365eservice.com.au
 webstartd-trezio.wixstudio.com
-webstd-itd-tokyo-ctie.dev
 wellwornbeautifulspyware.scotiabank02.repl.co
 whatsappl0td77w.onlaine.my.id
 worker-webmai-std-suite4e.ronlbfield.workers.dev
