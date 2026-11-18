@@ -1202,6 +1202,7 @@ export const utilities_domains = [
   "webshawmail.weebly.com",
   "webvideotron12.weebly.com",
   "weebmailleastlinkca.weebly.com",
+  "weebmailleastlinkcaa.weebly.com",
   "wm-cogeco-ca.framer.ai",
   "wm-shawlogin76.framer.website",
   "wm-webmail-shaw31.framer.website",
