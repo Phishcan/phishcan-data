@@ -206,7 +206,6 @@ auto-vendu.groupe-cibc.com
 autodiscover.sslcibc-verify.com
 autverifyrbconline.ddns.net
 avisoscotia.x10.bz
-ayuda.scotiabank.com.mx
 azuresecurefiletransfer.com
 bankofmontreal.cc
 bdcd-interac.com
@@ -347,6 +346,7 @@ cibc-report.com
 cibc-security.com
 cibc-sms-supports.com
 cibc-update-online.net
+cibc-updates.hzc.io
 cibc-webmobile.simcoecountywastesurvey.ca
 cibc.2app-access.com
 cibc.accessclientcard01.com
@@ -366,7 +366,6 @@ cibcadmin.com
 cibcbankalert.com
 cibcc.ca
 cibcdeviceadmin.com
-cibcdigitalbusiness.cc
 cibcdigitalbusiness.co.com
 cibcfcibalerts.tk
 cibcficb.com
@@ -405,7 +404,6 @@ clbcmobile.com
 clbcsecurity.com
 clbcsupport.com
 clbcverifysecurity.com
-client.cibc-recette.elap.tech
 clientportal-atb.ca
 cnd-tangerine.top
 cobranza-scotiabank.memphis.mx
@@ -1049,7 +1047,6 @@ onlineaccess-tdbank1.com
 onlinebanking-tdbank.duckdns.org
 onlinebanking.tdbank.com.authentication.login.2e4d508de463170e08b7662e4d508.wakeupbroadband.com
 onlinebanking.tdbank.com.zlinkyemen.com
-onlinescotiabankmobile.com
 onlinesheetdocsm1-secondary.z13.web.core.windows.net
 onlinetdcard.com
 p.updateinfotd.top
@@ -1235,6 +1232,7 @@ revqc.alertsca.xyz
 royalalertbank.com
 royalbank-rbc.com
 royalbank-unlock.link
+royalbank-web-secured.com
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1264,7 +1262,9 @@ royalbankca-001-site1.gtempurl.com
 royalbankcanada.live
 royalbanking-security.com
 royalbanklivechat.com
+royalbankofagent.com
 royalbankpacific.com
+royalbankpacificpartner.com
 royalbankrbc.org
 royalbanks.me
 royalbankverifycompleteid.com
@@ -1354,6 +1354,7 @@ scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
+scotiabank.school
 scotiabank.security.zya.me
 scotiabank.whereisacopwhenyouneedone.com
 scotiabank1.com
@@ -1378,8 +1379,8 @@ scotiabankpee.eshost.com.ar
 scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
+scotiabankplace.ca
 scotiabankpr.eshost.com.ar
-scotiabanks.com.mx
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
