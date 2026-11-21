@@ -1345,8 +1345,6 @@ scotiabank-jm.com
 scotiabank-sign-in.com
 scotiabank-yieldmorefinancing.ca
 scotiabank.assetlogins.com
-scotiabank.banco.pe
-scotiabank.beneficios.cl
 scotiabank.beonm.org
 scotiabank.ca.3ss-23r-s0.com
 scotiabank.ca.mms-c4d-2w3.com
@@ -1358,12 +1356,12 @@ scotiabank.ca.ssl9-cds-secure.com
 scotiabank.ca.w3-f5-d43-q0.com
 scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
-scotiabank.com.partner-viessmann.it
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
 scotiabank.net.pe
 scotiabank.security.zya.me
+scotiabank.uno
 scotiabank.whereisacopwhenyouneedone.com
 scotiabank1.com
 scotiabank9623.zendesk.com
@@ -1371,6 +1369,7 @@ scotiabanka.cc
 scotiabankalert-trinidad.com
 scotiabankalerts-trinidad.com
 scotiabankbt.tonohost.com
+scotiabankcaribbean-mastercard.com
 scotiabankcl.cc
 scotiabankco.lpatria.win
 scotiabankcolpa1.tonohost.com
@@ -1676,7 +1675,6 @@ tduser.loginauthentication.drhatemnouman.com
 tduserverificationalert.radiofeyesperanzadeguatemala.com
 tdverificationplatform.com
 terms-bmo-online.com
-testcibcsecurepay.com
 thrift.ww17.jorgazsb.scotiabank-secure.info
 tn1ugmytd01.pro
 toronto-accounting.ca
@@ -1742,8 +1740,8 @@ webstartd-trezio.wixstudio.com
 wellwornbeautifulspyware.scotiabank02.repl.co
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
-ww19.cibconlinebanking.com
 ww38.onlinescotiabank.com
+ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
