@@ -364,6 +364,7 @@ cibc0nline.com
 cibcaccess-portal.com
 cibcadmin.com
 cibcbankalert.com
+cibcbankingsecurity.com
 cibcc.ca
 cibcdeviceadmin.com
 cibcdigitalbusiness.co.com
@@ -388,11 +389,13 @@ cibcsecure-login.top
 cibcsecure-mobile.top
 cibcsecure-verify.top
 cibcsecure04-001-site1.etempurl.com
+cibcsecured1-cancelationportal.help
 cibcsecureo1-001-site1.htempurl.com
 cibcservice.com
 cibcsimpletrade.top
 cibcupdate.desbi.com.my
 cibcverify-logon.top
+cibcverifyme.com
 claim.secure-lnterac.com
 clbc-clbcreset.com
 clbc-oniine.com
@@ -1273,10 +1276,13 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
 royalbank.securityauditssl.com
+royalbank.world
 royalbank2fa.com
 royalbankatlas.com
 royalbankca-001-site1.gtempurl.com
+royalbankcanada.info
 royalbankcanada.live
+royalbankci.net
 royalbanking-security.com
 royalbanklivechat.com
 royalbankpacific.com
@@ -1292,6 +1298,7 @@ rsascotiaverification.com
 s.team-td.com
 sc0tia-blckd19.com
 sc0tiabaank.zya.me
+scan.royalbank.pro
 scotia-4287.netlify.app
 scotia-4500.netlify.app
 scotia-4536.web.app
@@ -1394,7 +1401,6 @@ scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
 scotiabankpr.eshost.com.ar
-scotiabanks.com.mx
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1421,8 +1427,6 @@ scotiaconnect-reference3883.com
 scotiaconnect2fasecure.com
 scotiaconnectlogin.co.com
 scotiaconnectonlineweb.com
-scotiaconnectreview.com
-scotiaconnectverification.com
 scotiadebank.world
 scotiadevicesecurelogin.com
 scotiaenlima.xyz
@@ -1512,6 +1516,7 @@ securebmoonline.com
 securecibcverificator.com
 secureclbc.cc
 secureclbcaccountss.com
+securedcreditcard.ca
 securedscotiabanking.com
 secureinterac-id247.com
 secureinterac-id247.com.296413c29410513547.temporary.link
@@ -1733,6 +1738,7 @@ victoria-td.ru
 view-carr-logon-interac.com
 virement-lnterac-ca-bell.com
 virementinteracrecu0445.com
+visa-scotiabank-tiff-screening-2026.com
 w1bmo.org
 w1bmo.xyz
 we.activate-tdauth1.com
