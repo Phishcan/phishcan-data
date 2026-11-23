@@ -147,6 +147,7 @@ export const government_domains = [
   "deliveries-postcanada.ca",
   "delivery-postcanada.com",
   "designingstudio.online",
+  "detailedcarcleaningservicesvancouver.com",
   "directdepositmoneytransfer.cra.bahiabonitaflat.com.br",
   "directdepositmoneytransfer.cra.tahrin.com.tr",
   "e.canada-post-office.one",
