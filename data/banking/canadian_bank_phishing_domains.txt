@@ -721,6 +721,8 @@ flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
+fr-cle-digitale-mescomptes.com
+gatewayinterac.com
 getdeposit-lnteractransfer.live
 gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
@@ -1010,7 +1012,6 @@ moncompte-bmo.net
 moncomptebmo-enligne.net
 monerisos.com
 monsupportdecompte.info
-mrpitapi.access.cibcmelon.com
 my-overviewtd.com
 my-rbc.us
 my-sharepoint-access.fusionenterprises.ca
@@ -1276,8 +1277,8 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
+royalbank.pro
 royalbank.securityauditssl.com
-royalbank.shop
 royalbank2fa.com
 royalbankatlas.com
 royalbankca-001-site1.gtempurl.com
@@ -1375,7 +1376,6 @@ scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
-scotiabank.neored.ai
 scotiabank.net.pe
 scotiabank.security.zya.me
 scotiabank.whereisacopwhenyouneedone.com
@@ -1403,7 +1403,7 @@ scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
 scotiabankpr.eshost.com.ar
-scotiabankretirees.vengo.com
+scotiabankpreprod.retailse.com
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1761,11 +1761,7 @@ webstartd-trezio.wixstudio.com
 wellwornbeautifulspyware.scotiabank02.repl.co
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
-ww16.beta.scotiabankrewards.com
-ww17.scotiabankinverlat.com
-ww38.cpcontacts.royalbank-interac.net
 ww38.onlinescotiabank.com
-ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net

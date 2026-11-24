@@ -394,6 +394,7 @@ export const utilities_domains = [
   "eastlinkcenteraccess.framer.wiki",
   "eastlinkcustomercareservicestea.weebly.com",
   "eastlinkeg.com",
+  "eastlinkghhfjf.weebly.com",
   "eastlinkhgdghfjj.weebly.com",
   "eastlinkhomeofpeace.webflow.io",
   "eastlinkligfhfhdf.weebly.com",
