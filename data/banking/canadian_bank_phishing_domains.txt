@@ -342,7 +342,6 @@ cibc-online.net
 cibc-online.work
 cibc-onlinebanking.website
 cibc-register.com
-cibc-report.com
 cibc-security.com
 cibc-sms-supports.com
 cibc-update-online.net
@@ -361,10 +360,8 @@ cibc.web-2app.com
 cibc.web-mobi2.com
 cibc0nline.com
 cibcaccess-portal.com
-cibcbank.com
 cibcbankalert.com
 cibcc.ca
-cibcdeviceadmin.com
 cibcdigitalbusiness.co.com
 cibcfcibalerts.tk
 cibcficb.com
@@ -498,6 +495,7 @@ easyweb.td-verification.com
 easywebbnpnortisbe.com
 easywebdesignpros.com
 easywebea.cfd
+easywebit.cloud
 easywebpage.xyz
 easywebserveci.link
 easywebservice.link
@@ -505,6 +503,7 @@ easywebserviice.link
 easywebsite.ro
 easywebsolution.net
 easywebstatistics.com
+easywebtd.cc
 easywebwallet.com
 egift.rbc.usafeaustralia.com.au
 einterac.net
@@ -892,6 +891,7 @@ interacerefund.com
 interacetrans.com
 interacgateway.com
 interacgov-ref.org
+interacitivebrokers.com
 interaclaim-funds120.com
 interacllc.com
 interacmoney.agency
@@ -944,7 +944,6 @@ laurentiandominioninstitute.org
 laurentianmonument.com
 lebocoin.groupe-cibc.com
 ledgr-walt-secure-td.typedream.app
-lfee6bmo.top
 lnt3raclaimfnds.pro
 lnterac-deposit.co
 lnterac-id1849128.cfd
@@ -1011,6 +1010,7 @@ moncompte-bmo.net
 moncomptebmo-enligne.net
 monerisos.com
 monsupportdecompte.info
+mrpitapi.access.cibcmelon.com
 my-overviewtd.com
 my-rbc.us
 my-sharepoint-access.fusionenterprises.ca
@@ -1041,8 +1041,8 @@ nextpayments-authverif-lnterac-ca.precisiongroup.org
 notify.paymentsinterac.ca
 nw-secure-setdevice-icancel.com
 nwsecurity-setdevice-icancel.com
+o71rbc9j.top
 office365dumc0med5cibcugnc7dkvci2qbmrzo72wkguova62vqkkcib.softmail1.workers.dev
-omni.royalbank.com
 oneinteracrefund.live
 online-rb-c.netlify.app
 online-rbc-royal.netlify.app
@@ -1053,6 +1053,7 @@ online.livebmo.com
 online.scotiabank.mx01online.com
 online.scotiabank.mxdigital987.com
 online1atbaccess.com
+online2farbcverification.com
 onlineaccess-tdbank1.com
 onlineauthtd2fa.help
 onlinebanking-tdbank.duckdns.org
@@ -1083,6 +1084,7 @@ prosperacapitaltrading.info
 prosperaco.net
 prosperagenius.com
 prosperahead.ru
+prosperai.sbs
 prosperamundi.info
 prosperando.org
 prosperaouro-dinamica.com
@@ -1090,7 +1092,6 @@ prosperaouro-dinamica.top
 prosperavillas.com
 protection-cibc.com
 protectmyidentity-cibc.com
-publicwebapps.royalbank.com
 r0ger-lnterac.com
 r0yalbank-secure0nline12.info
 rbc-01.netlify.app
@@ -1102,6 +1103,7 @@ rbc-5ce44.web.app
 rbc-5dba56.netlify.app
 rbc-8766.netlify.app
 rbc-8a0c63.netlify.app
+rbc-activation.com
 rbc-bnk.com
 rbc-c2d68f.netlify.app
 rbc-ca.com
@@ -1197,7 +1199,6 @@ rbcroyalbank.mallmannconsultoria.com.br
 rbcroyalbank.netlify.app
 rbcroyalbank.saudabile.com.br
 rbcroyalbank.top
-rbcroyalbank.vip
 rbcroyalbank.web-online1.com
 rbcroyalbank1.com
 rbcroyalbank1.netlify.app
@@ -1219,6 +1220,7 @@ rbctrustroyalcanada.com
 rbcu2.my03.com
 rbcverification.com
 rbcverify.com
+rbcverify2faauthentification.com
 rbcwealthmanagement.charitypro.ca
 rbcweb-alert.com
 rbcwebsecured.com
@@ -1251,6 +1253,7 @@ royalalertbank.com
 royalbank-rbc.com
 royalbank-security-web.com
 royalbank-unlock.link
+royalbank-web-secured.com
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1274,6 +1277,7 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
 royalbank.securityauditssl.com
+royalbank.shop
 royalbank2fa.com
 royalbankatlas.com
 royalbankca-001-site1.gtempurl.com
@@ -1307,6 +1311,7 @@ scotia-ca956.web.app
 scotia-clientvalidation.one
 scotia-connect-business.com
 scotia-connect.co.com
+scotia-connectlogin.com
 scotia-csausa-uat.castineapps.com
 scotia-d6547.firebaseapp.com
 scotia-e6048.vercel.app
@@ -1365,12 +1370,12 @@ scotiabank.ca.sco-rd2-3w.com
 scotiabank.ca.ssl-f45-sf.com
 scotiabank.ca.ssl9-cds-secure.com
 scotiabank.ca.w3-f5-d43-q0.com
-scotiabank.cash
 scotiabank.co.com
 scotiabank.com.mx.xtgco.cee0.xyz
 scotiabank.dudullc.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.mx-xcom.xyz
+scotiabank.neored.ai
 scotiabank.net.pe
 scotiabank.security.zya.me
 scotiabank.whereisacopwhenyouneedone.com
@@ -1398,6 +1403,7 @@ scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
 scotiabankpr.eshost.com.ar
+scotiabankretirees.vengo.com
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1546,6 +1552,7 @@ servusandstay.de
 servusdoktor.at
 servusholdings.com
 servuskipraxis.at
+servustalk.com
 sign-in-tdcatrustweb.com
 sign-intrust-scotiaonline.com
 signin-cibc.com
@@ -1559,7 +1566,6 @@ siony-rbc.com
 sit3-cmo-cibc.com
 sopoort-accounttd.xyz
 specializedsilentdivisor.scotiabank0.repl.co
-staging.scotiabankrewards.com
 summary-etransfer.live
 suntrustnationalbank.com
 support.zoom.us.group-nbc.my.id
@@ -1577,6 +1583,8 @@ tangerine-upd.top
 tangerine-zone.com
 tangerine.online-auth.org
 tangerineaccessrestore.com
+tangerineacre.co
+tangerinehook.co
 tangerinespea.monster
 tangerinevault.top
 td-88.cam
@@ -1587,7 +1595,6 @@ td-authweb.net
 td-auto.com
 td-bank-secure.com
 td-bankcanada.com
-td-biopreparat.com
 td-ca-trust.club
 td-ca-trust.cyou
 td-ca-unverified-payees.com
@@ -1611,7 +1618,6 @@ td-kuk.si
 td-min.com
 td-mywebaccess.com
 td-oin.com
-td-order.com
 td-restore.info
 td-rin.com
 td-rmn.com
@@ -1621,7 +1627,6 @@ td-secure2fa.com
 td-securityaceess.top
 td-signon-easy.com
 td-sin.com
-td-tamaradesigns.com
 td-tec-de.com
 td-teplo.com
 td-todiesk.com.cn
@@ -1681,6 +1686,7 @@ tdcardunlock.com
 tdfff.z13.web.core.windows.net
 tdgzin36bqr86m89u4ks.mbservicesyorkshire.co.uk
 tdonline-ca.cyou
+tdpartnersportal.com
 tdreset-business.com
 tdroneservices.com
 tdtrustweb.com
@@ -1755,7 +1761,11 @@ webstartd-trezio.wixstudio.com
 wellwornbeautifulspyware.scotiabank02.repl.co
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
+ww16.beta.scotiabankrewards.com
+ww17.scotiabankinverlat.com
+ww38.cpcontacts.royalbank-interac.net
 ww38.onlinescotiabank.com
+ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
