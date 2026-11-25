@@ -102,6 +102,7 @@ acceuil-bmo.com
 acceuil-client-bmo.com
 accmouvdesj01ardins.com
 account-check.co.jp.zhtatd.ga
+account.cibcity.com
 account.ftdropsnetworks.live
 accweb-desjardins-enligne-securite.com
 accweb-mouv-desjardins.com
@@ -140,6 +141,7 @@ api.rbc.design
 api.scotia-connect-business.com
 api.scotiaconnect-business.cc
 api.scotiaconnect-businessdigital.co.com
+api2.cibcbank.com
 app-bmo-enligne.net
 app-online-rbc.com
 app-tdweb.com
@@ -246,6 +248,7 @@ bmo5.azurewebsites.net
 bmoalto-login.com
 bmobankcandien.com
 bmobankingverfiermail.com
+bmoclientsecurity.com
 bmodeviceregister.com
 bmofunancialbank1verification661.ga
 bmofunancialbank1verification661.ml
@@ -254,6 +257,7 @@ bmolive.help
 bmonlinemedia.online
 bmoonlinebanking.co.com
 bmoreferral.com
+bmoreflow.com
 bmosecure.co
 bmoservice-alert.com
 bmosign-inonline.com
@@ -326,6 +330,7 @@ cibc-a.com
 cibc-a.net
 cibc-bank-support.com
 cibc-banking.base-acess.com
+cibc-canada.com
 cibc-check212.com
 cibc-clients.com
 cibc-digital-business-verify.com
@@ -342,6 +347,7 @@ cibc-online.net
 cibc-online.work
 cibc-onlinebanking.website
 cibc-register.com
+cibc-secureportalacces.com
 cibc-security.com
 cibc-sms-supports.com
 cibc-update-online.net
@@ -374,6 +380,7 @@ cibcoft.pl
 cibcon.gq
 cibconline-mobile.top
 cibconline.accessclientcard6.com
+cibconline.pages.dev
 cibconlinelogin.com
 cibconlinesupport.000webhostapp.com
 cibcplus.com
@@ -387,6 +394,7 @@ cibcsecureo1-001-site1.htempurl.com
 cibcservice.com
 cibcsimpletrade.top
 cibcupdate.desbi.com.my
+cibcverificationplatform.com
 cibcverify-logon.top
 claim.secure-lnterac.com
 clbc-clbcreset.com
@@ -412,6 +420,7 @@ conexus-loyalty.xyz
 conexusgrp.top
 conexusgrp.xyz
 conexusloyalty.top
+conexusmedicals.com
 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
 cponeka-bmoo.my.id
 cra-interac-mobil.com
@@ -496,7 +505,6 @@ easywebbnpnortisbe.com
 easywebdesignpros.com
 easywebea.cfd
 easywebit.cloud
-easywebpage.xyz
 easywebserveci.link
 easywebservice.link
 easywebserviice.link
@@ -721,8 +729,6 @@ flido-lnteracpayeee.com
 flutter-td.com
 fondsdesjardins.com
 fondsrecuvirementetransfer055.com
-fr-cle-digitale-mescomptes.com
-gatewayinterac.com
 getdeposit-lnteractransfer.live
 gotointerac.online.deposit.now.marketingbiz.com.au
 gov-lnterac.info
@@ -1042,6 +1048,7 @@ nextpayments-authverif-lnterac-ca.precisiongroup.org
 notify.paymentsinterac.ca
 nw-secure-setdevice-icancel.com
 nwsecurity-setdevice-icancel.com
+o-td.com
 o71rbc9j.top
 office365dumc0med5cibcugnc7dkvci2qbmrzo72wkguova62vqkkcib.softmail1.workers.dev
 oneinteracrefund.live
@@ -1147,7 +1154,6 @@ rbc.royalbankofcanada-online1-secure-login1.wallsandfences.com.au
 rbc.royalbankofcanada-online1-secure-signin1.wallsandfences.com
 rbc.royalbankofcanada-online1-secure-signin1.wallsandfences.com.au
 rbc.royalbankofcanada-online1-secure-signon1.eg-design.net
-rbc.ru.com
 rbc.secure-enligne.com
 rbc.secureid-ca.com
 rbc.sg
@@ -1210,6 +1216,7 @@ rbcroyalbark.com
 rbcroyalbkinfo.com
 rbcroyalbkinfos.com
 rbcroyalbkonline.com
+rbcroyalbonline.com
 rbcroyalert.com
 rbcroyalfinance.com
 rbcroyalnbalert.com
@@ -1277,8 +1284,8 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f81f-f21ibrequest.top
 royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
-royalbank.pro
 royalbank.securityauditssl.com
+royalbank.shop
 royalbank2fa.com
 royalbankatlas.com
 royalbankca-001-site1.gtempurl.com
@@ -1290,6 +1297,7 @@ royalbankrbc.org
 royalbanks.me
 royalbankverifycompleteid.com
 royalcanadasecure.com
+royalmeridian.pro
 royalrbc-info.com
 royalrbconline.com
 royalrbcverify.com
@@ -1319,7 +1327,6 @@ scotia-e6048.vercel.app
 scotia-infos-alerts.com
 scotia-infosalerts.com
 scotia-level3upgrade.litlls.buzz
-scotia-myapp.com
 scotia-online-info.com
 scotia-online.net
 scotia-protege-online.zya.me
@@ -1357,7 +1364,6 @@ scotiabank-gift.com
 scotiabank-glft.cc
 scotiabank-helpcentre.com
 scotiabank-helpdesk.com
-scotiabank-info.com
 scotiabank-jm.com
 scotiabank-sign-in.com
 scotiabank-yieldmorefinancing.ca
@@ -1402,8 +1408,9 @@ scotiabankpee.eshost.com.ar
 scotiabankperu.eshost.com.ar
 scotiabankperum.eshost.com.ar
 scotiabankpeweb.eshost.com.ar
+scotiabankphotoaward.com.cvrassociates.com
 scotiabankpr.eshost.com.ar
-scotiabankpreprod.retailse.com
+scotiabankretirees.vengo.com
 scotiabanks.online-logins.com
 scotiabanks.sbusonline.com
 scotiabankseguridad.simon12345679.repl.co
@@ -1449,6 +1456,7 @@ scotianbnkas.casa
 scotianetuy-d.webcindario.com
 scotianext.info
 scotianiniciowieur.atwebpages.com
+scotiaonline-secure-login.com
 scotiaonline-web-service.com
 scotiaonline.com-ssl-m.top
 scotiaonline4auth.com
@@ -1513,7 +1521,6 @@ secure1-ca-interac.com
 secure1bmoonline.com
 secure1rbcroyal.com
 secureauthtd2fa.help
-securebeginningsmatter.ca
 securebmo.com
 securebmoonline.com
 securecibcverificator.com
@@ -1548,7 +1555,6 @@ service-scoti.scotiabank0.repl.co
 service223accountdisable-42115462verify.start.page
 servicio-cliente-santdr-b8ca53.ingress-comporellon.ewp.live
 servus-dibatanservicerss.xyz
-servusandstay.de
 servusdoktor.at
 servusholdings.com
 servuskipraxis.at
@@ -1723,6 +1729,7 @@ updateinfosclbc.com
 updatestdficaattnnotice.syd1.cdn.digitaloceanspaces.com
 updatewithoutdelay.safejpamzonsecure.shop
 upgarde.rbcroyalbankrbc.net
+uploader.scotiabank.battery.cam
 upwardsaverbc.com
 us-tdbank.com
 v1bmo.com
@@ -1761,6 +1768,9 @@ webstartd-trezio.wixstudio.com
 wellwornbeautifulspyware.scotiabank02.repl.co
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
+ww16.beta.scotiabankrewards.com
+ww17.scotiabankinverlat.com
+ww38.cpcontacts.royalbank-interac.net
 ww38.onlinescotiabank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
