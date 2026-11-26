@@ -91,7 +91,6 @@ canadarevenueonline.serveirc.com
 canadarevenuerefundtaxes.com
 canadianrevenueagency-refund.verifiermmauth.com
 carevenueagencyservice.com
-cashmycarcalgary.ca
 cbsa-asfc.directsmailsolution.com
 cbsa.dyndns.dk
 cc.canada-post-office.one
@@ -103,12 +102,10 @@ claimtrustcra.com
 colisinforelay.com
 cr43syfz.top
 cra-abt.icu
-cra-afghanistan.com
 cra-any.icu
 cra-arc.gc.ca8199.aimply.co.in
 cra-arcgc.igg.biz
 cra-assesment.online
-cra-athasc.site
 cra-aue.icu
 cra-avr.icu
 cra-certification.org
@@ -169,7 +166,6 @@ infocanadapost.com
 infocolis-relay.com
 infopostcanadatrack.com
 infopostcanadatracking.com
-infotaxi.com.ar
 inter-canada-deposit.ga
 lib-defined-edmonton-afraid.trycloudflare.com
 livraisonservice.info
@@ -244,6 +240,7 @@ taxaccountantsnetwork.com
 taxaccountanttoronto.com
 taxconnections.com
 taximontrealnord.taxi
+taxinfo.biz
 taxinformationcuy.com
 taxpayments-rebate.com
 taxpaymentservices.com
