@@ -125,7 +125,6 @@ aeasyweb.lji.dlj.mybluehost.me
 alberta-account.ca
 albertahealthservicesinteraconlinetransfer.hostclone.com
 albertahealthservicesinteraconlinetransfer.mahlobynklap.com
-alert-cibc.com
 alert4scotiabinfoverify.com
 alerts-rbc.com
 alertsbmo.com
@@ -157,6 +156,7 @@ atbservicesupdate.com
 atbupdateservices.com
 aut1h-easyweb.com
 auth-bankofamericasupport-easywebusa.com
+auth-cibc.com
 auth-rbcsecurity.serveirc.com
 auth-royalbank.com
 auth-td-online.link
@@ -206,7 +206,6 @@ autverifyrbconline.ddns.net
 avisoscotia.x10.bz
 azuresecurefiletransfer.com
 bankofmontreal.cc
-barbados.cibcbank.com
 bdcd-interac.com
 beta.duca.it
 billing-interactransfer.com
@@ -392,6 +391,7 @@ cibcservice.com
 cibcsimpletrade.top
 cibcupdate.desbi.com.my
 cibcverify-logon.top
+cibcwebonline.com
 claim.secure-lnterac.com
 clbc-clbcreset.com
 clbc-oniine.com
@@ -404,7 +404,6 @@ clbcsecurity.com
 clbcsupport.com
 clbcverifysecurity.com
 clientportal-atb.ca
-cms.scotiabankrewards.com
 cnd-tangerine.top
 cobranza-scotiabank.memphis.mx
 colpatria12.scotiabank12.repl.co
@@ -1083,6 +1082,7 @@ portail-accesdesjardins.com
 ppplejeiuuuiapppleubmoises.cb09918.tmweb.ru
 prest-scotiabnk.royalwebhosting.net
 prestationqc-interac.ca
+preva.scotiabank.cl
 prosperaai.app
 prosperabit-ai.digital
 prosperacapitals.org
@@ -1100,6 +1100,7 @@ prosperatechapp.com
 prosperavillas.com
 protection-cibc.com
 protectmyidentity-cibc.com
+qa.scotiabankrewards.com
 r0ger-lnterac.com
 r0yalbank-secure0nline12.info
 rbc-01.netlify.app
@@ -1246,7 +1247,6 @@ refundlnterac.com
 refurbconnects.help
 refurbconnex.help
 registerverificationscotia.com
-relay.royalbank.de
 reminder-interac.com
 reservation-lnteractransfer.live
 restablecimiento.scotia.repl.co
@@ -1263,7 +1263,6 @@ royalbank-rbc.com
 royalbank-security-web.com
 royalbank-unlock.link
 royalbank-web-secured.com
-royalbank.ai
 royalbank.cgi-bin-rbaccess-rbcgi2m01f21f-f73ibrequest.digital
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f73ibrequest.xyz
 royalbank.com.cgi-bin-rbaccess-rbcge3m01f21f-f75ibrequest.xyz
@@ -1287,8 +1286,10 @@ royalbank.com.cgi-bin-rbaccess-rbcgi3m01f91f-f21ibrequest.top
 royalbank.com.elpeetha.com.au
 royalbank.gcplibrary.com
 royalbank.securityauditssl.com
+royalbank.xyz
 royalbank2fa.com
 royalbankatlas.com
+royalbankbusiness-admin.com
 royalbankca-001-site1.gtempurl.com
 royalbankcanada.live
 royalbanking-security.com
@@ -1753,7 +1754,6 @@ w1bmo.xyz
 we.activate-tdauth1.com
 wealthsimple-axlip.com
 wealthsimple-nqxip.com
-web.antiguascotiabank.com
 web.td-cabinet.com
 webapp-getdocumentodwnload-pacapp.malik-jaani786.workers.dev
 webcaisse.barbersiamvp.com
@@ -1767,10 +1767,7 @@ webstartd-trezio.wixstudio.com
 wellwornbeautifulspyware.scotiabank02.repl.co
 worker-webmai-std-suite4e.ronlbfield.workers.dev
 worldwide-interactivepay.icu
-ww16.admin.scotiabankrewards.com
-ww17.beta.onlinescotiabank.com
 ww38.onlinescotiabank.com
-ww9.cibcbank.com
 www-1auth-td.com
 www-bmo-servicesenligne.com
 www-rbc-online.net
